@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 11,500 |
-| 最高已尝试 ID | 11,500 |
-| 最高已确认用户 ID | 11,500 |
-| 已确认博客 | 193 |
-| 公开 / 隐藏 / 不存在 / 未决 | 10,848 / 550 / 82 / 20 |
-| 最近成功更新 | 2026-08-30T14:33:36Z |
+| 已记录 ID | 11,750 |
+| 最高已尝试 ID | 11,750 |
+| 最高已确认用户 ID | 11,750 |
+| 已确认博客 | 194 |
+| 公开 / 隐藏 / 不存在 / 未决 | 11,084 / 563 / 83 / 20 |
+| 最近成功更新 | 2026-08-30T14:46:21Z |
 
 ## 博客索引
 
@@ -217,6 +217,7 @@
 | [11012](https://icourse.club/user/11012) | [mulious.github.io](https://mulious.github.io/) | 未检查 | 2026-08-30 |
 | [11406](https://icourse.club/user/11406) | [icourse.club/user/settings](https://icourse.club/user/settings/) | 未检查 | 2026-08-30 |
 | [11421](https://icourse.club/user/11421) | [auto.ustc.edu.cn/teacher\_details.php](https://auto.ustc.edu.cn/teacher_details.php?i=70) | 未检查 | 2026-08-30 |
+| [11706](https://icourse.club/user/11706) | [stardust-math.pages.dev](https://stardust-math.pages.dev/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
