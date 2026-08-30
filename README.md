@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 500 |
-| 最高已尝试 ID | 500 |
-| 最高已确认用户 ID | 500 |
-| 已确认博客 | 21 |
-| 公开 / 隐藏 / 不存在 / 未决 | 497 / 1 / 1 / 1 |
-| 最近成功更新 | 2026-08-30T05:12:05Z |
+| 已记录 ID | 750 |
+| 最高已尝试 ID | 750 |
+| 最高已确认用户 ID | 750 |
+| 已确认博客 | 27 |
+| 公开 / 隐藏 / 不存在 / 未决 | 744 / 4 / 1 / 1 |
+| 最近成功更新 | 2026-08-30T05:24:53Z |
 
 ## 博客索引
 
@@ -45,6 +45,12 @@
 | [455](https://icourse.club/user/455) | [ustczf.com](http://ustczf.com/) | 未检查 | 2026-08-30 |
 | [462](https://icourse.club/user/462) | [rat-racer.github.io](https://rat-racer.github.io/) | 未检查 | 2026-08-30 |
 | [470](https://icourse.club/user/470) | [home.ustc.edu.cn/~qzr](http://home.ustc.edu.cn/~qzr) | 未检查 | 2026-08-30 |
+| [502](https://icourse.club/user/502) | [home.ustc.edu.cn/~bourbaki](http://home.ustc.edu.cn/~bourbaki/) | 未检查 | 2026-08-30 |
+| [506](https://icourse.club/user/506) | [home.ustc.edu.cn/~fluorine](http://home.ustc.edu.cn/~fluorine/) | 未检查 | 2026-08-30 |
+| [511](https://icourse.club/user/511) | [ustchhy.me](http://ustchhy.me/) | 未检查 | 2026-08-30 |
+| [583](https://icourse.club/user/583) | [www.songchaow.cn](http://www.songchaow.cn/) | 未检查 | 2026-08-30 |
+| [601](https://icourse.club/user/601) | [home.ustc.edu.cn/~zt001062](http://home.ustc.edu.cn/~zt001062) | 未检查 | 2026-08-30 |
+| [634](https://icourse.club/user/634) | [cims.nyu.edu/~lz2088](http://cims.nyu.edu/~lz2088) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
