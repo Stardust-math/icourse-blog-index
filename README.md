@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 10,000 |
-| 最高已尝试 ID | 10,000 |
-| 最高已确认用户 ID | 10,000 |
-| 已确认博客 | 177 |
-| 公开 / 隐藏 / 不存在 / 未决 | 9,463 / 439 / 82 / 16 |
-| 最近成功更新 | 2026-08-30T13:17:16Z |
+| 已记录 ID | 10,250 |
+| 最高已尝试 ID | 10,250 |
+| 最高已确认用户 ID | 10,250 |
+| 已确认博客 | 180 |
+| 公开 / 隐藏 / 不存在 / 未决 | 9,695 / 457 / 82 / 16 |
+| 最近成功更新 | 2026-08-30T13:30:09Z |
 
 ## 博客索引
 
@@ -201,6 +201,9 @@
 | [9754](https://icourse.club/user/9754) | [n1uf.github.io](http://n1uf.github.io/) | 未检查 | 2026-08-30 |
 | [9775](https://icourse.club/user/9775) | [github.com/qc-1/Course-Materials](https://github.com/qc-1/Course-Materials) | 未检查 | 2026-08-30 |
 | [9872](https://icourse.club/user/9872) | [maimai.sega.jp](https://maimai.sega.jp/) | 未检查 | 2026-08-30 |
+| [10088](https://icourse.club/user/10088) | [atrionline.me](http://atrionline.me/) | 未检查 | 2026-08-30 |
+| [10141](https://icourse.club/user/10141) | [github.com/lixiang0622](https://github.com/lixiang0622) | 未检查 | 2026-08-30 |
+| [10151](https://icourse.club/user/10151) | [scientificlan.github.io](http://scientificlan.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
