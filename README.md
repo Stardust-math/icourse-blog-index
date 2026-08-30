@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 5,500 |
-| 最高已尝试 ID | 5,500 |
-| 最高已确认用户 ID | 5,500 |
-| 已确认博客 | 119 |
-| 公开 / 隐藏 / 不存在 / 未决 | 5,357 / 133 / 2 / 8 |
-| 最近成功更新 | 2026-08-30T09:27:44Z |
+| 已记录 ID | 5,750 |
+| 最高已尝试 ID | 5,750 |
+| 最高已确认用户 ID | 5,750 |
+| 已确认博客 | 124 |
+| 公开 / 隐藏 / 不存在 / 未决 | 5,593 / 145 / 3 / 9 |
+| 最近成功更新 | 2026-08-30T09:40:30Z |
 
 ## 博客索引
 
@@ -143,6 +143,11 @@
 | [5352](https://icourse.club/user/5352) | [himalalps.github.io](https://himalalps.github.io/) | 未检查 | 2026-08-30 |
 | [5396](https://icourse.club/user/5396) | [home.ustc.edu.cn/~brealid](https://home.ustc.edu.cn/~brealid) | 未检查 | 2026-08-30 |
 | [5409](https://icourse.club/user/5409) | [home.ustc.edu.cn/~eastwind](http://home.ustc.edu.cn/~eastwind/) | 未检查 | 2026-08-30 |
+| [5501](https://icourse.club/user/5501) | [leoneed.space](http://leoneed.space/) | 未检查 | 2026-08-30 |
+| [5560](https://icourse.club/user/5560) | [vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4](https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4) | 未检查 | 2026-08-30 |
+| [5676](https://icourse.club/user/5676) | [oybdooo.github.io](https://oybdooo.github.io/) | 未检查 | 2026-08-30 |
+| [5677](https://icourse.club/user/5677) | [www.zhihu.com/people/swayee2022](https://www.zhihu.com/people/swayee2022) | 未检查 | 2026-08-30 |
+| [5721](https://icourse.club/user/5721) | [home.ustc.edu.cn/~liuyuanche](http://home.ustc.edu.cn/~liuyuanche) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
