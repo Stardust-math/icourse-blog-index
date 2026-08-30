@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 10,750 |
-| 最高已尝试 ID | 10,750 |
-| 最高已确认用户 ID | 10,750 |
-| 已确认博客 | 186 |
-| 公开 / 隐藏 / 不存在 / 未决 | 10,148 / 501 / 82 / 19 |
-| 最近成功更新 | 2026-08-30T13:55:33Z |
+| 已记录 ID | 11,000 |
+| 最高已尝试 ID | 11,000 |
+| 最高已确认用户 ID | 11,000 |
+| 已确认博客 | 190 |
+| 公开 / 隐藏 / 不存在 / 未决 | 10,377 / 521 / 82 / 20 |
+| 最近成功更新 | 2026-08-30T14:08:26Z |
 
 ## 博客索引
 
@@ -210,6 +210,10 @@
 | [10379](https://icourse.club/user/10379) | [kangcanyao.github.io](http://kangcanyao.github.io/) | 未检查 | 2026-08-30 |
 | [10510](https://icourse.club/user/10510) | [cardigan0214.github.io](https://cardigan0214.github.io/) | 未检查 | 2026-08-30 |
 | [10627](https://icourse.club/user/10627) | [orcid.org/0000-0001-5614-4319](https://orcid.org/0000-0001-5614-4319) | 未检查 | 2026-08-30 |
+| [10782](https://icourse.club/user/10782) | [yuyangzhang2006.github.io](https://yuyangzhang2006.github.io/) | 未检查 | 2026-08-30 |
+| [10967](https://icourse.club/user/10967) | [www.newcastleunited.com/en](https://www.newcastleunited.com/en) | 未检查 | 2026-08-30 |
+| [10968](https://icourse.club/user/10968) | [proboscis-erkel.github.io](https://proboscis-erkel.github.io/) | 未检查 | 2026-08-30 |
+| [10979](https://icourse.club/user/10979) | [www.xn--fiqs8srwby7cba020i2hih02b.com](http://www.xn--fiqs8srwby7cba020i2hih02b.com/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
