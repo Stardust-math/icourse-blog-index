@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 6,750 |
-| 最高已尝试 ID | 6,750 |
-| 最高已确认用户 ID | 6,750 |
-| 已确认博客 | 136 |
-| 公开 / 隐藏 / 不存在 / 未决 | 6,451 / 204 / 82 / 13 |
-| 最近成功更新 | 2026-08-30T10:31:21Z |
+| 已记录 ID | 7,000 |
+| 最高已尝试 ID | 7,000 |
+| 最高已确认用户 ID | 7,000 |
+| 已确认博客 | 140 |
+| 公开 / 隐藏 / 不存在 / 未决 | 6,689 / 216 / 82 / 13 |
+| 最近成功更新 | 2026-08-30T10:44:08Z |
 
 ## 博客索引
 
@@ -160,6 +160,10 @@
 | [6576](https://icourse.club/user/6576) | [home.ustc.edu.cn/~yfrua](http://home.ustc.edu.cn/~yfrua/) | 未检查 | 2026-08-30 |
 | [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 未检查 | 2026-08-30 |
 | [6674](https://icourse.club/user/6674) | [cs-pikachuu.github.io](http://cs-pikachuu.github.io/) | 未检查 | 2026-08-30 |
+| [6765](https://icourse.club/user/6765) | [home.ustc.edu.cn/~luiswang](http://home.ustc.edu.cn/~luiswang) | 未检查 | 2026-08-30 |
+| [6795](https://icourse.club/user/6795) | [guyu168.github.io](https://guyu168.github.io/) | 未检查 | 2026-08-30 |
+| [6835](https://icourse.club/user/6835) | [www.4399.com](http://www.4399.com/) | 未检查 | 2026-08-30 |
+| [6916](https://icourse.club/user/6916) | [www.cnblogs.com/houchaoqun](https://www.cnblogs.com/houchaoqun/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
