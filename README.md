@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 12,250 |
-| 最高已尝试 ID | 12,250 |
-| 最高已确认用户 ID | 12,250 |
-| 已确认博客 | 200 |
-| 公开 / 隐藏 / 不存在 / 未决 | 11,555 / 590 / 85 / 20 |
-| 最近成功更新 | 2026-08-30T15:11:59Z |
+| 已记录 ID | 12,500 |
+| 最高已尝试 ID | 12,500 |
+| 最高已确认用户 ID | 12,500 |
+| 已确认博客 | 204 |
+| 公开 / 隐藏 / 不存在 / 未决 | 11,782 / 612 / 86 / 20 |
+| 最近成功更新 | 2026-08-30T15:24:51Z |
 
 ## 博客索引
 
@@ -224,6 +224,10 @@
 | [11997](https://icourse.club/user/11997) | [www.zhihu.com/people/randolph-36-94-59](https://www.zhihu.com/people/randolph-36-94-59) | 未检查 | 2026-08-30 |
 | [12022](https://icourse.club/user/12022) | [www.deartutu.com](http://www.deartutu.com/) | 未检查 | 2026-08-30 |
 | [12186](https://icourse.club/user/12186) | [github.com/yzguo](https://github.com/yzguo) | 未检查 | 2026-08-30 |
+| [12276](https://icourse.club/user/12276) | [xef2.top](https://xef2.top/) | 未检查 | 2026-08-30 |
+| [12308](https://icourse.club/user/12308) | [bauklotze.vercel.app](https://bauklotze.vercel.app/) | 未检查 | 2026-08-30 |
+| [12355](https://icourse.club/user/12355) | [mainsub.cc](https://mainsub.cc/) | 未检查 | 2026-08-30 |
+| [12369](https://icourse.club/user/12369) | [miaoning.space](http://miaoning.space/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
