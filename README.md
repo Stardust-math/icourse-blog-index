@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 8,500 |
-| 最高已尝试 ID | 8,500 |
-| 最高已确认用户 ID | 8,500 |
-| 已确认博客 | 161 |
-| 公开 / 隐藏 / 不存在 / 未决 | 8,063 / 339 / 82 / 16 |
-| 最近成功更新 | 2026-08-30T12:00:48Z |
+| 已记录 ID | 8,750 |
+| 最高已尝试 ID | 8,750 |
+| 最高已确认用户 ID | 8,750 |
+| 已确认博客 | 163 |
+| 公开 / 隐藏 / 不存在 / 未决 | 8,289 / 363 / 82 / 16 |
+| 最近成功更新 | 2026-08-30T12:13:41Z |
 
 ## 博客索引
 
@@ -185,6 +185,8 @@
 | [8139](https://icourse.club/user/8139) | [pems.ustc.edu.cn](http://pems.ustc.edu.cn/) | 未检查 | 2026-08-30 |
 | [8183](https://icourse.club/user/8183) | [www.azarai.top](http://www.azarai.top/) | 未检查 | 2026-08-30 |
 | [8318](https://icourse.club/user/8318) | [m.bilibili.com/video/BV1kW41147uB](https://m.bilibili.com/video/BV1kW41147uB) | 未检查 | 2026-08-30 |
+| [8672](https://icourse.club/user/8672) | [changshuoshen.github.io](https://changshuoshen.github.io/) | 未检查 | 2026-08-30 |
+| [8745](https://icourse.club/user/8745) | [github.com/XhyDds](https://github.com/XhyDds) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
