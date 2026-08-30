@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 5,250 |
-| 最高已尝试 ID | 5,250 |
-| 最高已确认用户 ID | 5,250 |
-| 已确认博客 | 116 |
-| 公开 / 隐藏 / 不存在 / 未决 | 5,117 / 123 / 2 / 8 |
-| 最近成功更新 | 2026-08-30T09:14:55Z |
+| 已记录 ID | 5,500 |
+| 最高已尝试 ID | 5,500 |
+| 最高已确认用户 ID | 5,500 |
+| 已确认博客 | 119 |
+| 公开 / 隐藏 / 不存在 / 未决 | 5,357 / 133 / 2 / 8 |
+| 最近成功更新 | 2026-08-30T09:27:44Z |
 
 ## 博客索引
 
@@ -140,6 +140,9 @@
 | [5040](https://icourse.club/user/5040) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 未检查 | 2026-08-30 |
 | [5116](https://icourse.club/user/5116) | [lstarnana7mi.com](http://lstarnana7mi.com/) | 未检查 | 2026-08-30 |
 | [5195](https://icourse.club/user/5195) | [home.ustc.edu.cn/~es020711/home](http://home.ustc.edu.cn/~es020711/home/) | 未检查 | 2026-08-30 |
+| [5352](https://icourse.club/user/5352) | [himalalps.github.io](https://himalalps.github.io/) | 未检查 | 2026-08-30 |
+| [5396](https://icourse.club/user/5396) | [home.ustc.edu.cn/~brealid](https://home.ustc.edu.cn/~brealid) | 未检查 | 2026-08-30 |
+| [5409](https://icourse.club/user/5409) | [home.ustc.edu.cn/~eastwind](http://home.ustc.edu.cn/~eastwind/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
