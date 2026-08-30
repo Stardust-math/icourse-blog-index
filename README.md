@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 17,750 |
-| 最高已尝试 ID | 17,750 |
-| 最高已确认用户 ID | 17,750 |
-| 已确认博客 | 231 |
-| 公开 / 隐藏 / 不存在 / 未决 | 16,851 / 788 / 88 / 23 |
-| 最近成功更新 | 2026-08-30T20:02:26Z |
+| 已记录 ID | 18,000 |
+| 最高已尝试 ID | 18,000 |
+| 最高已确认用户 ID | 18,000 |
+| 已确认博客 | 232 |
+| 公开 / 隐藏 / 不存在 / 未决 | 17,096 / 792 / 89 / 23 |
+| 最近成功更新 | 2026-08-30T20:15:03Z |
 
 ## 博客索引
 
@@ -255,6 +255,7 @@
 | [17136](https://icourse.club/user/17136) | [joshuaxql.github.io](https://joshuaxql.github.io/) | 未检查 | 2026-08-30 |
 | [17487](https://icourse.club/user/17487) | [enthusjast.cc](http://enthusjast.cc/) | 未检查 | 2026-08-30 |
 | [17706](https://icourse.club/user/17706) | [staff.ustc.edu.cn/~dinggj/index.html](http://staff.ustc.edu.cn/~dinggj/index.html) | 未检查 | 2026-08-30 |
+| [17760](https://icourse.club/user/17760) | [www.yuanshen.com](https://www.yuanshen.com/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
