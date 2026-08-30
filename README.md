@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 250 |
-| 最高已尝试 ID | 250 |
-| 最高已确认用户 ID | 250 |
-| 已确认博客 | 12 |
-| 公开 / 隐藏 / 不存在 / 未决 | 249 / 1 / 0 / 0 |
-| 最近成功更新 | 2026-08-30T04:59:05Z |
+| 已记录 ID | 500 |
+| 最高已尝试 ID | 500 |
+| 最高已确认用户 ID | 500 |
+| 已确认博客 | 21 |
+| 公开 / 隐藏 / 不存在 / 未决 | 497 / 1 / 1 / 1 |
+| 最近成功更新 | 2026-08-30T05:12:05Z |
 
 ## 博客索引
 
@@ -36,6 +36,15 @@
 | [116](https://icourse.club/user/116) | [ustclyh.github.io](https://ustclyh.github.io/) | 未检查 | 2026-08-30 |
 | [121](https://icourse.club/user/121) | [www.zhangjy9610.me/index-cn.html](https://www.zhangjy9610.me/index-cn.html) | 未检查 | 2026-08-30 |
 | [190](https://icourse.club/user/190) | [peijunz.github.io](http://peijunz.github.io/) | 未检查 | 2026-08-30 |
+| [316](https://icourse.club/user/316) | [www.zhihu.com/people/gai-nie-39](http://www.zhihu.com/people/gai-nie-39) | 未检查 | 2026-08-30 |
+| [320](https://icourse.club/user/320) | [ewind.us](http://ewind.us/) | 未检查 | 2026-08-30 |
+| [385](https://icourse.club/user/385) | [eipi10ydz.github.io](http://eipi10ydz.github.io/) | 未检查 | 2026-08-30 |
+| [397](https://icourse.club/user/397) | [parlorpink.weebly.com](http://parlorpink.weebly.com/) | 未检查 | 2026-08-30 |
+| [444](https://icourse.club/user/444) | [home.ustc.edu.cn/~ming9510](http://home.ustc.edu.cn/~ming9510) | 未检查 | 2026-08-30 |
+| [450](https://icourse.club/user/450) | [0x01.me](http://0x01.me/) | 未检查 | 2026-08-30 |
+| [455](https://icourse.club/user/455) | [ustczf.com](http://ustczf.com/) | 未检查 | 2026-08-30 |
+| [462](https://icourse.club/user/462) | [rat-racer.github.io](https://rat-racer.github.io/) | 未检查 | 2026-08-30 |
+| [470](https://icourse.club/user/470) | [home.ustc.edu.cn/~qzr](http://home.ustc.edu.cn/~qzr) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
