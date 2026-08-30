@@ -1,14 +1,14 @@
 {
-  "schema_version": 1,
-  "phase": "bootstrap",
-  "next_id": 1,
-  "highest_attempted_id": 0,
-  "highest_confirmed_user_id": 0,
-  "consecutive_missing_after_frontier": 0,
   "boundary_candidate_start": null,
   "boundary_confirmation_pending": false,
+  "consecutive_missing_after_frontier": 0,
+  "highest_attempted_id": 250,
+  "highest_confirmed_user_id": 250,
+  "last_run_id": "bootstrap-20260830T044605Z-b1665101",
   "maintenance_cursor": 1,
-  "last_run_id": null,
+  "next_id": 251,
   "paused_from_phase": null,
-  "updated_at": null
+  "phase": "bootstrap",
+  "schema_version": 1,
+  "updated_at": "2026-08-30T04:59:05Z"
 }

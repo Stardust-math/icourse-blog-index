@@ -12,17 +12,30 @@
 
 | 指标 | 当前值 |
 |---|---:|
-| 初始化状态 | `not_started` |
-| 已记录 ID | 0 |
-| 最高已尝试 ID | 0 |
-| 最高已确认用户 ID | 0 |
-| 已确认博客 | 0 |
-| 公开 / 隐藏 / 不存在 / 未决 | 0 / 0 / 0 / 0 |
-| 最近成功更新 | — |
+| 初始化状态 | `in_progress` |
+| 已记录 ID | 250 |
+| 最高已尝试 ID | 250 |
+| 最高已确认用户 ID | 250 |
+| 已确认博客 | 12 |
+| 公开 / 隐藏 / 不存在 / 未决 | 249 / 1 / 0 / 0 |
+| 最近成功更新 | 2026-08-30T04:59:05Z |
 
 ## 博客索引
 
-_尚未索引到已确认的博客链接。_
+| 用户 ID | 博客 | 可访问性 | 资料最后确认 |
+| ---: | --- | --- | --- |
+| [1](https://icourse.club/user/1) | [jenny42.com](http://jenny42.com/) | 未检查 | 2026-08-30 |
+| [2](https://icourse.club/user/2) | [01.me](https://01.me/) | 未检查 | 2026-08-30 |
+| [4](https://icourse.club/user/4) | [zhengzihan.com](https://zhengzihan.com/) | 未检查 | 2026-08-30 |
+| [10](https://icourse.club/user/10) | [cvhc.cc](https://cvhc.cc/) | 未检查 | 2026-08-30 |
+| [14](https://icourse.club/user/14) | [ibat.me](http://ibat.me/) | 未检查 | 2026-08-30 |
+| [15](https://icourse.club/user/15) | [wzhd.gitcafe.io](http://wzhd.gitcafe.io/) | 未检查 | 2026-08-30 |
+| [16](https://icourse.club/user/16) | [home.ustc.edu.cn/~lyishuai](http://home.ustc.edu.cn/~lyishuai) | 未检查 | 2026-08-30 |
+| [59](https://icourse.club/user/59) | [kuriyamamika.blogspot.jp](http://kuriyamamika.blogspot.jp/) | 未检查 | 2026-08-30 |
+| [64](https://icourse.club/user/64) | [home.ustc.edu.cn/~mouzq](http://home.ustc.edu.cn/~mouzq/) | 未检查 | 2026-08-30 |
+| [116](https://icourse.club/user/116) | [ustclyh.github.io](https://ustclyh.github.io/) | 未检查 | 2026-08-30 |
+| [121](https://icourse.club/user/121) | [www.zhangjy9610.me/index-cn.html](https://www.zhangjy9610.me/index-cn.html) | 未检查 | 2026-08-30 |
+| [190](https://icourse.club/user/190) | [peijunz.github.io](http://peijunz.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
