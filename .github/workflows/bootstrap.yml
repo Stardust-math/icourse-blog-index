@@ -1,0 +1,170 @@
+name: Bootstrap dataset
+
+on:
+  workflow_dispatch:
+    inputs:
+      resume_paused:
+        description: >-
+          Resume after investigating a safety pause. This re-checks robots and active blocking;
+          it must not be used to bypass either one.
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: icourse-crawler
+  cancel-in-progress: false
+
+jobs:
+  resume-gate:
+    name: Safety resume gate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      ICOURSE_REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}
+
+    steps:
+      - name: No safety resume requested
+        if: inputs.resume_paused != true
+        run: echo "Normal bootstrap or checkpoint resume; safety pause remains protected."
+
+      - name: Check out the current default branch
+        if: inputs.resume_paused == true
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      - name: Detect a safety pause
+        if: inputs.resume_paused == true
+        id: paused
+        shell: bash
+        run: |
+          paused="$(python - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest = json.loads(Path("data/manifest.json").read_text(encoding="utf-8"))
+          state = json.loads(Path("state/crawler.json").read_text(encoding="utf-8"))
+          status = str(manifest.get("initialization_status", ""))
+          phase = str(state.get("phase", ""))
+          print("true" if status == "paused" or phase == "paused" else "false")
+          PY
+          )"
+          echo "paused=${paused}" >> "$GITHUB_OUTPUT"
+          if [[ "$paused" != "true" ]]; then
+            echo "No safety-paused state exists; the resume request is a no-op."
+          fi
+
+      - name: Set up Python
+        if: inputs.resume_paused == true && steps.paused.outputs.paused == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install crawler
+        if: inputs.resume_paused == true && steps.paused.outputs.paused == 'true'
+        run: python -m pip install .
+
+      - name: Re-check and acknowledge safety pause
+        if: inputs.resume_paused == true && steps.paused.outputs.paused == 'true'
+        env:
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          python -m icourse_blog_index resume \
+            --acknowledge "Operator investigated the safety pause and explicitly requested resume in ${RUN_URL}"
+          python -m icourse_blog_index render
+          python -m icourse_blog_index validate
+
+      - name: Commit acknowledged resume
+        if: inputs.resume_paused == true && steps.paused.outputs.paused == 'true'
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data state
+
+          if git diff --cached --quiet; then
+            echo "Resume check made no persisted change."
+            exit 0
+          fi
+
+          git commit -m "data: acknowledge safety resume [skip ci]"
+          git pull --rebase origin "$DEFAULT_BRANCH"
+          git push origin "HEAD:${DEFAULT_BRANCH}"
+
+  chunk-1:
+    name: Bootstrap 1 of 7
+    needs: resume-gate
+    uses: ./.github/workflows/_bootstrap-chunk.yml
+    with:
+      chunk_number: 1
+    permissions:
+      contents: write
+
+  chunk-2:
+    name: Bootstrap 2 of 7
+    needs: chunk-1
+    if: needs.chunk-1.outputs.should_continue == 'true'
+    uses: ./.github/workflows/_bootstrap-chunk.yml
+    with:
+      chunk_number: 2
+    permissions:
+      contents: write
+
+  chunk-3:
+    name: Bootstrap 3 of 7
+    needs: chunk-2
+    if: needs.chunk-2.outputs.should_continue == 'true'
+    uses: ./.github/workflows/_bootstrap-chunk.yml
+    with:
+      chunk_number: 3
+    permissions:
+      contents: write
+
+  chunk-4:
+    name: Bootstrap 4 of 7
+    needs: chunk-3
+    if: needs.chunk-3.outputs.should_continue == 'true'
+    uses: ./.github/workflows/_bootstrap-chunk.yml
+    with:
+      chunk_number: 4
+    permissions:
+      contents: write
+
+  chunk-5:
+    name: Bootstrap 5 of 7
+    needs: chunk-4
+    if: needs.chunk-4.outputs.should_continue == 'true'
+    uses: ./.github/workflows/_bootstrap-chunk.yml
+    with:
+      chunk_number: 5
+    permissions:
+      contents: write
+
+  chunk-6:
+    name: Bootstrap 6 of 7
+    needs: chunk-5
+    if: needs.chunk-5.outputs.should_continue == 'true'
+    uses: ./.github/workflows/_bootstrap-chunk.yml
+    with:
+      chunk_number: 6
+    permissions:
+      contents: write
+
+  chunk-7:
+    name: Bootstrap 7 of 7
+    needs: chunk-6
+    if: needs.chunk-6.outputs.should_continue == 'true'
+    uses: ./.github/workflows/_bootstrap-chunk.yml
+    with:
+      chunk_number: 7
+    permissions:
+      contents: write
