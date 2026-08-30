@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 7,750 |
-| 最高已尝试 ID | 7,750 |
-| 最高已确认用户 ID | 7,750 |
-| 已确认博客 | 148 |
-| 公开 / 隐藏 / 不存在 / 未决 | 7,387 / 267 / 82 / 14 |
-| 最近成功更新 | 2026-08-30T11:22:08Z |
+| 已记录 ID | 8,000 |
+| 最高已尝试 ID | 8,000 |
+| 最高已确认用户 ID | 8,000 |
+| 已确认博客 | 154 |
+| 公开 / 隐藏 / 不存在 / 未决 | 7,613 / 291 / 82 / 14 |
+| 最近成功更新 | 2026-08-30T11:35:05Z |
 
 ## 博客索引
 
@@ -172,6 +172,12 @@
 | [7395](https://icourse.club/user/7395) | [langlang-02.github.io](https://langlang-02.github.io/) | 未检查 | 2026-08-30 |
 | [7572](https://icourse.club/user/7572) | [ustc.edu.cn](http://ustc.edu.cn/) | 未检查 | 2026-08-30 |
 | [7732](https://icourse.club/user/7732) | [ustcforum.com/u/shadowtheif](https://ustcforum.com/u/shadowtheif) | 未检查 | 2026-08-30 |
+| [7845](https://icourse.club/user/7845) | [lyuchangle2006.github.io](https://lyuchangle2006.github.io/) | 未检查 | 2026-08-30 |
+| [7858](https://icourse.club/user/7858) | [academic.mmdustc.top](https://academic.mmdustc.top/) | 未检查 | 2026-08-30 |
+| [7882](https://icourse.club/user/7882) | [yibowang2004.github.io](http://yibowang2004.github.io/) | 未检查 | 2026-08-30 |
+| [7886](https://icourse.club/user/7886) | [home.ustc.edu.cn/~caimx](http://home.ustc.edu.cn/~caimx/) | 未检查 | 2026-08-30 |
+| [7945](https://icourse.club/user/7945) | [blog.iw17.cc](http://blog.iw17.cc/) | 未检查 | 2026-08-30 |
+| [7957](https://icourse.club/user/7957) | [www.zhihu.com/question/49745524/answer/1882947054944355726](https://www.zhihu.com/question/49745524/answer/1882947054944355726?utm_psn=1921605902340957858) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
