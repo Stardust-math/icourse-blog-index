@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 10,250 |
-| 最高已尝试 ID | 10,250 |
-| 最高已确认用户 ID | 10,250 |
-| 已确认博客 | 180 |
-| 公开 / 隐藏 / 不存在 / 未决 | 9,695 / 457 / 82 / 16 |
-| 最近成功更新 | 2026-08-30T13:30:09Z |
+| 已记录 ID | 10,500 |
+| 最高已尝试 ID | 10,500 |
+| 最高已确认用户 ID | 10,500 |
+| 已确认博客 | 184 |
+| 公开 / 隐藏 / 不存在 / 未决 | 9,918 / 482 / 82 / 18 |
+| 最近成功更新 | 2026-08-30T13:42:52Z |
 
 ## 博客索引
 
@@ -204,6 +204,10 @@
 | [10088](https://icourse.club/user/10088) | [atrionline.me](http://atrionline.me/) | 未检查 | 2026-08-30 |
 | [10141](https://icourse.club/user/10141) | [github.com/lixiang0622](https://github.com/lixiang0622) | 未检查 | 2026-08-30 |
 | [10151](https://icourse.club/user/10151) | [scientificlan.github.io](http://scientificlan.github.io/) | 未检查 | 2026-08-30 |
+| [10277](https://icourse.club/user/10277) | [bilibili.com/video/BV1JRVt6jEJ3](http://bilibili.com/video/BV1JRVt6jEJ3/?spm_id_from=333.337.search-card.all.click) | 未检查 | 2026-08-30 |
+| [10329](https://icourse.club/user/10329) | [www.cnblogs.com/litluo](https://www.cnblogs.com/litluo/) | 未检查 | 2026-08-30 |
+| [10347](https://icourse.club/user/10347) | [academic.luosw.com.cn](https://academic.luosw.com.cn/) | 未检查 | 2026-08-30 |
+| [10379](https://icourse.club/user/10379) | [kangcanyao.github.io](http://kangcanyao.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
