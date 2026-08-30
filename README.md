@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 12,500 |
-| 最高已尝试 ID | 12,500 |
-| 最高已确认用户 ID | 12,500 |
-| 已确认博客 | 204 |
-| 公开 / 隐藏 / 不存在 / 未决 | 11,782 / 612 / 86 / 20 |
-| 最近成功更新 | 2026-08-30T15:24:51Z |
+| 已记录 ID | 12,750 |
+| 最高已尝试 ID | 12,750 |
+| 最高已确认用户 ID | 12,750 |
+| 已确认博客 | 207 |
+| 公开 / 隐藏 / 不存在 / 未决 | 12,022 / 621 / 87 / 20 |
+| 最近成功更新 | 2026-08-30T15:37:38Z |
 
 ## 博客索引
 
@@ -228,6 +228,9 @@
 | [12308](https://icourse.club/user/12308) | [bauklotze.vercel.app](https://bauklotze.vercel.app/) | 未检查 | 2026-08-30 |
 | [12355](https://icourse.club/user/12355) | [mainsub.cc](https://mainsub.cc/) | 未检查 | 2026-08-30 |
 | [12369](https://icourse.club/user/12369) | [miaoning.space](http://miaoning.space/) | 未检查 | 2026-08-30 |
+| [12522](https://icourse.club/user/12522) | [map.bemanicn.com](https://map.bemanicn.com/) | 未检查 | 2026-08-30 |
+| [12531](https://icourse.club/user/12531) | [b23.tv/vdeRcez](https://b23.tv/vdeRcez) | 未检查 | 2026-08-30 |
+| [12545](https://icourse.club/user/12545) | [marx.ustc.edu.cn/2025/0304/c30298a675471/page.htm](https://marx.ustc.edu.cn/2025/0304/c30298a675471/page.htm) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
