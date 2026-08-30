@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 8,250 |
-| 最高已尝试 ID | 8,250 |
-| 最高已确认用户 ID | 8,250 |
-| 已确认博客 | 160 |
-| 公开 / 隐藏 / 不存在 / 未决 | 7,839 / 314 / 82 / 15 |
-| 最近成功更新 | 2026-08-30T11:48:18Z |
+| 已记录 ID | 8,500 |
+| 最高已尝试 ID | 8,500 |
+| 最高已确认用户 ID | 8,500 |
+| 已确认博客 | 161 |
+| 公开 / 隐藏 / 不存在 / 未决 | 8,063 / 339 / 82 / 16 |
+| 最近成功更新 | 2026-08-30T12:00:48Z |
 
 ## 博客索引
 
@@ -184,6 +184,7 @@
 | [8086](https://icourse.club/user/8086) | [2023.sodium.icu](http://2023.sodium.icu/) | 未检查 | 2026-08-30 |
 | [8139](https://icourse.club/user/8139) | [pems.ustc.edu.cn](http://pems.ustc.edu.cn/) | 未检查 | 2026-08-30 |
 | [8183](https://icourse.club/user/8183) | [www.azarai.top](http://www.azarai.top/) | 未检查 | 2026-08-30 |
+| [8318](https://icourse.club/user/8318) | [m.bilibili.com/video/BV1kW41147uB](https://m.bilibili.com/video/BV1kW41147uB) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
