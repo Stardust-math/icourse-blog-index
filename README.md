@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 1,750 |
-| 最高已尝试 ID | 1,750 |
-| 最高已确认用户 ID | 1,750 |
-| 已确认博客 | 41 |
-| 公开 / 隐藏 / 不存在 / 未决 | 1,735 / 12 / 1 / 2 |
-| 最近成功更新 | 2026-08-30T06:15:35Z |
+| 已记录 ID | 2,000 |
+| 最高已尝试 ID | 2,000 |
+| 最高已确认用户 ID | 2,000 |
+| 已确认博客 | 44 |
+| 公开 / 隐藏 / 不存在 / 未决 | 1,984 / 13 / 1 / 2 |
+| 最近成功更新 | 2026-08-30T06:28:26Z |
 
 ## 博客索引
 
@@ -65,6 +65,9 @@
 | [1622](https://icourse.club/user/1622) | [home.ustc.edu.cn/~fym0503](http://home.ustc.edu.cn/~fym0503) | 未检查 | 2026-08-30 |
 | [1636](https://icourse.club/user/1636) | [cyugao.github.io](https://cyugao.github.io/) | 未检查 | 2026-08-30 |
 | [1652](https://icourse.club/user/1652) | [home.ustc.edu.cn/~matrix98](http://home.ustc.edu.cn/~matrix98) | 未检查 | 2026-08-30 |
+| [1808](https://icourse.club/user/1808) | [home.ustc.edu.cn/~wt1997](http://home.ustc.edu.cn/~wt1997) | 未检查 | 2026-08-30 |
+| [1924](https://icourse.club/user/1924) | [adven00.github.io](https://adven00.github.io/) | 未检查 | 2026-08-30 |
+| [1939](https://icourse.club/user/1939) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
