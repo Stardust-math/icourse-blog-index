@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "phase": "bootstrap",
+  "next_id": 1,
+  "highest_attempted_id": 0,
+  "highest_confirmed_user_id": 0,
+  "consecutive_missing_after_frontier": 0,
+  "boundary_candidate_start": null,
+  "boundary_confirmation_pending": false,
+  "maintenance_cursor": 1,
+  "last_run_id": null,
+  "paused_from_phase": null,
+  "updated_at": null
+}

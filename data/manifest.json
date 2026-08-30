@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "initialization_status": "not_started",
+  "phase": "bootstrap",
+  "record_count": 0,
+  "highest_attempted_id": 0,
+  "highest_confirmed_user_id": 0,
+  "highest_existing_user_id": 0,
+  "blog_count": 0,
+  "profile_status_counts": {
+    "public": 0,
+    "hidden": 0,
+    "missing": 0,
+    "unknown": 0
+  },
+  "last_successful_run_at": null,
+  "updated_at": null
+}

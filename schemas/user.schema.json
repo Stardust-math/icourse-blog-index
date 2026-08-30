@@ -1,0 +1,339 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:icourse-blog-index:schema:user:1",
+  "title": "iCourse blog index user record",
+  "description": "Canonical current state for every attempted numeric icourse.club user ID.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "blog_changed_at",
+    "blog_status",
+    "blog_url",
+    "blog_url_raw",
+    "consecutive_failures",
+    "first_checked_at",
+    "http_status",
+    "id",
+    "last_check_result",
+    "last_checked_at",
+    "last_confirmed_at",
+    "last_error",
+    "parser_version",
+    "pending_observation",
+    "profile_changed_at",
+    "profile_status",
+    "profile_url",
+    "source_fingerprint"
+  ],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "profile_url": {
+      "type": "string",
+      "pattern": "^https://icourse\\.club/user/[1-9][0-9]*$"
+    },
+    "profile_status": {
+      "enum": ["public", "hidden", "missing", "unknown"]
+    },
+    "blog_status": {
+      "enum": ["present", "absent", "unknown"]
+    },
+    "blog_url": {
+      "oneOf": [
+        {
+          "type": "string",
+          "maxLength": 2048,
+          "pattern": "^https?://"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "blog_url_raw": {
+      "oneOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2048
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "first_checked_at": {
+      "$ref": "#/$defs/nullableTimestamp"
+    },
+    "last_checked_at": {
+      "$ref": "#/$defs/nullableTimestamp"
+    },
+    "last_confirmed_at": {
+      "$ref": "#/$defs/nullableTimestamp"
+    },
+    "profile_changed_at": {
+      "$ref": "#/$defs/nullableTimestamp"
+    },
+    "blog_changed_at": {
+      "$ref": "#/$defs/nullableTimestamp"
+    },
+    "last_check_result": {
+      "enum": [
+        "ok",
+        "http_error",
+        "rate_limited",
+        "blocked_or_challenge",
+        "server_error",
+        "timeout",
+        "network_error",
+        "parse_error",
+        "suspected_stale"
+      ]
+    },
+    "consecutive_failures": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "parser_version": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100,
+      "pattern": "^[A-Za-z0-9._+\\-]+$"
+    },
+    "source_fingerprint": {
+      "$ref": "#/$defs/nullableFingerprint"
+    },
+    "http_status": {
+      "oneOf": [
+        {
+          "type": "integer",
+          "minimum": 100,
+          "maximum": 599
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "last_error": {
+      "oneOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "pending_observation": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/pendingObservation"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "$defs": {
+    "timestamp": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$"
+    },
+    "nullableTimestamp": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/timestamp"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "nullableFingerprint": {
+      "oneOf": [
+        {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "pendingObservation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "blog_status",
+        "blog_url",
+        "blog_url_raw",
+        "confirmations",
+        "first_observed_at",
+        "http_status",
+        "last_observed_at",
+        "parser_version",
+        "profile_status",
+        "source_fingerprint"
+      ],
+      "properties": {
+        "profile_status": {
+          "enum": ["public", "hidden", "missing", "unknown"]
+        },
+        "blog_status": {
+          "enum": ["present", "absent", "unknown"]
+        },
+        "blog_url": {
+          "oneOf": [
+            {
+              "type": "string",
+              "maxLength": 2048,
+              "pattern": "^https?://"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "blog_url_raw": {
+          "oneOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 2048
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "first_observed_at": {
+          "$ref": "#/$defs/timestamp"
+        },
+        "last_observed_at": {
+          "$ref": "#/$defs/timestamp"
+        },
+        "confirmations": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "parser_version": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 100,
+          "pattern": "^[A-Za-z0-9._+\\-]+$"
+        },
+        "source_fingerprint": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "http_status": {
+          "oneOf": [
+            {
+              "type": "integer",
+              "minimum": 100,
+              "maximum": 599
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "profile_status": {
+            "const": "public"
+          },
+          "blog_status": {
+            "const": "present"
+          }
+        },
+        "required": ["profile_status", "blog_status"]
+      },
+      "then": {
+        "properties": {
+          "blog_url": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "blog_status": {
+            "enum": ["absent", "unknown"]
+          }
+        },
+        "required": ["blog_status"]
+      },
+      "then": {
+        "properties": {
+          "blog_url": {
+            "type": "null"
+          },
+          "blog_url_raw": {
+            "type": "null"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "profile_status": {
+            "enum": ["hidden", "missing", "unknown"]
+          }
+        },
+        "required": ["profile_status"]
+      },
+      "then": {
+        "properties": {
+          "blog_status": {
+            "const": "unknown"
+          },
+          "blog_url": {
+            "type": "null"
+          },
+          "blog_url_raw": {
+            "type": "null"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "last_check_result": {
+            "const": "ok"
+          }
+        },
+        "required": ["last_check_result"]
+      },
+      "then": {
+        "properties": {
+          "consecutive_failures": {
+            "const": 0
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "consecutive_failures": {
+            "minimum": 1
+          }
+        }
+      }
+    }
+  ]
+}
