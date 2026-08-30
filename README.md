@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 3,000 |
-| 最高已尝试 ID | 3,000 |
-| 最高已确认用户 ID | 3,000 |
-| 已确认博客 | 72 |
-| 公开 / 隐藏 / 不存在 / 未决 | 2,967 / 25 / 1 / 7 |
-| 最近成功更新 | 2026-08-30T07:19:48Z |
+| 已记录 ID | 3,250 |
+| 最高已尝试 ID | 3,250 |
+| 最高已确认用户 ID | 3,250 |
+| 已确认博客 | 77 |
+| 公开 / 隐藏 / 不存在 / 未决 | 3,213 / 28 / 2 / 7 |
+| 最近成功更新 | 2026-08-30T07:32:36Z |
 
 ## 博客索引
 
@@ -96,6 +96,11 @@
 | [2850](https://icourse.club/user/2850) | [home.ustc.edu.cn/~pscgylotti](http://home.ustc.edu.cn/~pscgylotti/) | 未检查 | 2026-08-30 |
 | [2868](https://icourse.club/user/2868) | [boyiwei.com](http://boyiwei.com/) | 未检查 | 2026-08-30 |
 | [2997](https://icourse.club/user/2997) | [pplab.ustc.edu.cn](http://pplab.ustc.edu.cn/) | 未检查 | 2026-08-30 |
+| [3025](https://icourse.club/user/3025) | [space.bilibili.com/402574397](https://space.bilibili.com/402574397?from=search&seid=16651954183246406294) | 未检查 | 2026-08-30 |
+| [3058](https://icourse.club/user/3058) | [www.douban.com/people/yaogr](https://www.douban.com/people/yaogr/) | 未检查 | 2026-08-30 |
+| [3064](https://icourse.club/user/3064) | [staff.ustc.edu.cn/~tongxu](http://staff.ustc.edu.cn/~tongxu/) | 未检查 | 2026-08-30 |
+| [3137](https://icourse.club/user/3137) | [r.mtdv.me/blog/posts/mye0zacSBq](https://r.mtdv.me/blog/posts/mye0zacSBq) | 未检查 | 2026-08-30 |
+| [3197](https://icourse.club/user/3197) | [www.icourse.club/user](https://www.icourse.club/user/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
