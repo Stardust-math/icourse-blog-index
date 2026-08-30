@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 1,000 |
-| 最高已尝试 ID | 1,000 |
-| 最高已确认用户 ID | 1,000 |
-| 已确认博客 | 32 |
-| 公开 / 隐藏 / 不存在 / 未决 | 992 / 6 / 1 / 1 |
-| 最近成功更新 | 2026-08-30T05:37:30Z |
+| 已记录 ID | 1,250 |
+| 最高已尝试 ID | 1,250 |
+| 最高已确认用户 ID | 1,250 |
+| 已确认博客 | 35 |
+| 公开 / 隐藏 / 不存在 / 未决 | 1,240 / 7 / 1 / 2 |
+| 最近成功更新 | 2026-08-30T05:50:17Z |
 
 ## 博客索引
 
@@ -56,6 +56,9 @@
 | [790](https://icourse.club/user/790) | [home.ustc.edu.cn/~xiangrui](http://home.ustc.edu.cn/~xiangrui) | 未检查 | 2026-08-30 |
 | [809](https://icourse.club/user/809) | [home.ustc.edu.cn/~hzzzkd](http://home.ustc.edu.cn/~hzzzkd/) | 未检查 | 2026-08-30 |
 | [922](https://icourse.club/user/922) | [micro.ustc.edu.cn/DingZJ](http://micro.ustc.edu.cn/DingZJ/) | 未检查 | 2026-08-30 |
+| [1001](https://icourse.club/user/1001) | [home.ustc.edu.cn/~xcss1104](http://home.ustc.edu.cn/~xcss1104) | 未检查 | 2026-08-30 |
+| [1091](https://icourse.club/user/1091) | [www.lwoo1999.cn](http://www.lwoo1999.cn/) | 未检查 | 2026-08-30 |
+| [1173](https://icourse.club/user/1173) | [shaofengwu123.github.io](https://shaofengwu123.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
