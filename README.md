@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 9,750 |
-| 最高已尝试 ID | 9,750 |
-| 最高已确认用户 ID | 9,750 |
-| 已确认博客 | 174 |
-| 公开 / 隐藏 / 不存在 / 未决 | 9,217 / 435 / 82 / 16 |
-| 最近成功更新 | 2026-08-30T13:04:36Z |
+| 已记录 ID | 10,000 |
+| 最高已尝试 ID | 10,000 |
+| 最高已确认用户 ID | 10,000 |
+| 已确认博客 | 177 |
+| 公开 / 隐藏 / 不存在 / 未决 | 9,463 / 439 / 82 / 16 |
+| 最近成功更新 | 2026-08-30T13:17:16Z |
 
 ## 博客索引
 
@@ -198,6 +198,9 @@
 | [9558](https://icourse.club/user/9558) | [fuchow.github.io](https://fuchow.github.io/) | 未检查 | 2026-08-30 |
 | [9641](https://icourse.club/user/9641) | [github.com/duxiaoyang-creator/USTC-Course-Materials](https://github.com/duxiaoyang-creator/USTC-Course-Materials) | 未检查 | 2026-08-30 |
 | [9711](https://icourse.club/user/9711) | [xn--fiqq6k45cmxcf2df98d.com](http://xn--fiqq6k45cmxcf2df98d.com/) | 未检查 | 2026-08-30 |
+| [9754](https://icourse.club/user/9754) | [n1uf.github.io](http://n1uf.github.io/) | 未检查 | 2026-08-30 |
+| [9775](https://icourse.club/user/9775) | [github.com/qc-1/Course-Materials](https://github.com/qc-1/Course-Materials) | 未检查 | 2026-08-30 |
+| [9872](https://icourse.club/user/9872) | [maimai.sega.jp](https://maimai.sega.jp/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
