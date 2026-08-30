@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 3,250 |
-| 最高已尝试 ID | 3,250 |
-| 最高已确认用户 ID | 3,250 |
-| 已确认博客 | 77 |
-| 公开 / 隐藏 / 不存在 / 未决 | 3,213 / 28 / 2 / 7 |
-| 最近成功更新 | 2026-08-30T07:32:36Z |
+| 已记录 ID | 3,500 |
+| 最高已尝试 ID | 3,500 |
+| 最高已确认用户 ID | 3,500 |
+| 已确认博客 | 82 |
+| 公开 / 隐藏 / 不存在 / 未决 | 3,453 / 38 / 2 / 7 |
+| 最近成功更新 | 2026-08-30T07:45:16Z |
 
 ## 博客索引
 
@@ -101,6 +101,11 @@
 | [3064](https://icourse.club/user/3064) | [staff.ustc.edu.cn/~tongxu](http://staff.ustc.edu.cn/~tongxu/) | 未检查 | 2026-08-30 |
 | [3137](https://icourse.club/user/3137) | [r.mtdv.me/blog/posts/mye0zacSBq](https://r.mtdv.me/blog/posts/mye0zacSBq) | 未检查 | 2026-08-30 |
 | [3197](https://icourse.club/user/3197) | [www.icourse.club/user](https://www.icourse.club/user/) | 未检查 | 2026-08-30 |
+| [3298](https://icourse.club/user/3298) | [blog.csdn.net/cggwz](https://blog.csdn.net/cggwz) | 未检查 | 2026-08-30 |
+| [3384](https://icourse.club/user/3384) | [home.ustc.edu.cn/~feqi](http://home.ustc.edu.cn/~feqi/) | 未检查 | 2026-08-30 |
+| [3415](https://icourse.club/user/3415) | [home.ustc.edu.cn/~zz0312](http://home.ustc.edu.cn/~zz0312/) | 未检查 | 2026-08-30 |
+| [3423](https://icourse.club/user/3423) | [home.ustc.edu.cn/~wxl20010508](http://home.ustc.edu.cn/~wxl20010508) | 未检查 | 2026-08-30 |
+| [3440](https://icourse.club/user/3440) | [home.ustc.edu.cn/~zyx240014](http://home.ustc.edu.cn/~zyx240014) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
