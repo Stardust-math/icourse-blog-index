@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 7,250 |
-| 最高已尝试 ID | 7,250 |
-| 最高已确认用户 ID | 7,250 |
-| 已确认博客 | 145 |
-| 公开 / 隐藏 / 不存在 / 未决 | 6,919 / 236 / 82 / 13 |
-| 最近成功更新 | 2026-08-30T10:56:55Z |
+| 已记录 ID | 7,500 |
+| 最高已尝试 ID | 7,500 |
+| 最高已确认用户 ID | 7,500 |
+| 已确认博客 | 146 |
+| 公开 / 隐藏 / 不存在 / 未决 | 7,145 / 259 / 82 / 14 |
+| 最近成功更新 | 2026-08-30T11:09:32Z |
 
 ## 博客索引
 
@@ -169,6 +169,7 @@
 | [7088](https://icourse.club/user/7088) | [home.ustc.edu.cn/~liangjh](http://home.ustc.edu.cn/~liangjh/) | 未检查 | 2026-08-30 |
 | [7214](https://icourse.club/user/7214) | [www.cztcode.com](http://www.cztcode.com/) | 未检查 | 2026-08-30 |
 | [7230](https://icourse.club/user/7230) | [www.cnblogs.com/wysngblogs](https://www.cnblogs.com/wysngblogs/) | 未检查 | 2026-08-30 |
+| [7395](https://icourse.club/user/7395) | [langlang-02.github.io](https://langlang-02.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
