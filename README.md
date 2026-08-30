@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 10,500 |
-| 最高已尝试 ID | 10,500 |
-| 最高已确认用户 ID | 10,500 |
-| 已确认博客 | 184 |
-| 公开 / 隐藏 / 不存在 / 未决 | 9,918 / 482 / 82 / 18 |
-| 最近成功更新 | 2026-08-30T13:42:52Z |
+| 已记录 ID | 10,750 |
+| 最高已尝试 ID | 10,750 |
+| 最高已确认用户 ID | 10,750 |
+| 已确认博客 | 186 |
+| 公开 / 隐藏 / 不存在 / 未决 | 10,148 / 501 / 82 / 19 |
+| 最近成功更新 | 2026-08-30T13:55:33Z |
 
 ## 博客索引
 
@@ -208,6 +208,8 @@
 | [10329](https://icourse.club/user/10329) | [www.cnblogs.com/litluo](https://www.cnblogs.com/litluo/) | 未检查 | 2026-08-30 |
 | [10347](https://icourse.club/user/10347) | [academic.luosw.com.cn](https://academic.luosw.com.cn/) | 未检查 | 2026-08-30 |
 | [10379](https://icourse.club/user/10379) | [kangcanyao.github.io](http://kangcanyao.github.io/) | 未检查 | 2026-08-30 |
+| [10510](https://icourse.club/user/10510) | [cardigan0214.github.io](https://cardigan0214.github.io/) | 未检查 | 2026-08-30 |
+| [10627](https://icourse.club/user/10627) | [orcid.org/0000-0001-5614-4319](https://orcid.org/0000-0001-5614-4319) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
