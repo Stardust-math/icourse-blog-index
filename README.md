@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 4,500 |
-| 最高已尝试 ID | 4,500 |
-| 最高已确认用户 ID | 4,500 |
-| 已确认博客 | 102 |
-| 公开 / 隐藏 / 不存在 / 未决 | 4,407 / 84 / 2 / 7 |
-| 最近成功更新 | 2026-08-30T08:36:29Z |
+| 已记录 ID | 4,750 |
+| 最高已尝试 ID | 4,750 |
+| 最高已确认用户 ID | 4,750 |
+| 已确认博客 | 108 |
+| 公开 / 隐藏 / 不存在 / 未决 | 4,641 / 100 / 2 / 7 |
+| 最近成功更新 | 2026-08-30T08:49:19Z |
 
 ## 博客索引
 
@@ -126,6 +126,12 @@
 | [4457](https://icourse.club/user/4457) | [home.ustc.edu.cn/~zzx2002/new](http://home.ustc.edu.cn/~zzx2002/new) | 未检查 | 2026-08-30 |
 | [4480](https://icourse.club/user/4480) | [home.ustc.edu.cn/~jiajie](http://home.ustc.edu.cn/~jiajie/) | 未检查 | 2026-08-30 |
 | [4483](https://icourse.club/user/4483) | [archaeus13.github.io](http://archaeus13.github.io/) | 未检查 | 2026-08-30 |
+| [4553](https://icourse.club/user/4553) | [home.ustc.edu.cn/~ziheng](http://home.ustc.edu.cn/~ziheng) | 未检查 | 2026-08-30 |
+| [4572](https://icourse.club/user/4572) | [home.ustc.edu.cn/~ycyoung2020](http://home.ustc.edu.cn/~ycyoung2020/) | 未检查 | 2026-08-30 |
+| [4580](https://icourse.club/user/4580) | [github.com/cyzkrau](https://github.com/cyzkrau) | 未检查 | 2026-08-30 |
+| [4619](https://icourse.club/user/4619) | [www.bilibili.com/video/BV1ea4y1W7x1](https://www.bilibili.com/video/BV1ea4y1W7x1/) | 未检查 | 2026-08-30 |
+| [4631](https://icourse.club/user/4631) | [icourse.club/user/4631](https://icourse.club/user/4631) | 未检查 | 2026-08-30 |
+| [4734](https://icourse.club/user/4734) | [home.ustc.edu.cn/~wyx\_mail](http://home.ustc.edu.cn/~wyx_mail/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
