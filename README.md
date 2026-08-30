@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 750 |
-| 最高已尝试 ID | 750 |
-| 最高已确认用户 ID | 750 |
-| 已确认博客 | 27 |
-| 公开 / 隐藏 / 不存在 / 未决 | 744 / 4 / 1 / 1 |
-| 最近成功更新 | 2026-08-30T05:24:53Z |
+| 已记录 ID | 1,000 |
+| 最高已尝试 ID | 1,000 |
+| 最高已确认用户 ID | 1,000 |
+| 已确认博客 | 32 |
+| 公开 / 隐藏 / 不存在 / 未决 | 992 / 6 / 1 / 1 |
+| 最近成功更新 | 2026-08-30T05:37:30Z |
 
 ## 博客索引
 
@@ -51,6 +51,11 @@
 | [583](https://icourse.club/user/583) | [www.songchaow.cn](http://www.songchaow.cn/) | 未检查 | 2026-08-30 |
 | [601](https://icourse.club/user/601) | [home.ustc.edu.cn/~zt001062](http://home.ustc.edu.cn/~zt001062) | 未检查 | 2026-08-30 |
 | [634](https://icourse.club/user/634) | [cims.nyu.edu/~lz2088](http://cims.nyu.edu/~lz2088) | 未检查 | 2026-08-30 |
+| [754](https://icourse.club/user/754) | [nirvana.blog.ustc.edu.cn](http://nirvana.blog.ustc.edu.cn/) | 未检查 | 2026-08-30 |
+| [777](https://icourse.club/user/777) | [rbword.blog.ustc.edu.cn](http://rbword.blog.ustc.edu.cn/) | 未检查 | 2026-08-30 |
+| [790](https://icourse.club/user/790) | [home.ustc.edu.cn/~xiangrui](http://home.ustc.edu.cn/~xiangrui) | 未检查 | 2026-08-30 |
+| [809](https://icourse.club/user/809) | [home.ustc.edu.cn/~hzzzkd](http://home.ustc.edu.cn/~hzzzkd/) | 未检查 | 2026-08-30 |
+| [922](https://icourse.club/user/922) | [micro.ustc.edu.cn/DingZJ](http://micro.ustc.edu.cn/DingZJ/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
