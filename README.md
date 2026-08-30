@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 21,250 |
-| 最高已尝试 ID | 21,250 |
-| 最高已确认用户 ID | 21,250 |
-| 已确认博客 | 234 |
-| 公开 / 隐藏 / 不存在 / 未决 | 20,266 / 861 / 94 / 29 |
-| 最近成功更新 | 2026-08-30T22:59:19Z |
+| 已记录 ID | 21,500 |
+| 最高已尝试 ID | 21,500 |
+| 最高已确认用户 ID | 21,500 |
+| 已确认博客 | 235 |
+| 公开 / 隐藏 / 不存在 / 未决 | 20,507 / 870 / 94 / 29 |
+| 最近成功更新 | 2026-08-30T23:12:01Z |
 
 ## 博客索引
 
@@ -258,6 +258,7 @@
 | [17760](https://icourse.club/user/17760) | [www.yuanshen.com](https://www.yuanshen.com/) | 未检查 | 2026-08-30 |
 | [20161](https://icourse.club/user/20161) | [www.hfnl.ustc.edu.cn/detail](http://www.hfnl.ustc.edu.cn/detail?id=11324) | 未检查 | 2026-08-30 |
 | [21241](https://icourse.club/user/21241) | [faculty.ustc.edu.cn/wuxinyu/zh\_CN/index.htm](http://faculty.ustc.edu.cn/wuxinyu/zh_CN/index.htm) | 未检查 | 2026-08-30 |
+| [21349](https://icourse.club/user/21349) | [learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
