@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 12,750 |
-| 最高已尝试 ID | 12,750 |
-| 最高已确认用户 ID | 12,750 |
-| 已确认博客 | 207 |
-| 公开 / 隐藏 / 不存在 / 未决 | 12,022 / 621 / 87 / 20 |
-| 最近成功更新 | 2026-08-30T15:37:38Z |
+| 已记录 ID | 13,000 |
+| 最高已尝试 ID | 13,000 |
+| 最高已确认用户 ID | 13,000 |
+| 已确认博客 | 212 |
+| 公开 / 隐藏 / 不存在 / 未决 | 12,260 / 633 / 87 / 20 |
+| 最近成功更新 | 2026-08-30T15:52:09Z |
 
 ## 博客索引
 
@@ -231,6 +231,11 @@
 | [12522](https://icourse.club/user/12522) | [map.bemanicn.com](https://map.bemanicn.com/) | 未检查 | 2026-08-30 |
 | [12531](https://icourse.club/user/12531) | [b23.tv/vdeRcez](https://b23.tv/vdeRcez) | 未检查 | 2026-08-30 |
 | [12545](https://icourse.club/user/12545) | [marx.ustc.edu.cn/2025/0304/c30298a675471/page.htm](https://marx.ustc.edu.cn/2025/0304/c30298a675471/page.htm) | 未检查 | 2026-08-30 |
+| [12883](https://icourse.club/user/12883) | [baike.baidu.com/item/%E7%BB%B4%E5%B0%BC/4322](https://baike.baidu.com/item/%E7%BB%B4%E5%B0%BC/4322) | 未检查 | 2026-08-30 |
+| [12895](https://icourse.club/user/12895) | [lianghw.ustc.edu.cn/index.php](http://lianghw.ustc.edu.cn/index.php) | 未检查 | 2026-08-30 |
+| [12915](https://icourse.club/user/12915) | [app.molview.com](https://app.molview.com/) | 未检查 | 2026-08-30 |
+| [12918](https://icourse.club/user/12918) | [www.teach.ustc.edu.cn](https://www.teach.ustc.edu.cn/) | 未检查 | 2026-08-30 |
+| [12989](https://icourse.club/user/12989) | [poorotterbob.github.io](https://poorotterbob.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
