@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 2,500 |
-| 最高已尝试 ID | 2,500 |
-| 最高已确认用户 ID | 2,500 |
-| 已确认博客 | 58 |
-| 公开 / 隐藏 / 不存在 / 未决 | 2,476 / 19 / 1 / 4 |
-| 最近成功更新 | 2026-08-30T06:54:08Z |
+| 已记录 ID | 2,750 |
+| 最高已尝试 ID | 2,750 |
+| 最高已确认用户 ID | 2,750 |
+| 已确认博客 | 65 |
+| 公开 / 隐藏 / 不存在 / 未决 | 2,724 / 20 / 1 / 5 |
+| 最近成功更新 | 2026-08-30T07:06:59Z |
 
 ## 博客索引
 
@@ -82,6 +82,13 @@
 | [2349](https://icourse.club/user/2349) | [m.bilibili.com/space/384521381](https://m.bilibili.com/space/384521381) | 未检查 | 2026-08-30 |
 | [2410](https://icourse.club/user/2410) | [space.bilibili.com/1832676](http://space.bilibili.com/1832676) | 未检查 | 2026-08-30 |
 | [2488](https://icourse.club/user/2488) | [github.com/realCattleya](https://github.com/realCattleya) | 未检查 | 2026-08-30 |
+| [2524](https://icourse.club/user/2524) | [math.ustc.edu.cn/Ch/faculty/index.php](http://math.ustc.edu.cn/Ch/faculty/index.php?f_name=%D0%FB%B1%BE%BD%F0) | 未检查 | 2026-08-30 |
+| [2621](https://icourse.club/user/2621) | [home.ustc.edu.cn/~yangxiaodong](http://home.ustc.edu.cn/~yangxiaodong) | 未检查 | 2026-08-30 |
+| [2625](https://icourse.club/user/2625) | [www.114514.com](http://www.114514.com/) | 未检查 | 2026-08-30 |
+| [2631](https://icourse.club/user/2631) | [home.ustc.edu.cn/~lwh1106](http://home.ustc.edu.cn/~lwh1106) | 未检查 | 2026-08-30 |
+| [2682](https://icourse.club/user/2682) | [jw.ustc.edu.cn](http://jw.ustc.edu.cn/) | 未检查 | 2026-08-30 |
+| [2711](https://icourse.club/user/2711) | [1145141919810.com](http://1145141919810.com/) | 未检查 | 2026-08-30 |
+| [2736](https://icourse.club/user/2736) | [home.ustc.edu.cn/~jerryao](http://home.ustc.edu.cn/~jerryao/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
