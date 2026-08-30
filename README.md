@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 1,500 |
-| 最高已尝试 ID | 1,500 |
-| 最高已确认用户 ID | 1,500 |
-| 已确认博客 | 36 |
-| 公开 / 隐藏 / 不存在 / 未决 | 1,488 / 9 / 1 / 2 |
-| 最近成功更新 | 2026-08-30T06:02:47Z |
+| 已记录 ID | 1,750 |
+| 最高已尝试 ID | 1,750 |
+| 最高已确认用户 ID | 1,750 |
+| 已确认博客 | 41 |
+| 公开 / 隐藏 / 不存在 / 未决 | 1,735 / 12 / 1 / 2 |
+| 最近成功更新 | 2026-08-30T06:15:35Z |
 
 ## 博客索引
 
@@ -60,6 +60,11 @@
 | [1091](https://icourse.club/user/1091) | [www.lwoo1999.cn](http://www.lwoo1999.cn/) | 未检查 | 2026-08-30 |
 | [1173](https://icourse.club/user/1173) | [shaofengwu123.github.io](https://shaofengwu123.github.io/) | 未检查 | 2026-08-30 |
 | [1416](https://icourse.club/user/1416) | [home.ustc.edu.cn/~tageniu](http://home.ustc.edu.cn/~tageniu/) | 未检查 | 2026-08-30 |
+| [1581](https://icourse.club/user/1581) | [www.taoky.moe](https://www.taoky.moe/) | 未检查 | 2026-08-30 |
+| [1588](https://icourse.club/user/1588) | [home.ustc.edu.cn/~joey99](http://home.ustc.edu.cn/~joey99) | 未检查 | 2026-08-30 |
+| [1622](https://icourse.club/user/1622) | [home.ustc.edu.cn/~fym0503](http://home.ustc.edu.cn/~fym0503) | 未检查 | 2026-08-30 |
+| [1636](https://icourse.club/user/1636) | [cyugao.github.io](https://cyugao.github.io/) | 未检查 | 2026-08-30 |
+| [1652](https://icourse.club/user/1652) | [home.ustc.edu.cn/~matrix98](http://home.ustc.edu.cn/~matrix98) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
