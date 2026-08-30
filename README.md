@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 12,000 |
-| 最高已尝试 ID | 12,000 |
-| 最高已确认用户 ID | 12,000 |
-| 已确认博客 | 198 |
-| 公开 / 隐藏 / 不存在 / 未决 | 11,315 / 581 / 84 / 20 |
-| 最近成功更新 | 2026-08-30T14:59:02Z |
+| 已记录 ID | 12,250 |
+| 最高已尝试 ID | 12,250 |
+| 最高已确认用户 ID | 12,250 |
+| 已确认博客 | 200 |
+| 公开 / 隐藏 / 不存在 / 未决 | 11,555 / 590 / 85 / 20 |
+| 最近成功更新 | 2026-08-30T15:11:59Z |
 
 ## 博客索引
 
@@ -222,6 +222,8 @@
 | [11874](https://icourse.club/user/11874) | [phiyu.github.io](https://phiyu.github.io/) | 未检查 | 2026-08-30 |
 | [11925](https://icourse.club/user/11925) | [siecho-garden-git-main-siecho-yins-projects.vercel.app](https://siecho-garden-git-main-siecho-yins-projects.vercel.app/) | 未检查 | 2026-08-30 |
 | [11997](https://icourse.club/user/11997) | [www.zhihu.com/people/randolph-36-94-59](https://www.zhihu.com/people/randolph-36-94-59) | 未检查 | 2026-08-30 |
+| [12022](https://icourse.club/user/12022) | [www.deartutu.com](http://www.deartutu.com/) | 未检查 | 2026-08-30 |
+| [12186](https://icourse.club/user/12186) | [github.com/yzguo](https://github.com/yzguo) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
