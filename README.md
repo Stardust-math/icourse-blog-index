@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 3,500 |
-| 最高已尝试 ID | 3,500 |
-| 最高已确认用户 ID | 3,500 |
-| 已确认博客 | 82 |
-| 公开 / 隐藏 / 不存在 / 未决 | 3,453 / 38 / 2 / 7 |
-| 最近成功更新 | 2026-08-30T07:45:16Z |
+| 已记录 ID | 3,750 |
+| 最高已尝试 ID | 3,750 |
+| 最高已确认用户 ID | 3,750 |
+| 已确认博客 | 91 |
+| 公开 / 隐藏 / 不存在 / 未决 | 3,694 / 47 / 2 / 7 |
+| 最近成功更新 | 2026-08-30T07:58:14Z |
 
 ## 博客索引
 
@@ -106,6 +106,15 @@
 | [3415](https://icourse.club/user/3415) | [home.ustc.edu.cn/~zz0312](http://home.ustc.edu.cn/~zz0312/) | 未检查 | 2026-08-30 |
 | [3423](https://icourse.club/user/3423) | [home.ustc.edu.cn/~wxl20010508](http://home.ustc.edu.cn/~wxl20010508) | 未检查 | 2026-08-30 |
 | [3440](https://icourse.club/user/3440) | [home.ustc.edu.cn/~zyx240014](http://home.ustc.edu.cn/~zyx240014) | 未检查 | 2026-08-30 |
+| [3502](https://icourse.club/user/3502) | [home.ustc.edu.cn/~lyq010303](http://home.ustc.edu.cn/~lyq010303/) | 未检查 | 2026-08-30 |
+| [3537](https://icourse.club/user/3537) | [scholar.google.com/citations](https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN) | 未检查 | 2026-08-30 |
+| [3552](https://icourse.club/user/3552) | [jiming.site](https://jiming.site/) | 未检查 | 2026-08-30 |
+| [3598](https://icourse.club/user/3598) | [www.zhihu.com/people/liu-xing-yu-72-53](https://www.zhihu.com/people/liu-xing-yu-72-53) | 未检查 | 2026-08-30 |
+| [3601](https://icourse.club/user/3601) | [he-jiazhi.github.io](https://he-jiazhi.github.io/) | 未检查 | 2026-08-30 |
+| [3653](https://icourse.club/user/3653) | [space.bilibili.com/36022677](https://space.bilibili.com/36022677) | 未检查 | 2026-08-30 |
+| [3664](https://icourse.club/user/3664) | [home.ustc.edu.cn/~lumiao](http://home.ustc.edu.cn/~lumiao) | 未检查 | 2026-08-30 |
+| [3698](https://icourse.club/user/3698) | [cathy-cai.page](https://cathy-cai.page/) | 未检查 | 2026-08-30 |
+| [3742](https://icourse.club/user/3742) | [sjl1273249044.wixsite.com/sunjack](https://sjl1273249044.wixsite.com/sunjack) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
