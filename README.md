@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 2,250 |
-| 最高已尝试 ID | 2,250 |
-| 最高已确认用户 ID | 2,250 |
-| 已确认博客 | 51 |
-| 公开 / 隐藏 / 不存在 / 未决 | 2,230 / 17 / 1 / 2 |
-| 最近成功更新 | 2026-08-30T06:41:17Z |
+| 已记录 ID | 2,500 |
+| 最高已尝试 ID | 2,500 |
+| 最高已确认用户 ID | 2,500 |
+| 已确认博客 | 58 |
+| 公开 / 隐藏 / 不存在 / 未决 | 2,476 / 19 / 1 / 4 |
+| 最近成功更新 | 2026-08-30T06:54:08Z |
 
 ## 博客索引
 
@@ -75,6 +75,13 @@
 | [2193](https://icourse.club/user/2193) | [home.ustc.edu.cn/~yanhaoming](http://home.ustc.edu.cn/~yanhaoming) | 未检查 | 2026-08-30 |
 | [2201](https://icourse.club/user/2201) | [lsy617004926.github.io](https://lsy617004926.github.io/) | 未检查 | 2026-08-30 |
 | [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | 未检查 | 2026-08-30 |
+| [2264](https://icourse.club/user/2264) | [live.bilibili.com/22625027](https://live.bilibili.com/22625027) | 未检查 | 2026-08-30 |
+| [2272](https://icourse.club/user/2272) | [home.ustc.edu.cn/~stevenw0916](http://home.ustc.edu.cn/~stevenw0916) | 未检查 | 2026-08-30 |
+| [2288](https://icourse.club/user/2288) | [home.ustc.edu.cn/~yongchengzheng](http://home.ustc.edu.cn/~yongchengzheng) | 未检查 | 2026-08-30 |
+| [2341](https://icourse.club/user/2341) | [home.ustc.edu.cn/~volar](http://home.ustc.edu.cn/~volar/) | 未检查 | 2026-08-30 |
+| [2349](https://icourse.club/user/2349) | [m.bilibili.com/space/384521381](https://m.bilibili.com/space/384521381) | 未检查 | 2026-08-30 |
+| [2410](https://icourse.club/user/2410) | [space.bilibili.com/1832676](http://space.bilibili.com/1832676) | 未检查 | 2026-08-30 |
+| [2488](https://icourse.club/user/2488) | [github.com/realCattleya](https://github.com/realCattleya) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
