@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 8,750 |
-| 最高已尝试 ID | 8,750 |
-| 最高已确认用户 ID | 8,750 |
-| 已确认博客 | 163 |
-| 公开 / 隐藏 / 不存在 / 未决 | 8,289 / 363 / 82 / 16 |
-| 最近成功更新 | 2026-08-30T12:13:41Z |
+| 已记录 ID | 9,000 |
+| 最高已尝试 ID | 9,000 |
+| 最高已确认用户 ID | 9,000 |
+| 已确认博客 | 167 |
+| 公开 / 隐藏 / 不存在 / 未决 | 8,525 / 377 / 82 / 16 |
+| 最近成功更新 | 2026-08-30T12:26:28Z |
 
 ## 博客索引
 
@@ -187,6 +187,10 @@
 | [8318](https://icourse.club/user/8318) | [m.bilibili.com/video/BV1kW41147uB](https://m.bilibili.com/video/BV1kW41147uB) | 未检查 | 2026-08-30 |
 | [8672](https://icourse.club/user/8672) | [changshuoshen.github.io](https://changshuoshen.github.io/) | 未检查 | 2026-08-30 |
 | [8745](https://icourse.club/user/8745) | [github.com/XhyDds](https://github.com/XhyDds) | 未检查 | 2026-08-30 |
+| [8815](https://icourse.club/user/8815) | [cs.ustc.edu.cn/2020/0906/c23239a460115/page.htm](http://cs.ustc.edu.cn/2020/0906/c23239a460115/page.htm) | 未检查 | 2026-08-30 |
+| [8830](https://icourse.club/user/8830) | [b23.tv/3QIdcmq](https://b23.tv/3QIdcmq) | 未检查 | 2026-08-30 |
+| [8883](https://icourse.club/user/8883) | [yinxingxue.github.io](https://yinxingxue.github.io/) | 未检查 | 2026-08-30 |
+| [8933](https://icourse.club/user/8933) | [wenhaoyu1998.github.io](https://wenhaoyu1998.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
