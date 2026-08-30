@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 13,750 |
-| 最高已尝试 ID | 13,750 |
-| 最高已确认用户 ID | 13,750 |
-| 已确认博客 | 218 |
-| 公开 / 隐藏 / 不存在 / 未决 | 12,970 / 671 / 87 / 22 |
-| 最近成功更新 | 2026-08-30T16:39:05Z |
+| 已记录 ID | 14,000 |
+| 最高已尝试 ID | 14,000 |
+| 最高已确认用户 ID | 14,000 |
+| 已确认博客 | 221 |
+| 公开 / 隐藏 / 不存在 / 未决 | 13,210 / 681 / 87 / 22 |
+| 最近成功更新 | 2026-08-30T16:51:47Z |
 
 ## 博客索引
 
@@ -242,6 +242,9 @@
 | [13508](https://icourse.club/user/13508) | [ai.com](http://ai.com/) | 未检查 | 2026-08-30 |
 | [13520](https://icourse.club/user/13520) | [lunarkn1ght.github.io](http://lunarkn1ght.github.io/) | 未检查 | 2026-08-30 |
 | [13599](https://icourse.club/user/13599) | [kclo4-li.github.io](https://kclo4-li.github.io/) | 未检查 | 2026-08-30 |
+| [13780](https://icourse.club/user/13780) | [space.bilibili.com/319693953](https://space.bilibili.com/319693953) | 未检查 | 2026-08-30 |
+| [13886](https://icourse.club/user/13886) | [wingtings.pages.dev](https://wingtings.pages.dev/) | 未检查 | 2026-08-30 |
+| [13964](https://icourse.club/user/13964) | [jackyzhang26.github.io](https://jackyzhang26.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
