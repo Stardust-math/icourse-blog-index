@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 6,250 |
-| 最高已尝试 ID | 6,250 |
-| 最高已确认用户 ID | 6,250 |
-| 已确认博客 | 130 |
-| 公开 / 隐藏 / 不存在 / 未决 | 5,979 / 178 / 81 / 12 |
-| 最近成功更新 | 2026-08-30T10:05:56Z |
+| 已记录 ID | 6,500 |
+| 最高已尝试 ID | 6,500 |
+| 最高已确认用户 ID | 6,500 |
+| 已确认博客 | 133 |
+| 公开 / 隐藏 / 不存在 / 未决 | 6,213 / 194 / 81 / 12 |
+| 最近成功更新 | 2026-08-30T10:18:41Z |
 
 ## 博客索引
 
@@ -154,6 +154,9 @@
 | [5923](https://icourse.club/user/5923) | [space.bilibili.com/117253680](https://space.bilibili.com/117253680) | 未检查 | 2026-08-30 |
 | [6087](https://icourse.club/user/6087) | [mint-cyq.github.io](https://mint-cyq.github.io/) | 未检查 | 2026-08-30 |
 | [6208](https://icourse.club/user/6208) | [k-telux.github.io](https://k-telux.github.io/) | 未检查 | 2026-08-30 |
+| [6280](https://icourse.club/user/6280) | [yiyang-github.github.io](https://yiyang-github.github.io/) | 未检查 | 2026-08-30 |
+| [6436](https://icourse.club/user/6436) | [jonbgua.com](https://jonbgua.com/) | 未检查 | 2026-08-30 |
+| [6478](https://icourse.club/user/6478) | [home.ustc.edu.cn/~wuyuewy](http://home.ustc.edu.cn/~wuyuewy/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
