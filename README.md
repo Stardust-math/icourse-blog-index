@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 4,000 |
-| 最高已尝试 ID | 4,000 |
-| 最高已确认用户 ID | 4,000 |
-| 已确认博客 | 93 |
-| 公开 / 隐藏 / 不存在 / 未决 | 3,929 / 62 / 2 / 7 |
-| 最近成功更新 | 2026-08-30T08:10:58Z |
+| 已记录 ID | 4,250 |
+| 最高已尝试 ID | 4,250 |
+| 最高已确认用户 ID | 4,250 |
+| 已确认博客 | 95 |
+| 公开 / 隐藏 / 不存在 / 未决 | 4,172 / 69 / 2 / 7 |
+| 最近成功更新 | 2026-08-30T08:23:42Z |
 
 ## 博客索引
 
@@ -117,6 +117,8 @@
 | [3742](https://icourse.club/user/3742) | [sjl1273249044.wixsite.com/sunjack](https://sjl1273249044.wixsite.com/sunjack) | 未检查 | 2026-08-30 |
 | [3783](https://icourse.club/user/3783) | [home.ustc.edu.cn/~sprout](http://home.ustc.edu.cn/~sprout) | 未检查 | 2026-08-30 |
 | [3860](https://icourse.club/user/3860) | [ustcforum.com/d/3703](https://ustcforum.com/d/3703) | 未检查 | 2026-08-30 |
+| [4216](https://icourse.club/user/4216) | [staff.ustc.edu.cn/~zhoushy/index.html](http://staff.ustc.edu.cn/~zhoushy/index.html) | 未检查 | 2026-08-30 |
+| [4243](https://icourse.club/user/4243) | [home.ustc.edu.cn/~wangxiangqi](http://home.ustc.edu.cn/~wangxiangqi) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
