@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 20,000 |
-| 最高已尝试 ID | 20,000 |
-| 最高已确认用户 ID | 20,000 |
-| 已确认博客 | 232 |
-| 公开 / 隐藏 / 不存在 / 未决 | 19,037 / 847 / 91 / 25 |
-| 最近成功更新 | 2026-08-30T21:55:45Z |
+| 已记录 ID | 20,250 |
+| 最高已尝试 ID | 20,250 |
+| 最高已确认用户 ID | 20,250 |
+| 已确认博客 | 233 |
+| 公开 / 隐藏 / 不存在 / 未决 | 19,283 / 850 / 91 / 26 |
+| 最近成功更新 | 2026-08-30T22:08:33Z |
 
 ## 博客索引
 
@@ -256,6 +256,7 @@
 | [17487](https://icourse.club/user/17487) | [enthusjast.cc](http://enthusjast.cc/) | 未检查 | 2026-08-30 |
 | [17706](https://icourse.club/user/17706) | [staff.ustc.edu.cn/~dinggj/index.html](http://staff.ustc.edu.cn/~dinggj/index.html) | 未检查 | 2026-08-30 |
 | [17760](https://icourse.club/user/17760) | [www.yuanshen.com](https://www.yuanshen.com/) | 未检查 | 2026-08-30 |
+| [20161](https://icourse.club/user/20161) | [www.hfnl.ustc.edu.cn/detail](http://www.hfnl.ustc.edu.cn/detail?id=11324) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
