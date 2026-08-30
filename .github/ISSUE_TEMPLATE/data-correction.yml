@@ -1,0 +1,41 @@
+name: 博客索引更正或移除
+description: 报告某个公开用户 ID 的博客链接错误，或提出更正/移除请求
+title: "[数据更正] 用户 ID "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请只提交可以公开核验的信息。不要在 Issue 中填写邮箱、学号、Cookie、身份证明或其他私人资料。
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: 请求类型
+      options:
+        - 博客链接错误
+        - 博客链接已经修改或删除
+        - 请求从索引中移除
+        - 其他解析问题
+    validations:
+      required: true
+  - type: input
+    id: user_id
+    attributes:
+      label: 评课社区用户 ID
+      description: 只填写用户页末尾的正整数，例如 11706。
+      placeholder: "11706"
+    validations:
+      required: true
+  - type: textarea
+    id: public_evidence
+    attributes:
+      label: 可公开核验的说明
+      description: 请说明错误现象；如有必要，可附公开页面链接，但不要附私人资料。
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 隐私确认
+      options:
+        - label: 我确认本 Issue 不包含邮箱、学号、Cookie 或其他不应公开的信息。
+          required: true
