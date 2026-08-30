@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 15,250 |
-| 最高已尝试 ID | 15,250 |
-| 最高已确认用户 ID | 15,250 |
-| 已确认博客 | 222 |
-| 公开 / 隐藏 / 不存在 / 未决 | 14,413 / 727 / 88 / 22 |
-| 最近成功更新 | 2026-08-30T17:54:39Z |
+| 已记录 ID | 15,500 |
+| 最高已尝试 ID | 15,500 |
+| 最高已确认用户 ID | 15,500 |
+| 已确认博客 | 223 |
+| 公开 / 隐藏 / 不存在 / 未决 | 14,660 / 730 / 88 / 22 |
+| 最近成功更新 | 2026-08-30T18:07:43Z |
 
 ## 博客索引
 
@@ -246,6 +246,7 @@
 | [13886](https://icourse.club/user/13886) | [wingtings.pages.dev](https://wingtings.pages.dev/) | 未检查 | 2026-08-30 |
 | [13964](https://icourse.club/user/13964) | [jackyzhang26.github.io](https://jackyzhang26.github.io/) | 未检查 | 2026-08-30 |
 | [14464](https://icourse.club/user/14464) | [crazyaiden233.github.io](https://crazyaiden233.github.io/) | 未检查 | 2026-08-30 |
+| [15351](https://icourse.club/user/15351) | [jingyizhang05.github.io](https://jingyizhang05.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
