@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 11,750 |
-| 最高已尝试 ID | 11,750 |
-| 最高已确认用户 ID | 11,750 |
-| 已确认博客 | 194 |
-| 公开 / 隐藏 / 不存在 / 未决 | 11,084 / 563 / 83 / 20 |
-| 最近成功更新 | 2026-08-30T14:46:21Z |
+| 已记录 ID | 12,000 |
+| 最高已尝试 ID | 12,000 |
+| 最高已确认用户 ID | 12,000 |
+| 已确认博客 | 198 |
+| 公开 / 隐藏 / 不存在 / 未决 | 11,315 / 581 / 84 / 20 |
+| 最近成功更新 | 2026-08-30T14:59:02Z |
 
 ## 博客索引
 
@@ -218,6 +218,10 @@
 | [11406](https://icourse.club/user/11406) | [icourse.club/user/settings](https://icourse.club/user/settings/) | 未检查 | 2026-08-30 |
 | [11421](https://icourse.club/user/11421) | [auto.ustc.edu.cn/teacher\_details.php](https://auto.ustc.edu.cn/teacher_details.php?i=70) | 未检查 | 2026-08-30 |
 | [11706](https://icourse.club/user/11706) | [stardust-math.pages.dev](https://stardust-math.pages.dev/) | 未检查 | 2026-08-30 |
+| [11757](https://icourse.club/user/11757) | [staff.ustc.edu.cn/~zqj/about](http://staff.ustc.edu.cn/~zqj/about/) | 未检查 | 2026-08-30 |
+| [11874](https://icourse.club/user/11874) | [phiyu.github.io](https://phiyu.github.io/) | 未检查 | 2026-08-30 |
+| [11925](https://icourse.club/user/11925) | [siecho-garden-git-main-siecho-yins-projects.vercel.app](https://siecho-garden-git-main-siecho-yins-projects.vercel.app/) | 未检查 | 2026-08-30 |
+| [11997](https://icourse.club/user/11997) | [www.zhihu.com/people/randolph-36-94-59](https://www.zhihu.com/people/randolph-36-94-59) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
