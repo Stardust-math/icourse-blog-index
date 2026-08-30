@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 4,250 |
-| 最高已尝试 ID | 4,250 |
-| 最高已确认用户 ID | 4,250 |
-| 已确认博客 | 95 |
-| 公开 / 隐藏 / 不存在 / 未决 | 4,172 / 69 / 2 / 7 |
-| 最近成功更新 | 2026-08-30T08:23:42Z |
+| 已记录 ID | 4,500 |
+| 最高已尝试 ID | 4,500 |
+| 最高已确认用户 ID | 4,500 |
+| 已确认博客 | 102 |
+| 公开 / 隐藏 / 不存在 / 未决 | 4,407 / 84 / 2 / 7 |
+| 最近成功更新 | 2026-08-30T08:36:29Z |
 
 ## 博客索引
 
@@ -119,6 +119,13 @@
 | [3860](https://icourse.club/user/3860) | [ustcforum.com/d/3703](https://ustcforum.com/d/3703) | 未检查 | 2026-08-30 |
 | [4216](https://icourse.club/user/4216) | [staff.ustc.edu.cn/~zhoushy/index.html](http://staff.ustc.edu.cn/~zhoushy/index.html) | 未检查 | 2026-08-30 |
 | [4243](https://icourse.club/user/4243) | [home.ustc.edu.cn/~wangxiangqi](http://home.ustc.edu.cn/~wangxiangqi) | 未检查 | 2026-08-30 |
+| [4254](https://icourse.club/user/4254) | [jpwang.site](https://jpwang.site/) | 未检查 | 2026-08-30 |
+| [4262](https://icourse.club/user/4262) | [ustc-dysania.github.io](https://ustc-dysania.github.io/) | 未检查 | 2026-08-30 |
+| [4387](https://icourse.club/user/4387) | [futwangalerda.github.io](http://futwangalerda.github.io/) | 未检查 | 2026-08-30 |
+| [4406](https://icourse.club/user/4406) | [txtxj.top](https://txtxj.top/) | 未检查 | 2026-08-30 |
+| [4457](https://icourse.club/user/4457) | [home.ustc.edu.cn/~zzx2002/new](http://home.ustc.edu.cn/~zzx2002/new) | 未检查 | 2026-08-30 |
+| [4480](https://icourse.club/user/4480) | [home.ustc.edu.cn/~jiajie](http://home.ustc.edu.cn/~jiajie/) | 未检查 | 2026-08-30 |
+| [4483](https://icourse.club/user/4483) | [archaeus13.github.io](http://archaeus13.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
