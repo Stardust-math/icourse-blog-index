@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 4,750 |
-| 最高已尝试 ID | 4,750 |
-| 最高已确认用户 ID | 4,750 |
-| 已确认博客 | 108 |
-| 公开 / 隐藏 / 不存在 / 未决 | 4,641 / 100 / 2 / 7 |
-| 最近成功更新 | 2026-08-30T08:49:19Z |
+| 已记录 ID | 5,000 |
+| 最高已尝试 ID | 5,000 |
+| 最高已确认用户 ID | 5,000 |
+| 已确认博客 | 112 |
+| 公开 / 隐藏 / 不存在 / 未决 | 4,882 / 108 / 2 / 8 |
+| 最近成功更新 | 2026-08-30T09:02:07Z |
 
 ## 博客索引
 
@@ -132,6 +132,10 @@
 | [4619](https://icourse.club/user/4619) | [www.bilibili.com/video/BV1ea4y1W7x1](https://www.bilibili.com/video/BV1ea4y1W7x1/) | 未检查 | 2026-08-30 |
 | [4631](https://icourse.club/user/4631) | [icourse.club/user/4631](https://icourse.club/user/4631) | 未检查 | 2026-08-30 |
 | [4734](https://icourse.club/user/4734) | [home.ustc.edu.cn/~wyx\_mail](http://home.ustc.edu.cn/~wyx_mail/) | 未检查 | 2026-08-30 |
+| [4754](https://icourse.club/user/4754) | [zhichenzzz.github.io](http://zhichenzzz.github.io/) | 未检查 | 2026-08-30 |
+| [4811](https://icourse.club/user/4811) | [home.ustc.edu.cn/~lixuanyu/main\_en/home.html](http://home.ustc.edu.cn/~lixuanyu/main_en/home.html) | 未检查 | 2026-08-30 |
+| [4908](https://icourse.club/user/4908) | [staff.ustc.edu.cn/~zbtang](http://staff.ustc.edu.cn/~zbtang/) | 未检查 | 2026-08-30 |
+| [4979](https://icourse.club/user/4979) | [staff.ustc.edu.cn/~hstan](http://staff.ustc.edu.cn/~hstan/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
