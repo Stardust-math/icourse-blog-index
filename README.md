@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 5,000 |
-| 最高已尝试 ID | 5,000 |
-| 最高已确认用户 ID | 5,000 |
-| 已确认博客 | 112 |
-| 公开 / 隐藏 / 不存在 / 未决 | 4,882 / 108 / 2 / 8 |
-| 最近成功更新 | 2026-08-30T09:02:07Z |
+| 已记录 ID | 5,250 |
+| 最高已尝试 ID | 5,250 |
+| 最高已确认用户 ID | 5,250 |
+| 已确认博客 | 116 |
+| 公开 / 隐藏 / 不存在 / 未决 | 5,117 / 123 / 2 / 8 |
+| 最近成功更新 | 2026-08-30T09:14:55Z |
 
 ## 博客索引
 
@@ -136,6 +136,10 @@
 | [4811](https://icourse.club/user/4811) | [home.ustc.edu.cn/~lixuanyu/main\_en/home.html](http://home.ustc.edu.cn/~lixuanyu/main_en/home.html) | 未检查 | 2026-08-30 |
 | [4908](https://icourse.club/user/4908) | [staff.ustc.edu.cn/~zbtang](http://staff.ustc.edu.cn/~zbtang/) | 未检查 | 2026-08-30 |
 | [4979](https://icourse.club/user/4979) | [staff.ustc.edu.cn/~hstan](http://staff.ustc.edu.cn/~hstan/) | 未检查 | 2026-08-30 |
+| [5002](https://icourse.club/user/5002) | [bessgendre.github.io](https://bessgendre.github.io/) | 未检查 | 2026-08-30 |
+| [5040](https://icourse.club/user/5040) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 未检查 | 2026-08-30 |
+| [5116](https://icourse.club/user/5116) | [lstarnana7mi.com](http://lstarnana7mi.com/) | 未检查 | 2026-08-30 |
+| [5195](https://icourse.club/user/5195) | [home.ustc.edu.cn/~es020711/home](http://home.ustc.edu.cn/~es020711/home/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
