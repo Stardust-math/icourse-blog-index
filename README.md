@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 6,000 |
-| 最高已尝试 ID | 6,000 |
-| 最高已确认用户 ID | 5,988 |
-| 已确认博客 | 128 |
-| 公开 / 隐藏 / 不存在 / 未决 | 5,809 / 164 / 15 / 12 |
-| 最近成功更新 | 2026-08-30T09:53:15Z |
+| 已记录 ID | 6,250 |
+| 最高已尝试 ID | 6,250 |
+| 最高已确认用户 ID | 6,250 |
+| 已确认博客 | 130 |
+| 公开 / 隐藏 / 不存在 / 未决 | 5,979 / 178 / 81 / 12 |
+| 最近成功更新 | 2026-08-30T10:05:56Z |
 
 ## 博客索引
 
@@ -152,6 +152,8 @@
 | [5878](https://icourse.club/user/5878) | [zsbzsb.cnblogs.com](http://zsbzsb.cnblogs.com/) | 未检查 | 2026-08-30 |
 | [5894](https://icourse.club/user/5894) | [home.ustc.edu.cn/~cc22155](http://home.ustc.edu.cn/~cc22155) | 未检查 | 2026-08-30 |
 | [5923](https://icourse.club/user/5923) | [space.bilibili.com/117253680](https://space.bilibili.com/117253680) | 未检查 | 2026-08-30 |
+| [6087](https://icourse.club/user/6087) | [mint-cyq.github.io](https://mint-cyq.github.io/) | 未检查 | 2026-08-30 |
+| [6208](https://icourse.club/user/6208) | [k-telux.github.io](https://k-telux.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
