@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 2,000 |
-| 最高已尝试 ID | 2,000 |
-| 最高已确认用户 ID | 2,000 |
-| 已确认博客 | 44 |
-| 公开 / 隐藏 / 不存在 / 未决 | 1,984 / 13 / 1 / 2 |
-| 最近成功更新 | 2026-08-30T06:28:26Z |
+| 已记录 ID | 2,250 |
+| 最高已尝试 ID | 2,250 |
+| 最高已确认用户 ID | 2,250 |
+| 已确认博客 | 51 |
+| 公开 / 隐藏 / 不存在 / 未决 | 2,230 / 17 / 1 / 2 |
+| 最近成功更新 | 2026-08-30T06:41:17Z |
 
 ## 博客索引
 
@@ -68,6 +68,13 @@
 | [1808](https://icourse.club/user/1808) | [home.ustc.edu.cn/~wt1997](http://home.ustc.edu.cn/~wt1997) | 未检查 | 2026-08-30 |
 | [1924](https://icourse.club/user/1924) | [adven00.github.io](https://adven00.github.io/) | 未检查 | 2026-08-30 |
 | [1939](https://icourse.club/user/1939) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 未检查 | 2026-08-30 |
+| [2080](https://icourse.club/user/2080) | [david-ustc.github.io](http://david-ustc.github.io/) | 未检查 | 2026-08-30 |
+| [2087](https://icourse.club/user/2087) | [www.po-i.life](http://www.po-i.life/) | 未检查 | 2026-08-30 |
+| [2111](https://icourse.club/user/2111) | [home.ustc.edu.cn/~pyh2018](http://home.ustc.edu.cn/~pyh2018) | 未检查 | 2026-08-30 |
+| [2114](https://icourse.club/user/2114) | [home.ustc.edu.cn/~wtd2018](http://home.ustc.edu.cn/~wtd2018/) | 未检查 | 2026-08-30 |
+| [2193](https://icourse.club/user/2193) | [home.ustc.edu.cn/~yanhaoming](http://home.ustc.edu.cn/~yanhaoming) | 未检查 | 2026-08-30 |
+| [2201](https://icourse.club/user/2201) | [lsy617004926.github.io](https://lsy617004926.github.io/) | 未检查 | 2026-08-30 |
+| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
