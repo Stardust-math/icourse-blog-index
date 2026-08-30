@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 16,250 |
-| 最高已尝试 ID | 16,250 |
-| 最高已确认用户 ID | 16,250 |
-| 已确认博客 | 224 |
-| 公开 / 隐藏 / 不存在 / 未决 | 15,398 / 742 / 88 / 22 |
-| 最近成功更新 | 2026-08-30T18:46:31Z |
+| 已记录 ID | 16,500 |
+| 最高已尝试 ID | 16,500 |
+| 最高已确认用户 ID | 16,500 |
+| 已确认博客 | 228 |
+| 公开 / 隐藏 / 不存在 / 未决 | 15,645 / 745 / 88 / 22 |
+| 最近成功更新 | 2026-08-30T18:59:12Z |
 
 ## 博客索引
 
@@ -248,6 +248,10 @@
 | [14464](https://icourse.club/user/14464) | [crazyaiden233.github.io](https://crazyaiden233.github.io/) | 未检查 | 2026-08-30 |
 | [15351](https://icourse.club/user/15351) | [jingyizhang05.github.io](https://jingyizhang05.github.io/) | 未检查 | 2026-08-30 |
 | [15982](https://icourse.club/user/15982) | [lodetech.ustc.edu.cn](http://lodetech.ustc.edu.cn/) | 未检查 | 2026-08-30 |
+| [16379](https://icourse.club/user/16379) | [staff.ustc.edu.cn/~hzli](http://staff.ustc.edu.cn/~hzli/) | 未检查 | 2026-08-30 |
+| [16384](https://icourse.club/user/16384) | [kdelab.ustc.edu.cn/~jpq](https://kdelab.ustc.edu.cn/~jpq/) | 未检查 | 2026-08-30 |
+| [16453](https://icourse.club/user/16453) | [www.lylighte.cc](https://www.lylighte.cc/) | 未检查 | 2026-08-30 |
+| [16466](https://icourse.club/user/16466) | [zh-hans.chaturbate.com](https://zh-hans.chaturbate.com/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
