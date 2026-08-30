@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 2,750 |
-| 最高已尝试 ID | 2,750 |
-| 最高已确认用户 ID | 2,750 |
-| 已确认博客 | 65 |
-| 公开 / 隐藏 / 不存在 / 未决 | 2,724 / 20 / 1 / 5 |
-| 最近成功更新 | 2026-08-30T07:06:59Z |
+| 已记录 ID | 3,000 |
+| 最高已尝试 ID | 3,000 |
+| 最高已确认用户 ID | 3,000 |
+| 已确认博客 | 72 |
+| 公开 / 隐藏 / 不存在 / 未决 | 2,967 / 25 / 1 / 7 |
+| 最近成功更新 | 2026-08-30T07:19:48Z |
 
 ## 博客索引
 
@@ -89,6 +89,13 @@
 | [2682](https://icourse.club/user/2682) | [jw.ustc.edu.cn](http://jw.ustc.edu.cn/) | 未检查 | 2026-08-30 |
 | [2711](https://icourse.club/user/2711) | [1145141919810.com](http://1145141919810.com/) | 未检查 | 2026-08-30 |
 | [2736](https://icourse.club/user/2736) | [home.ustc.edu.cn/~jerryao](http://home.ustc.edu.cn/~jerryao/) | 未检查 | 2026-08-30 |
+| [2776](https://icourse.club/user/2776) | [home.ustc.edu.cn/~luke2001](http://home.ustc.edu.cn/~luke2001/) | 未检查 | 2026-08-30 |
+| [2800](https://icourse.club/user/2800) | [home.ustc.edu.cn/~yssickjgd](http://home.ustc.edu.cn/~yssickjgd) | 未检查 | 2026-08-30 |
+| [2829](https://icourse.club/user/2829) | [home.ustc.edu.cn/~tian18](http://home.ustc.edu.cn/~tian18) | 未检查 | 2026-08-30 |
+| [2832](https://icourse.club/user/2832) | [www.wdmota.com](https://www.wdmota.com/) | 未检查 | 2026-08-30 |
+| [2850](https://icourse.club/user/2850) | [home.ustc.edu.cn/~pscgylotti](http://home.ustc.edu.cn/~pscgylotti/) | 未检查 | 2026-08-30 |
+| [2868](https://icourse.club/user/2868) | [boyiwei.com](http://boyiwei.com/) | 未检查 | 2026-08-30 |
+| [2997](https://icourse.club/user/2997) | [pplab.ustc.edu.cn](http://pplab.ustc.edu.cn/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
