@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 11,250 |
-| 最高已尝试 ID | 11,250 |
-| 最高已确认用户 ID | 11,250 |
-| 已确认博客 | 191 |
-| 公开 / 隐藏 / 不存在 / 未决 | 10,609 / 539 / 82 / 20 |
-| 最近成功更新 | 2026-08-30T14:20:59Z |
+| 已记录 ID | 11,500 |
+| 最高已尝试 ID | 11,500 |
+| 最高已确认用户 ID | 11,500 |
+| 已确认博客 | 193 |
+| 公开 / 隐藏 / 不存在 / 未决 | 10,848 / 550 / 82 / 20 |
+| 最近成功更新 | 2026-08-30T14:33:36Z |
 
 ## 博客索引
 
@@ -215,6 +215,8 @@
 | [10968](https://icourse.club/user/10968) | [proboscis-erkel.github.io](https://proboscis-erkel.github.io/) | 未检查 | 2026-08-30 |
 | [10979](https://icourse.club/user/10979) | [www.xn--fiqs8srwby7cba020i2hih02b.com](http://www.xn--fiqs8srwby7cba020i2hih02b.com/) | 未检查 | 2026-08-30 |
 | [11012](https://icourse.club/user/11012) | [mulious.github.io](https://mulious.github.io/) | 未检查 | 2026-08-30 |
+| [11406](https://icourse.club/user/11406) | [icourse.club/user/settings](https://icourse.club/user/settings/) | 未检查 | 2026-08-30 |
+| [11421](https://icourse.club/user/11421) | [auto.ustc.edu.cn/teacher\_details.php](https://auto.ustc.edu.cn/teacher_details.php?i=70) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
