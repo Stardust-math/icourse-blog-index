@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 5,750 |
-| 最高已尝试 ID | 5,750 |
-| 最高已确认用户 ID | 5,750 |
-| 已确认博客 | 124 |
-| 公开 / 隐藏 / 不存在 / 未决 | 5,593 / 145 / 3 / 9 |
-| 最近成功更新 | 2026-08-30T09:40:30Z |
+| 已记录 ID | 6,000 |
+| 最高已尝试 ID | 6,000 |
+| 最高已确认用户 ID | 5,988 |
+| 已确认博客 | 128 |
+| 公开 / 隐藏 / 不存在 / 未决 | 5,809 / 164 / 15 / 12 |
+| 最近成功更新 | 2026-08-30T09:53:15Z |
 
 ## 博客索引
 
@@ -148,6 +148,10 @@
 | [5676](https://icourse.club/user/5676) | [oybdooo.github.io](https://oybdooo.github.io/) | 未检查 | 2026-08-30 |
 | [5677](https://icourse.club/user/5677) | [www.zhihu.com/people/swayee2022](https://www.zhihu.com/people/swayee2022) | 未检查 | 2026-08-30 |
 | [5721](https://icourse.club/user/5721) | [home.ustc.edu.cn/~liuyuanche](http://home.ustc.edu.cn/~liuyuanche) | 未检查 | 2026-08-30 |
+| [5768](https://icourse.club/user/5768) | [home.ustc.edu.cn/~shiyaowei040126](http://home.ustc.edu.cn/~shiyaowei040126) | 未检查 | 2026-08-30 |
+| [5878](https://icourse.club/user/5878) | [zsbzsb.cnblogs.com](http://zsbzsb.cnblogs.com/) | 未检查 | 2026-08-30 |
+| [5894](https://icourse.club/user/5894) | [home.ustc.edu.cn/~cc22155](http://home.ustc.edu.cn/~cc22155) | 未检查 | 2026-08-30 |
+| [5923](https://icourse.club/user/5923) | [space.bilibili.com/117253680](https://space.bilibili.com/117253680) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
