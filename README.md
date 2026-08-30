@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 17,250 |
-| 最高已尝试 ID | 17,250 |
-| 最高已确认用户 ID | 17,250 |
-| 已确认博客 | 229 |
-| 公开 / 隐藏 / 不存在 / 未决 | 16,375 / 765 / 88 / 22 |
-| 最近成功更新 | 2026-08-30T19:37:08Z |
+| 已记录 ID | 17,500 |
+| 最高已尝试 ID | 17,500 |
+| 最高已确认用户 ID | 17,500 |
+| 已确认博客 | 230 |
+| 公开 / 隐藏 / 不存在 / 未决 | 16,610 / 779 / 88 / 23 |
+| 最近成功更新 | 2026-08-30T19:49:44Z |
 
 ## 博客索引
 
@@ -253,6 +253,7 @@
 | [16453](https://icourse.club/user/16453) | [www.lylighte.cc](https://www.lylighte.cc/) | 未检查 | 2026-08-30 |
 | [16466](https://icourse.club/user/16466) | [zh-hans.chaturbate.com](https://zh-hans.chaturbate.com/) | 未检查 | 2026-08-30 |
 | [17136](https://icourse.club/user/17136) | [joshuaxql.github.io](https://joshuaxql.github.io/) | 未检查 | 2026-08-30 |
+| [17487](https://icourse.club/user/17487) | [enthusjast.cc](http://enthusjast.cc/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
