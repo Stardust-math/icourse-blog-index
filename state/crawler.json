@@ -2,13 +2,13 @@
   "boundary_candidate_start": null,
   "boundary_confirmation_pending": false,
   "consecutive_missing_after_frontier": 0,
-  "highest_attempted_id": 6500,
-  "highest_confirmed_user_id": 6500,
-  "last_run_id": "bootstrap-20260830T100600Z-6f589620",
+  "highest_attempted_id": 6750,
+  "highest_confirmed_user_id": 6750,
+  "last_run_id": "bootstrap-20260830T101845Z-02b2e5bf",
   "maintenance_cursor": 1,
-  "next_id": 6501,
+  "next_id": 6751,
   "paused_from_phase": null,
   "phase": "bootstrap",
   "schema_version": 1,
-  "updated_at": "2026-08-30T10:18:41Z"
+  "updated_at": "2026-08-30T10:31:21Z"
 }

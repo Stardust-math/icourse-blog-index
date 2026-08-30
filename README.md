@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 6,500 |
-| 最高已尝试 ID | 6,500 |
-| 最高已确认用户 ID | 6,500 |
-| 已确认博客 | 133 |
-| 公开 / 隐藏 / 不存在 / 未决 | 6,213 / 194 / 81 / 12 |
-| 最近成功更新 | 2026-08-30T10:18:41Z |
+| 已记录 ID | 6,750 |
+| 最高已尝试 ID | 6,750 |
+| 最高已确认用户 ID | 6,750 |
+| 已确认博客 | 136 |
+| 公开 / 隐藏 / 不存在 / 未决 | 6,451 / 204 / 82 / 13 |
+| 最近成功更新 | 2026-08-30T10:31:21Z |
 
 ## 博客索引
 
@@ -157,6 +157,9 @@
 | [6280](https://icourse.club/user/6280) | [yiyang-github.github.io](https://yiyang-github.github.io/) | 未检查 | 2026-08-30 |
 | [6436](https://icourse.club/user/6436) | [jonbgua.com](https://jonbgua.com/) | 未检查 | 2026-08-30 |
 | [6478](https://icourse.club/user/6478) | [home.ustc.edu.cn/~wuyuewy](http://home.ustc.edu.cn/~wuyuewy/) | 未检查 | 2026-08-30 |
+| [6576](https://icourse.club/user/6576) | [home.ustc.edu.cn/~yfrua](http://home.ustc.edu.cn/~yfrua/) | 未检查 | 2026-08-30 |
+| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 未检查 | 2026-08-30 |
+| [6674](https://icourse.club/user/6674) | [cs-pikachuu.github.io](http://cs-pikachuu.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
