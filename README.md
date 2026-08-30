@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 8,000 |
-| 最高已尝试 ID | 8,000 |
-| 最高已确认用户 ID | 8,000 |
-| 已确认博客 | 154 |
-| 公开 / 隐藏 / 不存在 / 未决 | 7,613 / 291 / 82 / 14 |
-| 最近成功更新 | 2026-08-30T11:35:05Z |
+| 已记录 ID | 8,250 |
+| 最高已尝试 ID | 8,250 |
+| 最高已确认用户 ID | 8,250 |
+| 已确认博客 | 160 |
+| 公开 / 隐藏 / 不存在 / 未决 | 7,839 / 314 / 82 / 15 |
+| 最近成功更新 | 2026-08-30T11:48:18Z |
 
 ## 博客索引
 
@@ -178,6 +178,12 @@
 | [7886](https://icourse.club/user/7886) | [home.ustc.edu.cn/~caimx](http://home.ustc.edu.cn/~caimx/) | 未检查 | 2026-08-30 |
 | [7945](https://icourse.club/user/7945) | [blog.iw17.cc](http://blog.iw17.cc/) | 未检查 | 2026-08-30 |
 | [7957](https://icourse.club/user/7957) | [www.zhihu.com/question/49745524/answer/1882947054944355726](https://www.zhihu.com/question/49745524/answer/1882947054944355726?utm_psn=1921605902340957858) | 未检查 | 2026-08-30 |
+| [8008](https://icourse.club/user/8008) | [taitai2025.github.io](https://taitai2025.github.io/) | 未检查 | 2026-08-30 |
+| [8015](https://icourse.club/user/8015) | [kaimoumou.notion.site](http://kaimoumou.notion.site/) | 未检查 | 2026-08-30 |
+| [8020](https://icourse.club/user/8020) | [peanut-tang.github.io](https://peanut-tang.github.io/) | 未检查 | 2026-08-30 |
+| [8086](https://icourse.club/user/8086) | [2023.sodium.icu](http://2023.sodium.icu/) | 未检查 | 2026-08-30 |
+| [8139](https://icourse.club/user/8139) | [pems.ustc.edu.cn](http://pems.ustc.edu.cn/) | 未检查 | 2026-08-30 |
+| [8183](https://icourse.club/user/8183) | [www.azarai.top](http://www.azarai.top/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
