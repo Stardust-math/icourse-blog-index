@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 13,250 |
-| 最高已尝试 ID | 13,250 |
-| 最高已确认用户 ID | 13,250 |
-| 已确认博客 | 212 |
-| 公开 / 隐藏 / 不存在 / 未决 | 12,497 / 646 / 87 / 20 |
-| 最近成功更新 | 2026-08-30T16:10:28Z |
+| 已记录 ID | 13,500 |
+| 最高已尝试 ID | 13,500 |
+| 最高已确认用户 ID | 13,500 |
+| 已确认博客 | 215 |
+| 公开 / 隐藏 / 不存在 / 未决 | 12,735 / 656 / 87 / 22 |
+| 最近成功更新 | 2026-08-30T16:26:25Z |
 
 ## 博客索引
 
@@ -236,6 +236,9 @@
 | [12915](https://icourse.club/user/12915) | [app.molview.com](https://app.molview.com/) | 未检查 | 2026-08-30 |
 | [12918](https://icourse.club/user/12918) | [www.teach.ustc.edu.cn](https://www.teach.ustc.edu.cn/) | 未检查 | 2026-08-30 |
 | [12989](https://icourse.club/user/12989) | [poorotterbob.github.io](https://poorotterbob.github.io/) | 未检查 | 2026-08-30 |
+| [13285](https://icourse.club/user/13285) | [faculty.ustc.edu.cn/songguofeng/zh\_CN/index.htm](https://faculty.ustc.edu.cn/songguofeng/zh_CN/index.htm) | 未检查 | 2026-08-30 |
+| [13356](https://icourse.club/user/13356) | [mirawind.top](https://mirawind.top/) | 未检查 | 2026-08-30 |
+| [13482](https://icourse.club/user/13482) | [sulcop5.github.io](http://sulcop5.github.io/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
