@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 7,000 |
-| 最高已尝试 ID | 7,000 |
-| 最高已确认用户 ID | 7,000 |
-| 已确认博客 | 140 |
-| 公开 / 隐藏 / 不存在 / 未决 | 6,689 / 216 / 82 / 13 |
-| 最近成功更新 | 2026-08-30T10:44:08Z |
+| 已记录 ID | 7,250 |
+| 最高已尝试 ID | 7,250 |
+| 最高已确认用户 ID | 7,250 |
+| 已确认博客 | 145 |
+| 公开 / 隐藏 / 不存在 / 未决 | 6,919 / 236 / 82 / 13 |
+| 最近成功更新 | 2026-08-30T10:56:55Z |
 
 ## 博客索引
 
@@ -164,6 +164,11 @@
 | [6795](https://icourse.club/user/6795) | [guyu168.github.io](https://guyu168.github.io/) | 未检查 | 2026-08-30 |
 | [6835](https://icourse.club/user/6835) | [www.4399.com](http://www.4399.com/) | 未检查 | 2026-08-30 |
 | [6916](https://icourse.club/user/6916) | [www.cnblogs.com/houchaoqun](https://www.cnblogs.com/houchaoqun/) | 未检查 | 2026-08-30 |
+| [7050](https://icourse.club/user/7050) | [home.ustc.edu.cn/~fa1247](http://home.ustc.edu.cn/~fa1247/) | 未检查 | 2026-08-30 |
+| [7051](https://icourse.club/user/7051) | [github.com/Schordinger-Ronin](https://github.com/Schordinger-Ronin) | 未检查 | 2026-08-30 |
+| [7088](https://icourse.club/user/7088) | [home.ustc.edu.cn/~liangjh](http://home.ustc.edu.cn/~liangjh/) | 未检查 | 2026-08-30 |
+| [7214](https://icourse.club/user/7214) | [www.cztcode.com](http://www.cztcode.com/) | 未检查 | 2026-08-30 |
+| [7230](https://icourse.club/user/7230) | [www.cnblogs.com/wysngblogs](https://www.cnblogs.com/wysngblogs/) | 未检查 | 2026-08-30 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
