@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `in_progress` |
-| 已记录 ID | 22,500 |
-| 最高已尝试 ID | 22,500 |
-| 最高已确认用户 ID | 22,500 |
-| 已确认博客 | 236 |
-| 公开 / 隐藏 / 不存在 / 未决 | 21,495 / 879 / 97 / 29 |
-| 最近成功更新 | 2026-08-31T00:03:35Z |
+| 已记录 ID | 22,750 |
+| 最高已尝试 ID | 22,750 |
+| 最高已确认用户 ID | 22,750 |
+| 已确认博客 | 237 |
+| 公开 / 隐藏 / 不存在 / 未决 | 21,740 / 884 / 97 / 29 |
+| 最近成功更新 | 2026-08-31T00:16:16Z |
 
 ## 博客索引
 
@@ -260,6 +260,7 @@
 | [21241](https://icourse.club/user/21241) | [faculty.ustc.edu.cn/wuxinyu/zh\_CN/index.htm](http://faculty.ustc.edu.cn/wuxinyu/zh_CN/index.htm) | 未检查 | 2026-08-30 |
 | [21349](https://icourse.club/user/21349) | [learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct) | 未检查 | 2026-08-30 |
 | [21853](https://icourse.club/user/21853) | [mu2he.me](http://mu2he.me/) | 未检查 | 2026-08-30 |
+| [22687](https://icourse.club/user/22687) | [space.bilibili.com/5132046](https://space.bilibili.com/5132046) | 未检查 | 2026-08-31 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
