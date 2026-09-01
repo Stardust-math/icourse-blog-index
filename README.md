@@ -17,8 +17,8 @@
 | 最高已尝试 ID | 23,791 |
 | 最高已确认用户 ID | 23,600 |
 | 已确认博客 | 237 |
-| 公开 / 隐藏 / 不存在 / 未决 | 22,516 / 894 / 352 / 29 |
-| 最近成功更新 | 2026-08-31T01:26:24Z |
+| 公开 / 隐藏 / 不存在 / 未决 | 22,519 / 894 / 352 / 26 |
+| 最近成功更新 | 2026-09-01T07:37:55Z |
 
 ## 博客索引
 
@@ -26,173 +26,173 @@
 | ---: | --- | --- | --- |
 | [1](https://icourse.club/user/1) | [jenny42.com](http://jenny42.com/) | 已重定向 | 2026-08-30 |
 | [2](https://icourse.club/user/2) | [01.me](https://01.me/) | 可访问 | 2026-08-30 |
-| [4](https://icourse.club/user/4) | [zhengzihan.com](https://zhengzihan.com/) | 未检查 | 2026-08-30 |
+| [4](https://icourse.club/user/4) | [zhengzihan.com](https://zhengzihan.com/) | 待复核 | 2026-08-30 |
 | [10](https://icourse.club/user/10) | [cvhc.cc](https://cvhc.cc/) | 可访问 | 2026-08-30 |
 | [14](https://icourse.club/user/14) | [ibat.me](http://ibat.me/) | 可访问 | 2026-08-30 |
-| [15](https://icourse.club/user/15) | [wzhd.gitcafe.io](http://wzhd.gitcafe.io/) | 待复核 | 2026-08-30 |
-| [16](https://icourse.club/user/16) | [home.ustc.edu.cn/~lyishuai](http://home.ustc.edu.cn/~lyishuai) | 待复核 | 2026-08-30 |
+| [15](https://icourse.club/user/15) | [wzhd.gitcafe.io](http://wzhd.gitcafe.io/) | DNS 错误 | 2026-08-30 |
+| [16](https://icourse.club/user/16) | [home.ustc.edu.cn/~lyishuai](http://home.ustc.edu.cn/~lyishuai) | HTTP 4xx | 2026-08-30 |
 | [59](https://icourse.club/user/59) | [kuriyamamika.blogspot.jp](http://kuriyamamika.blogspot.jp/) | 已重定向 | 2026-08-30 |
-| [64](https://icourse.club/user/64) | [home.ustc.edu.cn/~mouzq](http://home.ustc.edu.cn/~mouzq/) | 待复核 | 2026-08-30 |
-| [116](https://icourse.club/user/116) | [ustclyh.github.io](https://ustclyh.github.io/) | 未检查 | 2026-08-30 |
-| [121](https://icourse.club/user/121) | [www.zhangjy9610.me/index-cn.html](https://www.zhangjy9610.me/index-cn.html) | 未检查 | 2026-08-30 |
-| [190](https://icourse.club/user/190) | [peijunz.github.io](http://peijunz.github.io/) | 待复核 | 2026-08-30 |
-| [316](https://icourse.club/user/316) | [www.zhihu.com/people/gai-nie-39](http://www.zhihu.com/people/gai-nie-39) | 待复核 | 2026-08-30 |
+| [64](https://icourse.club/user/64) | [home.ustc.edu.cn/~mouzq](http://home.ustc.edu.cn/~mouzq/) | HTTP 4xx | 2026-08-30 |
+| [116](https://icourse.club/user/116) | [ustclyh.github.io](https://ustclyh.github.io/) | 可访问 | 2026-08-30 |
+| [121](https://icourse.club/user/121) | [www.zhangjy9610.me/index-cn.html](https://www.zhangjy9610.me/index-cn.html) | 可访问 | 2026-08-30 |
+| [190](https://icourse.club/user/190) | [peijunz.github.io](http://peijunz.github.io/) | HTTP 4xx | 2026-08-30 |
+| [316](https://icourse.club/user/316) | [www.zhihu.com/people/gai-nie-39](http://www.zhihu.com/people/gai-nie-39) | 拒绝自动检查 | 2026-08-30 |
 | [320](https://icourse.club/user/320) | [ewind.us](http://ewind.us/) | 已重定向 | 2026-08-30 |
 | [385](https://icourse.club/user/385) | [eipi10ydz.github.io](http://eipi10ydz.github.io/) | 已重定向 | 2026-08-30 |
-| [397](https://icourse.club/user/397) | [parlorpink.weebly.com](http://parlorpink.weebly.com/) | 待复核 | 2026-08-30 |
-| [444](https://icourse.club/user/444) | [home.ustc.edu.cn/~ming9510](http://home.ustc.edu.cn/~ming9510) | 待复核 | 2026-08-30 |
+| [397](https://icourse.club/user/397) | [parlorpink.weebly.com](http://parlorpink.weebly.com/) | HTTP 4xx | 2026-08-30 |
+| [444](https://icourse.club/user/444) | [home.ustc.edu.cn/~ming9510](http://home.ustc.edu.cn/~ming9510) | HTTP 4xx | 2026-08-30 |
 | [450](https://icourse.club/user/450) | [0x01.me](http://0x01.me/) | 已重定向 | 2026-08-30 |
-| [455](https://icourse.club/user/455) | [ustczf.com](http://ustczf.com/) | 待复核 | 2026-08-30 |
+| [455](https://icourse.club/user/455) | [ustczf.com](http://ustczf.com/) | 拒绝自动检查 | 2026-08-30 |
 | [462](https://icourse.club/user/462) | [rat-racer.github.io](https://rat-racer.github.io/) | 可访问 | 2026-08-30 |
-| [470](https://icourse.club/user/470) | [home.ustc.edu.cn/~qzr](http://home.ustc.edu.cn/~qzr) | 待复核 | 2026-08-30 |
-| [502](https://icourse.club/user/502) | [home.ustc.edu.cn/~bourbaki](http://home.ustc.edu.cn/~bourbaki/) | 待复核 | 2026-08-30 |
-| [506](https://icourse.club/user/506) | [home.ustc.edu.cn/~fluorine](http://home.ustc.edu.cn/~fluorine/) | 待复核 | 2026-08-30 |
-| [511](https://icourse.club/user/511) | [ustchhy.me](http://ustchhy.me/) | 待复核 | 2026-08-30 |
+| [470](https://icourse.club/user/470) | [home.ustc.edu.cn/~qzr](http://home.ustc.edu.cn/~qzr) | HTTP 4xx | 2026-08-30 |
+| [502](https://icourse.club/user/502) | [home.ustc.edu.cn/~bourbaki](http://home.ustc.edu.cn/~bourbaki/) | HTTP 4xx | 2026-08-30 |
+| [506](https://icourse.club/user/506) | [home.ustc.edu.cn/~fluorine](http://home.ustc.edu.cn/~fluorine/) | HTTP 4xx | 2026-08-30 |
+| [511](https://icourse.club/user/511) | [ustchhy.me](http://ustchhy.me/) | DNS 错误 | 2026-08-30 |
 | [583](https://icourse.club/user/583) | [www.songchaow.cn](http://www.songchaow.cn/) | 已重定向 | 2026-08-30 |
-| [601](https://icourse.club/user/601) | [home.ustc.edu.cn/~zt001062](http://home.ustc.edu.cn/~zt001062) | 待复核 | 2026-08-30 |
-| [634](https://icourse.club/user/634) | [cims.nyu.edu/~lz2088](http://cims.nyu.edu/~lz2088) | 待复核 | 2026-08-30 |
-| [754](https://icourse.club/user/754) | [nirvana.blog.ustc.edu.cn](http://nirvana.blog.ustc.edu.cn/) | 待复核 | 2026-08-30 |
-| [777](https://icourse.club/user/777) | [rbword.blog.ustc.edu.cn](http://rbword.blog.ustc.edu.cn/) | 待复核 | 2026-08-30 |
-| [790](https://icourse.club/user/790) | [home.ustc.edu.cn/~xiangrui](http://home.ustc.edu.cn/~xiangrui) | 待复核 | 2026-08-30 |
-| [809](https://icourse.club/user/809) | [home.ustc.edu.cn/~hzzzkd](http://home.ustc.edu.cn/~hzzzkd/) | 待复核 | 2026-08-30 |
-| [922](https://icourse.club/user/922) | [micro.ustc.edu.cn/DingZJ](http://micro.ustc.edu.cn/DingZJ/) | 待复核 | 2026-08-30 |
-| [1001](https://icourse.club/user/1001) | [home.ustc.edu.cn/~xcss1104](http://home.ustc.edu.cn/~xcss1104) | 待复核 | 2026-08-30 |
-| [1091](https://icourse.club/user/1091) | [www.lwoo1999.cn](http://www.lwoo1999.cn/) | 待复核 | 2026-08-30 |
+| [601](https://icourse.club/user/601) | [home.ustc.edu.cn/~zt001062](http://home.ustc.edu.cn/~zt001062) | HTTP 4xx | 2026-08-30 |
+| [634](https://icourse.club/user/634) | [cims.nyu.edu/~lz2088](http://cims.nyu.edu/~lz2088) | 拒绝自动检查 | 2026-08-30 |
+| [754](https://icourse.club/user/754) | [nirvana.blog.ustc.edu.cn](http://nirvana.blog.ustc.edu.cn/) | DNS 错误 | 2026-08-30 |
+| [777](https://icourse.club/user/777) | [rbword.blog.ustc.edu.cn](http://rbword.blog.ustc.edu.cn/) | DNS 错误 | 2026-08-30 |
+| [790](https://icourse.club/user/790) | [home.ustc.edu.cn/~xiangrui](http://home.ustc.edu.cn/~xiangrui) | HTTP 4xx | 2026-08-30 |
+| [809](https://icourse.club/user/809) | [home.ustc.edu.cn/~hzzzkd](http://home.ustc.edu.cn/~hzzzkd/) | HTTP 4xx | 2026-08-30 |
+| [922](https://icourse.club/user/922) | [micro.ustc.edu.cn/DingZJ](http://micro.ustc.edu.cn/DingZJ/) | 拒绝自动检查 | 2026-08-30 |
+| [1001](https://icourse.club/user/1001) | [home.ustc.edu.cn/~xcss1104](http://home.ustc.edu.cn/~xcss1104) | HTTP 4xx | 2026-08-30 |
+| [1091](https://icourse.club/user/1091) | [www.lwoo1999.cn](http://www.lwoo1999.cn/) | DNS 错误 | 2026-08-30 |
 | [1173](https://icourse.club/user/1173) | [shaofengwu123.github.io](https://shaofengwu123.github.io/) | 可访问 | 2026-08-30 |
-| [1416](https://icourse.club/user/1416) | [home.ustc.edu.cn/~tageniu](http://home.ustc.edu.cn/~tageniu/) | 待复核 | 2026-08-30 |
-| [1581](https://icourse.club/user/1581) | [www.taoky.moe](https://www.taoky.moe/) | 未检查 | 2026-08-30 |
-| [1588](https://icourse.club/user/1588) | [home.ustc.edu.cn/~joey99](http://home.ustc.edu.cn/~joey99) | 待复核 | 2026-08-30 |
-| [1622](https://icourse.club/user/1622) | [home.ustc.edu.cn/~fym0503](http://home.ustc.edu.cn/~fym0503) | 待复核 | 2026-08-30 |
+| [1416](https://icourse.club/user/1416) | [home.ustc.edu.cn/~tageniu](http://home.ustc.edu.cn/~tageniu/) | HTTP 4xx | 2026-08-30 |
+| [1581](https://icourse.club/user/1581) | [www.taoky.moe](https://www.taoky.moe/) | 可访问 | 2026-08-30 |
+| [1588](https://icourse.club/user/1588) | [home.ustc.edu.cn/~joey99](http://home.ustc.edu.cn/~joey99) | HTTP 4xx | 2026-08-30 |
+| [1622](https://icourse.club/user/1622) | [home.ustc.edu.cn/~fym0503](http://home.ustc.edu.cn/~fym0503) | HTTP 4xx | 2026-08-30 |
 | [1636](https://icourse.club/user/1636) | [cyugao.github.io](https://cyugao.github.io/) | 可访问 | 2026-08-30 |
-| [1652](https://icourse.club/user/1652) | [home.ustc.edu.cn/~matrix98](http://home.ustc.edu.cn/~matrix98) | 待复核 | 2026-08-30 |
+| [1652](https://icourse.club/user/1652) | [home.ustc.edu.cn/~matrix98](http://home.ustc.edu.cn/~matrix98) | HTTP 4xx | 2026-08-30 |
 | [1808](https://icourse.club/user/1808) | [home.ustc.edu.cn/~wt1997](http://home.ustc.edu.cn/~wt1997) | 已重定向 | 2026-08-30 |
 | [1924](https://icourse.club/user/1924) | [adven00.github.io](https://adven00.github.io/) | 可访问 | 2026-08-30 |
-| [1939](https://icourse.club/user/1939) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 未检查 | 2026-08-30 |
+| [1939](https://icourse.club/user/1939) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 待复核 | 2026-08-30 |
 | [2080](https://icourse.club/user/2080) | [david-ustc.github.io](http://david-ustc.github.io/) | 已重定向 | 2026-08-30 |
-| [2087](https://icourse.club/user/2087) | [www.po-i.life](http://www.po-i.life/) | 待复核 | 2026-08-30 |
-| [2111](https://icourse.club/user/2111) | [home.ustc.edu.cn/~pyh2018](http://home.ustc.edu.cn/~pyh2018) | 待复核 | 2026-08-30 |
-| [2114](https://icourse.club/user/2114) | [home.ustc.edu.cn/~wtd2018](http://home.ustc.edu.cn/~wtd2018/) | 待复核 | 2026-08-30 |
-| [2193](https://icourse.club/user/2193) | [home.ustc.edu.cn/~yanhaoming](http://home.ustc.edu.cn/~yanhaoming) | 待复核 | 2026-08-30 |
+| [2087](https://icourse.club/user/2087) | [www.po-i.life](http://www.po-i.life/) | DNS 错误 | 2026-08-30 |
+| [2111](https://icourse.club/user/2111) | [home.ustc.edu.cn/~pyh2018](http://home.ustc.edu.cn/~pyh2018) | HTTP 4xx | 2026-08-30 |
+| [2114](https://icourse.club/user/2114) | [home.ustc.edu.cn/~wtd2018](http://home.ustc.edu.cn/~wtd2018/) | HTTP 4xx | 2026-08-30 |
+| [2193](https://icourse.club/user/2193) | [home.ustc.edu.cn/~yanhaoming](http://home.ustc.edu.cn/~yanhaoming) | HTTP 4xx | 2026-08-30 |
 | [2201](https://icourse.club/user/2201) | [lsy617004926.github.io](https://lsy617004926.github.io/) | 可访问 | 2026-08-30 |
-| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | 未检查 | 2026-08-30 |
+| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | 可访问 | 2026-08-30 |
 | [2264](https://icourse.club/user/2264) | [live.bilibili.com/22625027](https://live.bilibili.com/22625027) | 可访问 | 2026-08-30 |
 | [2272](https://icourse.club/user/2272) | [home.ustc.edu.cn/~stevenw0916](http://home.ustc.edu.cn/~stevenw0916) | 已重定向 | 2026-08-30 |
-| [2288](https://icourse.club/user/2288) | [home.ustc.edu.cn/~yongchengzheng](http://home.ustc.edu.cn/~yongchengzheng) | 待复核 | 2026-08-30 |
-| [2341](https://icourse.club/user/2341) | [home.ustc.edu.cn/~volar](http://home.ustc.edu.cn/~volar/) | 待复核 | 2026-08-30 |
+| [2288](https://icourse.club/user/2288) | [home.ustc.edu.cn/~yongchengzheng](http://home.ustc.edu.cn/~yongchengzheng) | HTTP 4xx | 2026-08-30 |
+| [2341](https://icourse.club/user/2341) | [home.ustc.edu.cn/~volar](http://home.ustc.edu.cn/~volar/) | HTTP 4xx | 2026-08-30 |
 | [2349](https://icourse.club/user/2349) | [m.bilibili.com/space/384521381](https://m.bilibili.com/space/384521381) | 已重定向 | 2026-08-30 |
 | [2410](https://icourse.club/user/2410) | [space.bilibili.com/1832676](http://space.bilibili.com/1832676) | 已重定向 | 2026-08-30 |
-| [2488](https://icourse.club/user/2488) | [github.com/realCattleya](https://github.com/realCattleya) | 待复核 | 2026-08-30 |
-| [2524](https://icourse.club/user/2524) | [math.ustc.edu.cn/Ch/faculty/index.php](http://math.ustc.edu.cn/Ch/faculty/index.php?f_name=%D0%FB%B1%BE%BD%F0) | 待复核 | 2026-08-30 |
-| [2621](https://icourse.club/user/2621) | [home.ustc.edu.cn/~yangxiaodong](http://home.ustc.edu.cn/~yangxiaodong) | 待复核 | 2026-08-30 |
+| [2488](https://icourse.club/user/2488) | [github.com/realCattleya](https://github.com/realCattleya) | HTTP 4xx | 2026-08-30 |
+| [2524](https://icourse.club/user/2524) | [math.ustc.edu.cn/Ch/faculty/index.php](http://math.ustc.edu.cn/Ch/faculty/index.php?f_name=%D0%FB%B1%BE%BD%F0) | HTTP 4xx | 2026-08-30 |
+| [2621](https://icourse.club/user/2621) | [home.ustc.edu.cn/~yangxiaodong](http://home.ustc.edu.cn/~yangxiaodong) | HTTP 4xx | 2026-08-30 |
 | [2625](https://icourse.club/user/2625) | [www.114514.com](http://www.114514.com/) | 已重定向 | 2026-08-30 |
-| [2631](https://icourse.club/user/2631) | [home.ustc.edu.cn/~lwh1106](http://home.ustc.edu.cn/~lwh1106) | 待复核 | 2026-08-30 |
+| [2631](https://icourse.club/user/2631) | [home.ustc.edu.cn/~lwh1106](http://home.ustc.edu.cn/~lwh1106) | HTTP 4xx | 2026-08-30 |
 | [2682](https://icourse.club/user/2682) | [jw.ustc.edu.cn](http://jw.ustc.edu.cn/) | 已重定向 | 2026-08-30 |
-| [2711](https://icourse.club/user/2711) | [1145141919810.com](http://1145141919810.com/) | 待复核 | 2026-08-30 |
-| [2736](https://icourse.club/user/2736) | [home.ustc.edu.cn/~jerryao](http://home.ustc.edu.cn/~jerryao/) | 待复核 | 2026-08-30 |
-| [2776](https://icourse.club/user/2776) | [home.ustc.edu.cn/~luke2001](http://home.ustc.edu.cn/~luke2001/) | 待复核 | 2026-08-30 |
+| [2711](https://icourse.club/user/2711) | [1145141919810.com](http://1145141919810.com/) | 检查超时 | 2026-08-30 |
+| [2736](https://icourse.club/user/2736) | [home.ustc.edu.cn/~jerryao](http://home.ustc.edu.cn/~jerryao/) | HTTP 4xx | 2026-08-30 |
+| [2776](https://icourse.club/user/2776) | [home.ustc.edu.cn/~luke2001](http://home.ustc.edu.cn/~luke2001/) | HTTP 4xx | 2026-08-30 |
 | [2800](https://icourse.club/user/2800) | [home.ustc.edu.cn/~yssickjgd](http://home.ustc.edu.cn/~yssickjgd) | 已重定向 | 2026-08-30 |
-| [2829](https://icourse.club/user/2829) | [home.ustc.edu.cn/~tian18](http://home.ustc.edu.cn/~tian18) | 待复核 | 2026-08-30 |
-| [2832](https://icourse.club/user/2832) | [www.wdmota.com](https://www.wdmota.com/) | 未检查 | 2026-08-30 |
+| [2829](https://icourse.club/user/2829) | [home.ustc.edu.cn/~tian18](http://home.ustc.edu.cn/~tian18) | HTTP 4xx | 2026-08-30 |
+| [2832](https://icourse.club/user/2832) | [www.wdmota.com](https://www.wdmota.com/) | 可访问 | 2026-08-30 |
 | [2850](https://icourse.club/user/2850) | [home.ustc.edu.cn/~pscgylotti](http://home.ustc.edu.cn/~pscgylotti/) | 可访问 | 2026-08-30 |
 | [2868](https://icourse.club/user/2868) | [boyiwei.com](http://boyiwei.com/) | 已重定向 | 2026-08-30 |
-| [2997](https://icourse.club/user/2997) | [pplab.ustc.edu.cn](http://pplab.ustc.edu.cn/) | 待复核 | 2026-08-30 |
+| [2997](https://icourse.club/user/2997) | [pplab.ustc.edu.cn](http://pplab.ustc.edu.cn/) | DNS 错误 | 2026-08-30 |
 | [3025](https://icourse.club/user/3025) | [space.bilibili.com/402574397](https://space.bilibili.com/402574397?from=search&seid=16651954183246406294) | 可访问 | 2026-08-30 |
-| [3058](https://icourse.club/user/3058) | [www.douban.com/people/yaogr](https://www.douban.com/people/yaogr/) | 未检查 | 2026-08-30 |
+| [3058](https://icourse.club/user/3058) | [www.douban.com/people/yaogr](https://www.douban.com/people/yaogr/) | 可访问 | 2026-08-30 |
 | [3064](https://icourse.club/user/3064) | [staff.ustc.edu.cn/~tongxu](http://staff.ustc.edu.cn/~tongxu/) | 可访问 | 2026-08-30 |
-| [3137](https://icourse.club/user/3137) | [r.mtdv.me/blog/posts/mye0zacSBq](https://r.mtdv.me/blog/posts/mye0zacSBq) | 待复核 | 2026-08-30 |
-| [3197](https://icourse.club/user/3197) | [www.icourse.club/user](https://www.icourse.club/user/) | 未检查 | 2026-08-30 |
+| [3137](https://icourse.club/user/3137) | [r.mtdv.me/blog/posts/mye0zacSBq](https://r.mtdv.me/blog/posts/mye0zacSBq) | 拒绝自动检查 | 2026-08-30 |
+| [3197](https://icourse.club/user/3197) | [www.icourse.club/user](https://www.icourse.club/user/) | 待复核 | 2026-08-30 |
 | [3298](https://icourse.club/user/3298) | [blog.csdn.net/cggwz](https://blog.csdn.net/cggwz) | 可访问 | 2026-08-30 |
 | [3384](https://icourse.club/user/3384) | [home.ustc.edu.cn/~feqi](http://home.ustc.edu.cn/~feqi/) | 可访问 | 2026-08-30 |
 | [3415](https://icourse.club/user/3415) | [home.ustc.edu.cn/~zz0312](http://home.ustc.edu.cn/~zz0312/) | 可访问 | 2026-08-30 |
-| [3423](https://icourse.club/user/3423) | [home.ustc.edu.cn/~wxl20010508](http://home.ustc.edu.cn/~wxl20010508) | 待复核 | 2026-08-30 |
-| [3440](https://icourse.club/user/3440) | [home.ustc.edu.cn/~zyx240014](http://home.ustc.edu.cn/~zyx240014) | 待复核 | 2026-08-30 |
+| [3423](https://icourse.club/user/3423) | [home.ustc.edu.cn/~wxl20010508](http://home.ustc.edu.cn/~wxl20010508) | HTTP 4xx | 2026-08-30 |
+| [3440](https://icourse.club/user/3440) | [home.ustc.edu.cn/~zyx240014](http://home.ustc.edu.cn/~zyx240014) | HTTP 4xx | 2026-08-30 |
 | [3502](https://icourse.club/user/3502) | [home.ustc.edu.cn/~lyq010303](http://home.ustc.edu.cn/~lyq010303/) | 可访问 | 2026-08-30 |
-| [3537](https://icourse.club/user/3537) | [scholar.google.com/citations](https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN) | 待复核 | 2026-08-30 |
+| [3537](https://icourse.club/user/3537) | [scholar.google.com/citations](https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN) | 拒绝自动检查 | 2026-08-30 |
 | [3552](https://icourse.club/user/3552) | [jiming.site](https://jiming.site/) | 可访问 | 2026-08-30 |
-| [3598](https://icourse.club/user/3598) | [www.zhihu.com/people/liu-xing-yu-72-53](https://www.zhihu.com/people/liu-xing-yu-72-53) | 未检查 | 2026-08-30 |
+| [3598](https://icourse.club/user/3598) | [www.zhihu.com/people/liu-xing-yu-72-53](https://www.zhihu.com/people/liu-xing-yu-72-53) | 待复核 | 2026-08-30 |
 | [3601](https://icourse.club/user/3601) | [he-jiazhi.github.io](https://he-jiazhi.github.io/) | 可访问 | 2026-08-30 |
 | [3653](https://icourse.club/user/3653) | [space.bilibili.com/36022677](https://space.bilibili.com/36022677) | 可访问 | 2026-08-30 |
-| [3664](https://icourse.club/user/3664) | [home.ustc.edu.cn/~lumiao](http://home.ustc.edu.cn/~lumiao) | 待复核 | 2026-08-30 |
+| [3664](https://icourse.club/user/3664) | [home.ustc.edu.cn/~lumiao](http://home.ustc.edu.cn/~lumiao) | HTTP 4xx | 2026-08-30 |
 | [3698](https://icourse.club/user/3698) | [cathy-cai.page](https://cathy-cai.page/) | 可访问 | 2026-08-30 |
 | [3742](https://icourse.club/user/3742) | [sjl1273249044.wixsite.com/sunjack](https://sjl1273249044.wixsite.com/sunjack) | 可访问 | 2026-08-30 |
-| [3783](https://icourse.club/user/3783) | [home.ustc.edu.cn/~sprout](http://home.ustc.edu.cn/~sprout) | 待复核 | 2026-08-30 |
-| [3860](https://icourse.club/user/3860) | [ustcforum.com/d/3703](https://ustcforum.com/d/3703) | 未检查 | 2026-08-30 |
+| [3783](https://icourse.club/user/3783) | [home.ustc.edu.cn/~sprout](http://home.ustc.edu.cn/~sprout) | HTTP 4xx | 2026-08-30 |
+| [3860](https://icourse.club/user/3860) | [ustcforum.com/d/3703](https://ustcforum.com/d/3703) | 可访问 | 2026-08-30 |
 | [4216](https://icourse.club/user/4216) | [staff.ustc.edu.cn/~zhoushy/index.html](http://staff.ustc.edu.cn/~zhoushy/index.html) | 可访问 | 2026-08-30 |
 | [4243](https://icourse.club/user/4243) | [home.ustc.edu.cn/~wangxiangqi](http://home.ustc.edu.cn/~wangxiangqi) | 已重定向 | 2026-08-30 |
 | [4254](https://icourse.club/user/4254) | [jpwang.site](https://jpwang.site/) | 可访问 | 2026-08-30 |
-| [4262](https://icourse.club/user/4262) | [ustc-dysania.github.io](https://ustc-dysania.github.io/) | 未检查 | 2026-08-30 |
+| [4262](https://icourse.club/user/4262) | [ustc-dysania.github.io](https://ustc-dysania.github.io/) | 可访问 | 2026-08-30 |
 | [4387](https://icourse.club/user/4387) | [futwangalerda.github.io](http://futwangalerda.github.io/) | 已重定向 | 2026-08-30 |
-| [4406](https://icourse.club/user/4406) | [txtxj.top](https://txtxj.top/) | 未检查 | 2026-08-30 |
-| [4457](https://icourse.club/user/4457) | [home.ustc.edu.cn/~zzx2002/new](http://home.ustc.edu.cn/~zzx2002/new) | 待复核 | 2026-08-30 |
-| [4480](https://icourse.club/user/4480) | [home.ustc.edu.cn/~jiajie](http://home.ustc.edu.cn/~jiajie/) | 待复核 | 2026-08-30 |
+| [4406](https://icourse.club/user/4406) | [txtxj.top](https://txtxj.top/) | 可访问 | 2026-08-30 |
+| [4457](https://icourse.club/user/4457) | [home.ustc.edu.cn/~zzx2002/new](http://home.ustc.edu.cn/~zzx2002/new) | HTTP 4xx | 2026-08-30 |
+| [4480](https://icourse.club/user/4480) | [home.ustc.edu.cn/~jiajie](http://home.ustc.edu.cn/~jiajie/) | HTTP 4xx | 2026-08-30 |
 | [4483](https://icourse.club/user/4483) | [archaeus13.github.io](http://archaeus13.github.io/) | 已重定向 | 2026-08-30 |
 | [4553](https://icourse.club/user/4553) | [home.ustc.edu.cn/~ziheng](http://home.ustc.edu.cn/~ziheng) | 已重定向 | 2026-08-30 |
 | [4572](https://icourse.club/user/4572) | [home.ustc.edu.cn/~ycyoung2020](http://home.ustc.edu.cn/~ycyoung2020/) | 可访问 | 2026-08-30 |
 | [4580](https://icourse.club/user/4580) | [github.com/cyzkrau](https://github.com/cyzkrau) | 可访问 | 2026-08-30 |
-| [4619](https://icourse.club/user/4619) | [www.bilibili.com/video/BV1ea4y1W7x1](https://www.bilibili.com/video/BV1ea4y1W7x1/) | 未检查 | 2026-08-30 |
+| [4619](https://icourse.club/user/4619) | [www.bilibili.com/video/BV1ea4y1W7x1](https://www.bilibili.com/video/BV1ea4y1W7x1/) | 可访问 | 2026-08-30 |
 | [4631](https://icourse.club/user/4631) | [icourse.club/user/4631](https://icourse.club/user/4631) | 可访问 | 2026-08-30 |
-| [4734](https://icourse.club/user/4734) | [home.ustc.edu.cn/~wyx\_mail](http://home.ustc.edu.cn/~wyx_mail/) | 待复核 | 2026-08-30 |
+| [4734](https://icourse.club/user/4734) | [home.ustc.edu.cn/~wyx\_mail](http://home.ustc.edu.cn/~wyx_mail/) | HTTP 4xx | 2026-08-30 |
 | [4754](https://icourse.club/user/4754) | [zhichenzzz.github.io](http://zhichenzzz.github.io/) | 已重定向 | 2026-08-30 |
-| [4811](https://icourse.club/user/4811) | [home.ustc.edu.cn/~lixuanyu/main\_en/home.html](http://home.ustc.edu.cn/~lixuanyu/main_en/home.html) | 待复核 | 2026-08-30 |
+| [4811](https://icourse.club/user/4811) | [home.ustc.edu.cn/~lixuanyu/main\_en/home.html](http://home.ustc.edu.cn/~lixuanyu/main_en/home.html) | HTTP 4xx | 2026-08-30 |
 | [4908](https://icourse.club/user/4908) | [staff.ustc.edu.cn/~zbtang](http://staff.ustc.edu.cn/~zbtang/) | 可访问 | 2026-08-30 |
 | [4979](https://icourse.club/user/4979) | [staff.ustc.edu.cn/~hstan](http://staff.ustc.edu.cn/~hstan/) | 可访问 | 2026-08-30 |
 | [5002](https://icourse.club/user/5002) | [bessgendre.github.io](https://bessgendre.github.io/) | 可访问 | 2026-08-30 |
-| [5040](https://icourse.club/user/5040) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 未检查 | 2026-08-30 |
-| [5116](https://icourse.club/user/5116) | [lstarnana7mi.com](http://lstarnana7mi.com/) | 待复核 | 2026-08-30 |
+| [5040](https://icourse.club/user/5040) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 待复核 | 2026-08-30 |
+| [5116](https://icourse.club/user/5116) | [lstarnana7mi.com](http://lstarnana7mi.com/) | DNS 错误 | 2026-08-30 |
 | [5195](https://icourse.club/user/5195) | [home.ustc.edu.cn/~es020711/home](http://home.ustc.edu.cn/~es020711/home/) | 可访问 | 2026-08-30 |
 | [5352](https://icourse.club/user/5352) | [himalalps.github.io](https://himalalps.github.io/) | 已重定向 | 2026-08-30 |
-| [5396](https://icourse.club/user/5396) | [home.ustc.edu.cn/~brealid](https://home.ustc.edu.cn/~brealid) | 待复核 | 2026-08-30 |
+| [5396](https://icourse.club/user/5396) | [home.ustc.edu.cn/~brealid](https://home.ustc.edu.cn/~brealid) | HTTP 4xx | 2026-08-30 |
 | [5409](https://icourse.club/user/5409) | [home.ustc.edu.cn/~eastwind](http://home.ustc.edu.cn/~eastwind/) | 可访问 | 2026-08-30 |
-| [5501](https://icourse.club/user/5501) | [leoneed.space](http://leoneed.space/) | 待复核 | 2026-08-30 |
-| [5560](https://icourse.club/user/5560) | [vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4](https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4) | 未检查 | 2026-08-30 |
+| [5501](https://icourse.club/user/5501) | [leoneed.space](http://leoneed.space/) | DNS 错误 | 2026-08-30 |
+| [5560](https://icourse.club/user/5560) | [vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4](https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4) | 可访问 | 2026-08-30 |
 | [5676](https://icourse.club/user/5676) | [oybdooo.github.io](https://oybdooo.github.io/) | 已重定向 | 2026-08-30 |
-| [5677](https://icourse.club/user/5677) | [www.zhihu.com/people/swayee2022](https://www.zhihu.com/people/swayee2022) | 未检查 | 2026-08-30 |
+| [5677](https://icourse.club/user/5677) | [www.zhihu.com/people/swayee2022](https://www.zhihu.com/people/swayee2022) | 待复核 | 2026-08-30 |
 | [5721](https://icourse.club/user/5721) | [home.ustc.edu.cn/~liuyuanche](http://home.ustc.edu.cn/~liuyuanche) | 已重定向 | 2026-08-30 |
 | [5768](https://icourse.club/user/5768) | [home.ustc.edu.cn/~shiyaowei040126](http://home.ustc.edu.cn/~shiyaowei040126) | 已重定向 | 2026-08-30 |
 | [5878](https://icourse.club/user/5878) | [zsbzsb.cnblogs.com](http://zsbzsb.cnblogs.com/) | 已重定向 | 2026-08-30 |
-| [5894](https://icourse.club/user/5894) | [home.ustc.edu.cn/~cc22155](http://home.ustc.edu.cn/~cc22155) | 待复核 | 2026-08-30 |
+| [5894](https://icourse.club/user/5894) | [home.ustc.edu.cn/~cc22155](http://home.ustc.edu.cn/~cc22155) | HTTP 4xx | 2026-08-30 |
 | [5923](https://icourse.club/user/5923) | [space.bilibili.com/117253680](https://space.bilibili.com/117253680) | 可访问 | 2026-08-30 |
 | [6087](https://icourse.club/user/6087) | [mint-cyq.github.io](https://mint-cyq.github.io/) | 可访问 | 2026-08-30 |
 | [6208](https://icourse.club/user/6208) | [k-telux.github.io](https://k-telux.github.io/) | 可访问 | 2026-08-30 |
-| [6280](https://icourse.club/user/6280) | [yiyang-github.github.io](https://yiyang-github.github.io/) | 未检查 | 2026-08-30 |
-| [6436](https://icourse.club/user/6436) | [jonbgua.com](https://jonbgua.com/) | 待复核 | 2026-08-30 |
+| [6280](https://icourse.club/user/6280) | [yiyang-github.github.io](https://yiyang-github.github.io/) | 待复核 | 2026-08-30 |
+| [6436](https://icourse.club/user/6436) | [jonbgua.com](https://jonbgua.com/) | HTTP 4xx | 2026-08-30 |
 | [6478](https://icourse.club/user/6478) | [home.ustc.edu.cn/~wuyuewy](http://home.ustc.edu.cn/~wuyuewy/) | 可访问 | 2026-08-30 |
 | [6576](https://icourse.club/user/6576) | [home.ustc.edu.cn/~yfrua](http://home.ustc.edu.cn/~yfrua/) | 可访问 | 2026-08-30 |
-| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 未检查 | 2026-08-30 |
+| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 待复核 | 2026-08-30 |
 | [6674](https://icourse.club/user/6674) | [cs-pikachuu.github.io](http://cs-pikachuu.github.io/) | 已重定向 | 2026-08-30 |
 | [6765](https://icourse.club/user/6765) | [home.ustc.edu.cn/~luiswang](http://home.ustc.edu.cn/~luiswang) | 已重定向 | 2026-08-30 |
 | [6795](https://icourse.club/user/6795) | [guyu168.github.io](https://guyu168.github.io/) | 可访问 | 2026-08-30 |
 | [6835](https://icourse.club/user/6835) | [www.4399.com](http://www.4399.com/) | 已重定向 | 2026-08-30 |
-| [6916](https://icourse.club/user/6916) | [www.cnblogs.com/houchaoqun](https://www.cnblogs.com/houchaoqun/) | 未检查 | 2026-08-30 |
+| [6916](https://icourse.club/user/6916) | [www.cnblogs.com/houchaoqun](https://www.cnblogs.com/houchaoqun/) | 已重定向 | 2026-08-30 |
 | [7050](https://icourse.club/user/7050) | [home.ustc.edu.cn/~fa1247](http://home.ustc.edu.cn/~fa1247/) | 可访问 | 2026-08-30 |
 | [7051](https://icourse.club/user/7051) | [github.com/Schordinger-Ronin](https://github.com/Schordinger-Ronin) | 可访问 | 2026-08-30 |
 | [7088](https://icourse.club/user/7088) | [home.ustc.edu.cn/~liangjh](http://home.ustc.edu.cn/~liangjh/) | 可访问 | 2026-08-30 |
 | [7214](https://icourse.club/user/7214) | [www.cztcode.com](http://www.cztcode.com/) | 已重定向 | 2026-08-30 |
-| [7230](https://icourse.club/user/7230) | [www.cnblogs.com/wysngblogs](https://www.cnblogs.com/wysngblogs/) | 未检查 | 2026-08-30 |
+| [7230](https://icourse.club/user/7230) | [www.cnblogs.com/wysngblogs](https://www.cnblogs.com/wysngblogs/) | 已重定向 | 2026-08-30 |
 | [7395](https://icourse.club/user/7395) | [langlang-02.github.io](https://langlang-02.github.io/) | 可访问 | 2026-08-30 |
 | [7572](https://icourse.club/user/7572) | [ustc.edu.cn](http://ustc.edu.cn/) | 可访问 | 2026-08-30 |
-| [7732](https://icourse.club/user/7732) | [ustcforum.com/u/shadowtheif](https://ustcforum.com/u/shadowtheif) | 未检查 | 2026-08-30 |
+| [7732](https://icourse.club/user/7732) | [ustcforum.com/u/shadowtheif](https://ustcforum.com/u/shadowtheif) | 可访问 | 2026-08-30 |
 | [7845](https://icourse.club/user/7845) | [lyuchangle2006.github.io](https://lyuchangle2006.github.io/) | 可访问 | 2026-08-30 |
 | [7858](https://icourse.club/user/7858) | [academic.mmdustc.top](https://academic.mmdustc.top/) | 可访问 | 2026-08-30 |
 | [7882](https://icourse.club/user/7882) | [yibowang2004.github.io](http://yibowang2004.github.io/) | 已重定向 | 2026-08-30 |
 | [7886](https://icourse.club/user/7886) | [home.ustc.edu.cn/~caimx](http://home.ustc.edu.cn/~caimx/) | 可访问 | 2026-08-30 |
 | [7945](https://icourse.club/user/7945) | [blog.iw17.cc](http://blog.iw17.cc/) | 可访问 | 2026-08-30 |
-| [7957](https://icourse.club/user/7957) | [www.zhihu.com/question/49745524/answer/1882947054944355726](https://www.zhihu.com/question/49745524/answer/1882947054944355726?utm_psn=1921605902340957858) | 未检查 | 2026-08-30 |
-| [8008](https://icourse.club/user/8008) | [taitai2025.github.io](https://taitai2025.github.io/) | 未检查 | 2026-08-30 |
+| [7957](https://icourse.club/user/7957) | [www.zhihu.com/question/49745524/answer/1882947054944355726](https://www.zhihu.com/question/49745524/answer/1882947054944355726?utm_psn=1921605902340957858) | 待复核 | 2026-08-30 |
+| [8008](https://icourse.club/user/8008) | [taitai2025.github.io](https://taitai2025.github.io/) | 可访问 | 2026-08-30 |
 | [8015](https://icourse.club/user/8015) | [kaimoumou.notion.site](http://kaimoumou.notion.site/) | 已重定向 | 2026-08-30 |
 | [8020](https://icourse.club/user/8020) | [peanut-tang.github.io](https://peanut-tang.github.io/) | 可访问 | 2026-08-30 |
-| [8086](https://icourse.club/user/8086) | [2023.sodium.icu](http://2023.sodium.icu/) | 待复核 | 2026-08-30 |
+| [8086](https://icourse.club/user/8086) | [2023.sodium.icu](http://2023.sodium.icu/) | DNS 错误 | 2026-08-30 |
 | [8139](https://icourse.club/user/8139) | [pems.ustc.edu.cn](http://pems.ustc.edu.cn/) | 可访问 | 2026-08-30 |
-| [8183](https://icourse.club/user/8183) | [www.azarai.top](http://www.azarai.top/) | 待复核 | 2026-08-30 |
+| [8183](https://icourse.club/user/8183) | [www.azarai.top](http://www.azarai.top/) | TLS 错误 | 2026-08-30 |
 | [8318](https://icourse.club/user/8318) | [m.bilibili.com/video/BV1kW41147uB](https://m.bilibili.com/video/BV1kW41147uB) | 已重定向 | 2026-08-30 |
 | [8672](https://icourse.club/user/8672) | [changshuoshen.github.io](https://changshuoshen.github.io/) | 可访问 | 2026-08-30 |
 | [8745](https://icourse.club/user/8745) | [github.com/XhyDds](https://github.com/XhyDds) | 可访问 | 2026-08-30 |
 | [8815](https://icourse.club/user/8815) | [cs.ustc.edu.cn/2020/0906/c23239a460115/page.htm](http://cs.ustc.edu.cn/2020/0906/c23239a460115/page.htm) | 可访问 | 2026-08-30 |
 | [8830](https://icourse.club/user/8830) | [b23.tv/3QIdcmq](https://b23.tv/3QIdcmq) | 可访问 | 2026-08-30 |
-| [8883](https://icourse.club/user/8883) | [yinxingxue.github.io](https://yinxingxue.github.io/) | 未检查 | 2026-08-30 |
-| [8933](https://icourse.club/user/8933) | [wenhaoyu1998.github.io](https://wenhaoyu1998.github.io/) | 未检查 | 2026-08-30 |
+| [8883](https://icourse.club/user/8883) | [yinxingxue.github.io](https://yinxingxue.github.io/) | 可访问 | 2026-08-30 |
+| [8933](https://icourse.club/user/8933) | [wenhaoyu1998.github.io](https://wenhaoyu1998.github.io/) | 待复核 | 2026-08-30 |
 | [9263](https://icourse.club/user/9263) | [smart-ustc.github.io](https://smart-ustc.github.io/) | 可访问 | 2026-08-30 |
-| [9332](https://icourse.club/user/9332) | [blog.huarenjian.cn](https://blog.huarenjian.cn/) | 待复核 | 2026-08-30 |
+| [9332](https://icourse.club/user/9332) | [blog.huarenjian.cn](https://blog.huarenjian.cn/) | HTTP 4xx | 2026-08-30 |
 | [9427](https://icourse.club/user/9427) | [gzy02.github.io](https://gzy02.github.io/) | 可访问 | 2026-08-30 |
 | [9462](https://icourse.club/user/9462) | [ys.mihoyo.com](http://ys.mihoyo.com/) | 已重定向 | 2026-08-30 |
 | [9558](https://icourse.club/user/9558) | [fuchow.github.io](https://fuchow.github.io/) | 可访问 | 2026-08-30 |
@@ -205,37 +205,37 @@
 | [10141](https://icourse.club/user/10141) | [github.com/lixiang0622](https://github.com/lixiang0622) | 可访问 | 2026-08-30 |
 | [10151](https://icourse.club/user/10151) | [scientificlan.github.io](http://scientificlan.github.io/) | 已重定向 | 2026-08-30 |
 | [10277](https://icourse.club/user/10277) | [bilibili.com/video/BV1JRVt6jEJ3](http://bilibili.com/video/BV1JRVt6jEJ3/?spm_id_from=333.337.search-card.all.click) | 已重定向 | 2026-08-30 |
-| [10329](https://icourse.club/user/10329) | [www.cnblogs.com/litluo](https://www.cnblogs.com/litluo/) | 未检查 | 2026-08-30 |
-| [10347](https://icourse.club/user/10347) | [academic.luosw.com.cn](https://academic.luosw.com.cn/) | 待复核 | 2026-08-30 |
+| [10329](https://icourse.club/user/10329) | [www.cnblogs.com/litluo](https://www.cnblogs.com/litluo/) | 已重定向 | 2026-08-30 |
+| [10347](https://icourse.club/user/10347) | [academic.luosw.com.cn](https://academic.luosw.com.cn/) | DNS 错误 | 2026-08-30 |
 | [10379](https://icourse.club/user/10379) | [kangcanyao.github.io](http://kangcanyao.github.io/) | 已重定向 | 2026-08-30 |
 | [10510](https://icourse.club/user/10510) | [cardigan0214.github.io](https://cardigan0214.github.io/) | 可访问 | 2026-08-30 |
 | [10627](https://icourse.club/user/10627) | [orcid.org/0000-0001-5614-4319](https://orcid.org/0000-0001-5614-4319) | 可访问 | 2026-08-30 |
-| [10782](https://icourse.club/user/10782) | [yuyangzhang2006.github.io](https://yuyangzhang2006.github.io/) | 未检查 | 2026-08-30 |
-| [10967](https://icourse.club/user/10967) | [www.newcastleunited.com/en](https://www.newcastleunited.com/en) | 未检查 | 2026-08-30 |
+| [10782](https://icourse.club/user/10782) | [yuyangzhang2006.github.io](https://yuyangzhang2006.github.io/) | 待复核 | 2026-08-30 |
+| [10967](https://icourse.club/user/10967) | [www.newcastleunited.com/en](https://www.newcastleunited.com/en) | 可访问 | 2026-08-30 |
 | [10968](https://icourse.club/user/10968) | [proboscis-erkel.github.io](https://proboscis-erkel.github.io/) | 可访问 | 2026-08-30 |
-| [10979](https://icourse.club/user/10979) | [www.xn--fiqs8srwby7cba020i2hih02b.com](http://www.xn--fiqs8srwby7cba020i2hih02b.com/) | 待复核 | 2026-08-30 |
+| [10979](https://icourse.club/user/10979) | [www.xn--fiqs8srwby7cba020i2hih02b.com](http://www.xn--fiqs8srwby7cba020i2hih02b.com/) | DNS 错误 | 2026-08-30 |
 | [11012](https://icourse.club/user/11012) | [mulious.github.io](https://mulious.github.io/) | 可访问 | 2026-08-30 |
 | [11406](https://icourse.club/user/11406) | [icourse.club/user/settings](https://icourse.club/user/settings/) | 已重定向 | 2026-08-30 |
-| [11421](https://icourse.club/user/11421) | [auto.ustc.edu.cn/teacher\_details.php](https://auto.ustc.edu.cn/teacher_details.php?i=70) | 待复核 | 2026-08-30 |
-| [11706](https://icourse.club/user/11706) | [stardust-math.pages.dev](https://stardust-math.pages.dev/) | 未检查 | 2026-08-30 |
+| [11421](https://icourse.club/user/11421) | [auto.ustc.edu.cn/teacher\_details.php](https://auto.ustc.edu.cn/teacher_details.php?i=70) | HTTP 4xx | 2026-08-30 |
+| [11706](https://icourse.club/user/11706) | [stardust-math.pages.dev](https://stardust-math.pages.dev/) | 可访问 | 2026-08-30 |
 | [11757](https://icourse.club/user/11757) | [staff.ustc.edu.cn/~zqj/about](http://staff.ustc.edu.cn/~zqj/about/) | 可访问 | 2026-08-30 |
 | [11874](https://icourse.club/user/11874) | [phiyu.github.io](https://phiyu.github.io/) | 可访问 | 2026-08-30 |
 | [11925](https://icourse.club/user/11925) | [siecho-garden-git-main-siecho-yins-projects.vercel.app](https://siecho-garden-git-main-siecho-yins-projects.vercel.app/) | 可访问 | 2026-08-30 |
-| [11997](https://icourse.club/user/11997) | [www.zhihu.com/people/randolph-36-94-59](https://www.zhihu.com/people/randolph-36-94-59) | 未检查 | 2026-08-30 |
+| [11997](https://icourse.club/user/11997) | [www.zhihu.com/people/randolph-36-94-59](https://www.zhihu.com/people/randolph-36-94-59) | 待复核 | 2026-08-30 |
 | [12022](https://icourse.club/user/12022) | [www.deartutu.com](http://www.deartutu.com/) | 可访问 | 2026-08-30 |
 | [12186](https://icourse.club/user/12186) | [github.com/yzguo](https://github.com/yzguo) | 可访问 | 2026-08-30 |
-| [12276](https://icourse.club/user/12276) | [xef2.top](https://xef2.top/) | 未检查 | 2026-08-30 |
+| [12276](https://icourse.club/user/12276) | [xef2.top](https://xef2.top/) | 可访问 | 2026-08-30 |
 | [12308](https://icourse.club/user/12308) | [bauklotze.vercel.app](https://bauklotze.vercel.app/) | 可访问 | 2026-08-30 |
-| [12355](https://icourse.club/user/12355) | [mainsub.cc](https://mainsub.cc/) | 待复核 | 2026-08-30 |
-| [12369](https://icourse.club/user/12369) | [miaoning.space](http://miaoning.space/) | 待复核 | 2026-08-30 |
+| [12355](https://icourse.club/user/12355) | [mainsub.cc](https://mainsub.cc/) | 拒绝自动检查 | 2026-08-30 |
+| [12369](https://icourse.club/user/12369) | [miaoning.space](http://miaoning.space/) | DNS 错误 | 2026-08-30 |
 | [12522](https://icourse.club/user/12522) | [map.bemanicn.com](https://map.bemanicn.com/) | 可访问 | 2026-08-30 |
 | [12531](https://icourse.club/user/12531) | [b23.tv/vdeRcez](https://b23.tv/vdeRcez) | 可访问 | 2026-08-30 |
 | [12545](https://icourse.club/user/12545) | [marx.ustc.edu.cn/2025/0304/c30298a675471/page.htm](https://marx.ustc.edu.cn/2025/0304/c30298a675471/page.htm) | 可访问 | 2026-08-30 |
-| [12883](https://icourse.club/user/12883) | [baike.baidu.com/item/%E7%BB%B4%E5%B0%BC/4322](https://baike.baidu.com/item/%E7%BB%B4%E5%B0%BC/4322) | 待复核 | 2026-08-30 |
+| [12883](https://icourse.club/user/12883) | [baike.baidu.com/item/%E7%BB%B4%E5%B0%BC/4322](https://baike.baidu.com/item/%E7%BB%B4%E5%B0%BC/4322) | 拒绝自动检查 | 2026-08-30 |
 | [12895](https://icourse.club/user/12895) | [lianghw.ustc.edu.cn/index.php](http://lianghw.ustc.edu.cn/index.php) | 可访问 | 2026-08-30 |
 | [12915](https://icourse.club/user/12915) | [app.molview.com](https://app.molview.com/) | 可访问 | 2026-08-30 |
-| [12918](https://icourse.club/user/12918) | [www.teach.ustc.edu.cn](https://www.teach.ustc.edu.cn/) | 未检查 | 2026-08-30 |
-| [12989](https://icourse.club/user/12989) | [poorotterbob.github.io](https://poorotterbob.github.io/) | 待复核 | 2026-08-30 |
+| [12918](https://icourse.club/user/12918) | [www.teach.ustc.edu.cn](https://www.teach.ustc.edu.cn/) | 可访问 | 2026-08-30 |
+| [12989](https://icourse.club/user/12989) | [poorotterbob.github.io](https://poorotterbob.github.io/) | HTTP 4xx | 2026-08-30 |
 | [13285](https://icourse.club/user/13285) | [faculty.ustc.edu.cn/songguofeng/zh\_CN/index.htm](https://faculty.ustc.edu.cn/songguofeng/zh_CN/index.htm) | 可访问 | 2026-08-30 |
 | [13356](https://icourse.club/user/13356) | [mirawind.top](https://mirawind.top/) | 已重定向 | 2026-08-30 |
 | [13482](https://icourse.club/user/13482) | [sulcop5.github.io](http://sulcop5.github.io/) | 已重定向 | 2026-08-30 |
@@ -243,20 +243,20 @@
 | [13520](https://icourse.club/user/13520) | [lunarkn1ght.github.io](http://lunarkn1ght.github.io/) | 已重定向 | 2026-08-30 |
 | [13599](https://icourse.club/user/13599) | [kclo4-li.github.io](https://kclo4-li.github.io/) | 可访问 | 2026-08-30 |
 | [13780](https://icourse.club/user/13780) | [space.bilibili.com/319693953](https://space.bilibili.com/319693953) | 可访问 | 2026-08-30 |
-| [13886](https://icourse.club/user/13886) | [wingtings.pages.dev](https://wingtings.pages.dev/) | 未检查 | 2026-08-30 |
+| [13886](https://icourse.club/user/13886) | [wingtings.pages.dev](https://wingtings.pages.dev/) | 可访问 | 2026-08-30 |
 | [13964](https://icourse.club/user/13964) | [jackyzhang26.github.io](https://jackyzhang26.github.io/) | 可访问 | 2026-08-30 |
 | [14464](https://icourse.club/user/14464) | [crazyaiden233.github.io](https://crazyaiden233.github.io/) | 可访问 | 2026-08-30 |
 | [15351](https://icourse.club/user/15351) | [jingyizhang05.github.io](https://jingyizhang05.github.io/) | 可访问 | 2026-08-30 |
 | [15982](https://icourse.club/user/15982) | [lodetech.ustc.edu.cn](http://lodetech.ustc.edu.cn/) | 可访问 | 2026-08-30 |
 | [16379](https://icourse.club/user/16379) | [staff.ustc.edu.cn/~hzli](http://staff.ustc.edu.cn/~hzli/) | 可访问 | 2026-08-30 |
 | [16384](https://icourse.club/user/16384) | [kdelab.ustc.edu.cn/~jpq](https://kdelab.ustc.edu.cn/~jpq/) | 可访问 | 2026-08-30 |
-| [16453](https://icourse.club/user/16453) | [www.lylighte.cc](https://www.lylighte.cc/) | 未检查 | 2026-08-30 |
-| [16466](https://icourse.club/user/16466) | [zh-hans.chaturbate.com](https://zh-hans.chaturbate.com/) | 未检查 | 2026-08-30 |
+| [16453](https://icourse.club/user/16453) | [www.lylighte.cc](https://www.lylighte.cc/) | 可访问 | 2026-08-30 |
+| [16466](https://icourse.club/user/16466) | [zh-hans.chaturbate.com](https://zh-hans.chaturbate.com/) | 待复核 | 2026-08-30 |
 | [17136](https://icourse.club/user/17136) | [joshuaxql.github.io](https://joshuaxql.github.io/) | 可访问 | 2026-08-30 |
-| [17487](https://icourse.club/user/17487) | [enthusjast.cc](http://enthusjast.cc/) | 待复核 | 2026-08-30 |
+| [17487](https://icourse.club/user/17487) | [enthusjast.cc](http://enthusjast.cc/) | DNS 错误 | 2026-08-30 |
 | [17706](https://icourse.club/user/17706) | [staff.ustc.edu.cn/~dinggj/index.html](http://staff.ustc.edu.cn/~dinggj/index.html) | 可访问 | 2026-08-30 |
-| [17760](https://icourse.club/user/17760) | [www.yuanshen.com](https://www.yuanshen.com/) | 未检查 | 2026-08-30 |
-| [20161](https://icourse.club/user/20161) | [www.hfnl.ustc.edu.cn/detail](http://www.hfnl.ustc.edu.cn/detail?id=11324) | 待复核 | 2026-08-30 |
+| [17760](https://icourse.club/user/17760) | [www.yuanshen.com](https://www.yuanshen.com/) | 可访问 | 2026-08-30 |
+| [20161](https://icourse.club/user/20161) | [www.hfnl.ustc.edu.cn/detail](http://www.hfnl.ustc.edu.cn/detail?id=11324) | HTTP 4xx | 2026-08-30 |
 | [21241](https://icourse.club/user/21241) | [faculty.ustc.edu.cn/wuxinyu/zh\_CN/index.htm](http://faculty.ustc.edu.cn/wuxinyu/zh_CN/index.htm) | 可访问 | 2026-08-30 |
 | [21349](https://icourse.club/user/21349) | [learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct) | 可访问 | 2026-08-30 |
 | [21853](https://icourse.club/user/21853) | [mu2he.me](http://mu2he.me/) | 已重定向 | 2026-08-30 |
