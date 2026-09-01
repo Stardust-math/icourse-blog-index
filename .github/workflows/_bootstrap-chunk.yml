@@ -50,9 +50,11 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Crawl and push recoverable checkpoints
+        id: crawl
         shell: bash
         run: |
           set -Eeuo pipefail
+          echo "safety_stopped=false" >> "$GITHUB_OUTPUT"
 
           read_bootstrap_state() {
             python - <<'PY'
@@ -84,10 +86,12 @@ jobs:
               break
             fi
             if [[ "$bootstrap_state" == "blocked" ]]; then
+              echo "safety_stopped=true" >> "$GITHUB_OUTPUT"
               echo "Bootstrap is blocked by a safety condition; stopping without retrying."
               break
             fi
             if [[ "$bootstrap_state" == "paused" ]]; then
+              echo "safety_stopped=true" >> "$GITHUB_OUTPUT"
               echo "Bootstrap is safety-paused. Investigate the run, then use the explicit resume workflow option."
               break
             fi
@@ -132,12 +136,14 @@ jobs:
             fi
 
             if (( crawl_exit == 3 )); then
+              echo "safety_stopped=true" >> "$GITHUB_OUTPUT"
               echo "Crawler requested a safety pause; its validated pause checkpoint was pushed."
               break
             fi
 
             post_slice_state="$(read_bootstrap_state)"
             if [[ "$post_slice_state" == "paused" || "$post_slice_state" == "blocked" ]]; then
+              echo "safety_stopped=true" >> "$GITHUB_OUTPUT"
               echo "A safety condition remains after this slice; no automatic retry will be made."
               break
             fi
@@ -164,3 +170,15 @@ jobs:
           )"
           echo "should_continue=${should_continue}" >> "$GITHUB_OUTPUT"
           echo "Another serial bootstrap chunk needed: ${should_continue}"
+
+      - name: Report the saved bootstrap safety stop
+        if: always() && !cancelled() && steps.crawl.outputs.safety_stopped == 'true'
+        run: |
+          echo "::error title=Bootstrap safety stop::The validated checkpoint was saved; investigate before using resume_paused."
+          {
+            echo "### Bootstrap safety stop"
+            echo
+            echo "The validated checkpoint was saved before this job was marked failed."
+            echo "Investigate the cause before using the explicit resume gate."
+          } >> "$GITHUB_STEP_SUMMARY"
+          exit 1

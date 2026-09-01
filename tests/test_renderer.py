@@ -11,6 +11,9 @@ import pytest
 
 from icourse_blog_index.cli import (
     CommandError,
+    ProcessedUser,
+    _PARSE_FAILURE_RESULTS,
+    _advance_safety_streak,
     _frontier_probe_ids,
     command_inspect_user,
     command_resume,
@@ -295,6 +298,27 @@ def _confirmed_record(user_id: int, profile_status: ProfileStatus):
     return apply_observation(None, observation, confirm_changes=False).record
 
 
+def _failed_record(
+    user_id: int,
+    *,
+    check_result: CheckResult = CheckResult.PARSE_ERROR,
+    error: str = "unsafe or malformed blog URL",
+    http_status: int | None = 200,
+    parser_version: str = "test",
+):
+    return apply_observation(
+        None,
+        Observation(
+            user_id=user_id,
+            observed_at="2026-08-29T00:00:00Z",
+            check_result=check_result,
+            http_status=http_status,
+            parser_version=parser_version,
+            error=error,
+        ),
+    ).record
+
+
 def test_frontier_probe_progresses_across_batches_and_periodically_wraps() -> None:
     records = [_confirmed_record(10, ProfileStatus.PUBLIC)]
     first = CrawlerState(phase=CrawlPhase.MAINTENANCE, maintenance_cursor=1)
@@ -444,6 +468,285 @@ class _FailingMaintenanceFetcher(_FakeFetcher):
             parser_version="test",
             error="temporary upstream failure",
         )
+
+
+class _KnownFailureRetryFetcher(_FakeFetcher):
+    def __init__(
+        self,
+        *,
+        check_result: CheckResult,
+        error: str,
+        http_status: int | None,
+    ) -> None:
+        super().__init__(allowed=True)
+        self.check_result = check_result
+        self.error = error
+        self.http_status = http_status
+        self.calls: list[int] = []
+
+    def fetch_and_parse(self, user_id: int, *, cache_bust: bool = False) -> Observation:
+        assert not cache_bust
+        self.calls.append(user_id)
+        if user_id == 11:
+            return Observation(
+                user_id=user_id,
+                observed_at="2026-08-30T03:00:00Z",
+                profile_status=ProfileStatus.MISSING,
+                blog_status=BlogStatus.UNKNOWN,
+                check_result=CheckResult.OK,
+                parser_version="test",
+            )
+        return Observation(
+            user_id=user_id,
+            observed_at=f"2026-08-30T03:{len(self.calls):02d}:00Z",
+            check_result=self.check_result,
+            http_status=self.http_status,
+            parser_version="test",
+            error=self.error,
+        )
+
+
+@pytest.mark.parametrize(
+    ("check_result", "error", "http_status"),
+    [
+        (CheckResult.PARSE_ERROR, "unsafe or malformed blog URL", 200),
+        (CheckResult.SERVER_ERROR, "profile server returned HTTP 525", 525),
+    ],
+)
+def test_update_does_not_treat_stable_known_failures_as_site_wide_outage(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+    capsys: pytest.CaptureFixture[str],
+    check_result: CheckResult,
+    error: str,
+    http_status: int | None,
+) -> None:
+    store = _repository_skeleton(tmp_path)
+    known_failures = [
+        _failed_record(
+            user_id,
+            check_result=check_result,
+            error=error,
+            http_status=http_status,
+        )
+        for user_id in range(1, 6)
+    ]
+    store.upsert_users([*known_failures, _confirmed_record(10, ProfileStatus.PUBLIC)])
+    store.save_state(
+        CrawlerState(
+            phase=CrawlPhase.MAINTENANCE,
+            next_id=11,
+            highest_attempted_id=10,
+            highest_confirmed_user_id=10,
+            maintenance_cursor=11,
+            updated_at="2026-08-30T00:00:00Z",
+        )
+    )
+    store.rebuild_manifest(
+        generated_at="2026-08-30T00:00:00Z",
+        initialization_status=InitializationStatus.COMPLETE,
+        phase=CrawlPhase.MAINTENANCE,
+    )
+    fetcher = _KnownFailureRetryFetcher(
+        check_result=check_result,
+        error=error,
+        http_status=http_status,
+    )
+    monkeypatch.setattr("icourse_blog_index.cli._fetcher_from_args", lambda _args: fetcher)
+
+    from icourse_blog_index.cli import main
+
+    code = main(
+        [
+            "--root",
+            str(tmp_path),
+            "update",
+            "--max-existing",
+            "5",
+            "--max-new",
+            "1",
+            "--frontier-sweep-size",
+            "256",
+            "--time-budget-seconds",
+            "60",
+            "--checkpoint-every",
+            "1",
+            "--max-consecutive-parse-failures",
+            "5",
+            "--max-consecutive-transient-failures",
+            "5",
+        ]
+    )
+    output = json.loads(capsys.readouterr().out)
+
+    assert code == 0
+    assert fetcher.calls == [11, 1, 2, 3, 4, 5]
+    assert output["attempted"] == 6
+    assert output["errors"] == 5
+    assert output["stopped_reason"] == "maintenance batch completed"
+    assert store.load_state().phase is CrawlPhase.MAINTENANCE
+    assert store.load_manifest().initialization_status is InitializationStatus.COMPLETE
+    assert all(store.load_user(user_id).consecutive_failures == 2 for user_id in range(1, 6))
+
+
+class _NewParseFailureFetcher(_FakeFetcher):
+    def __init__(self) -> None:
+        super().__init__(allowed=True)
+        self.calls: list[int] = []
+
+    def fetch_and_parse(self, user_id: int, *, cache_bust: bool = False) -> Observation:
+        assert not cache_bust
+        self.calls.append(user_id)
+        return Observation(
+            user_id=user_id,
+            observed_at=f"2026-08-30T04:{len(self.calls):02d}:00Z",
+            check_result=CheckResult.PARSE_ERROR,
+            http_status=200,
+            parser_version="test",
+            error="known profile-state markers and the labelled blog field were not found",
+        )
+
+
+def test_update_still_pauses_after_new_consecutive_parse_failures(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+    capsys: pytest.CaptureFixture[str],
+) -> None:
+    store = _repository_skeleton(tmp_path)
+    store.upsert_users([_confirmed_record(1, ProfileStatus.PUBLIC)])
+    store.save_state(
+        CrawlerState(
+            phase=CrawlPhase.MAINTENANCE,
+            next_id=2,
+            highest_attempted_id=1,
+            highest_confirmed_user_id=1,
+            maintenance_cursor=2,
+            updated_at="2026-08-30T00:00:00Z",
+        )
+    )
+    store.rebuild_manifest(
+        generated_at="2026-08-30T00:00:00Z",
+        initialization_status=InitializationStatus.COMPLETE,
+        phase=CrawlPhase.MAINTENANCE,
+    )
+    fetcher = _NewParseFailureFetcher()
+    monkeypatch.setattr("icourse_blog_index.cli._fetcher_from_args", lambda _args: fetcher)
+
+    from icourse_blog_index.cli import main
+
+    code = main(
+        [
+            "--root",
+            str(tmp_path),
+            "update",
+            "--max-existing",
+            "1",
+            "--max-new",
+            "20",
+            "--frontier-sweep-size",
+            "256",
+            "--time-budget-seconds",
+            "60",
+            "--checkpoint-every",
+            "1",
+            "--max-consecutive-parse-failures",
+            "3",
+        ]
+    )
+    output = json.loads(capsys.readouterr().out)
+
+    assert code == 3
+    assert fetcher.calls == [2, 3, 4]
+    assert output["stopped_reason"] == "consecutive parse/staleness safety threshold reached"
+    state = store.load_state()
+    assert state.phase is CrawlPhase.PAUSED
+    assert state.paused_from_phase is CrawlPhase.MAINTENANCE
+
+
+def test_stable_failure_is_neutral_but_changed_signature_advances_safety_streak() -> None:
+    previous = _failed_record(1)
+    same = apply_observation(
+        previous,
+        Observation(
+            user_id=1,
+            observed_at="2026-08-30T00:00:00Z",
+            check_result=CheckResult.PARSE_ERROR,
+            http_status=200,
+            parser_version="test",
+            error="unsafe or malformed blog URL",
+        ),
+    )
+    repeated = ProcessedUser(
+        record=same.record,
+        confirmed=False,
+        changes=(),
+        check_results=(CheckResult.PARSE_ERROR,),
+    )
+    assert _advance_safety_streak(2, previous, repeated, _PARSE_FAILURE_RESULTS) == 2
+
+    changed_error = apply_observation(
+        previous,
+        Observation(
+            user_id=1,
+            observed_at="2026-08-30T00:00:00Z",
+            check_result=CheckResult.PARSE_ERROR,
+            http_status=200,
+            parser_version="test",
+            error="known profile-state markers were not found",
+        ),
+    )
+    changed_error_retry = ProcessedUser(
+        record=changed_error.record,
+        confirmed=False,
+        changes=(),
+        check_results=(CheckResult.PARSE_ERROR,),
+    )
+    assert _advance_safety_streak(2, previous, changed_error_retry, _PARSE_FAILURE_RESULTS) == 3
+
+    changed_parser = apply_observation(
+        previous,
+        Observation(
+            user_id=1,
+            observed_at="2026-08-30T00:00:00Z",
+            check_result=CheckResult.PARSE_ERROR,
+            http_status=200,
+            parser_version="new-parser",
+            error="unsafe or malformed blog URL",
+        ),
+    )
+    changed_parser_retry = ProcessedUser(
+        record=changed_parser.record,
+        confirmed=False,
+        changes=(),
+        check_results=(CheckResult.PARSE_ERROR,),
+    )
+    assert _advance_safety_streak(2, previous, changed_parser_retry, _PARSE_FAILURE_RESULTS) == 3
+
+
+def test_repeated_suspected_stale_response_still_advances_safety_streak() -> None:
+    previous = _failed_record(
+        1,
+        check_result=CheckResult.SUSPECTED_STALE,
+        error="cached response metadata",
+    )
+    repeated = apply_observation(
+        previous,
+        Observation(
+            user_id=1,
+            observed_at="2026-08-30T00:00:00Z",
+            check_result=CheckResult.SUSPECTED_STALE,
+            http_status=200,
+            parser_version="test",
+            error="cached response metadata",
+        ),
+    )
+    processed = ProcessedUser(
+        record=repeated.record,
+        confirmed=False,
+        changes=(),
+        check_results=(CheckResult.SUSPECTED_STALE,),
+    )
+    assert _advance_safety_streak(2, previous, processed, _PARSE_FAILURE_RESULTS) == 3
 
 
 def test_update_pauses_after_consecutive_transport_failures(

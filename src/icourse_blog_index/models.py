@@ -866,6 +866,7 @@ def apply_observation(
                 last_checked_at=observation.observed_at,
                 last_check_result=observation.check_result,
                 consecutive_failures=previous.consecutive_failures + 1,
+                parser_version=observation.parser_version,
                 http_status=observation.http_status,
                 last_error=observation.error,
             ),

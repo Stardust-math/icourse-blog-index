@@ -1,0 +1,152 @@
+name: Maintenance
+
+on:
+  workflow_call:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Update profiles and link health
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+      ICOURSE_REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}
+      PYTHONUNBUFFERED: "1"
+
+    steps:
+      - name: Check out the current default branch
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install crawler
+        run: python -m pip install .
+
+      - name: Check initialization state
+        id: state
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          state_values="$(python - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest = json.loads(Path("data/manifest.json").read_text(encoding="utf-8"))
+          state = json.loads(Path("state/crawler.json").read_text(encoding="utf-8"))
+          print(
+              str(manifest.get("initialization_status", "")),
+              str(state.get("phase", "")),
+              sep="\t",
+          )
+          PY
+          )"
+          IFS=$'\t' read -r status phase <<< "$state_values"
+
+          ready="false"
+          paused="false"
+          if [[ "$status" =~ ^(complete|completed)$ && "$phase" == "maintenance" ]]; then
+            ready="true"
+          elif [[ "$status" == "paused" || "$phase" == "paused" ]]; then
+            paused="true"
+          fi
+
+          echo "ready=${ready}" >> "$GITHUB_OUTPUT"
+          echo "paused=${paused}" >> "$GITHUB_OUTPUT"
+          if [[ "$paused" == "true" ]]; then
+            echo "::warning title=Dataset safety-paused::Maintenance was not started. Investigate the saved pause and use Bootstrap dataset with resume_paused only after the cause is resolved."
+            {
+              echo "### Dataset safety-paused"
+              echo
+              echo "Maintenance was not started because the repository is already paused."
+              echo "Investigate the saved pause before using the explicit resume gate."
+            } >> "$GITHUB_STEP_SUMMARY"
+          elif [[ "$ready" != "true" ]]; then
+            echo "Initialization is not complete; daily maintenance will not run yet."
+          fi
+
+      - name: Update profiles and blog health
+        if: steps.state.outputs.ready == 'true'
+        id: maintenance
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          echo "safety_paused=false" >> "$GITHUB_OUTPUT"
+
+          set +e
+          python -m icourse_blog_index update --time-budget-seconds 7200
+          update_exit="$?"
+          set -e
+
+          if (( update_exit != 0 && update_exit != 3 )); then
+            echo "Profile update failed with exit code ${update_exit}."
+            exit "$update_exit"
+          fi
+
+          if (( update_exit == 0 )); then
+            set +e
+            python -m icourse_blog_index check-links \
+              --max-links 200 \
+              --time-budget-seconds 7200
+            links_exit="$?"
+            set -e
+            if (( links_exit != 0 && links_exit != 3 )); then
+              echo "Link check failed with exit code ${links_exit}."
+              exit "$links_exit"
+            fi
+          else
+            echo "safety_paused=true" >> "$GITHUB_OUTPUT"
+            echo "::warning title=Profile crawler safety pause::The pause checkpoint will be validated and committed before this job reports failure. External-link checks were skipped."
+            {
+              echo "### Profile crawler safety pause"
+              echo
+              echo "The profile crawler requested a safety pause, so external-link checks were skipped."
+              echo "The validated checkpoint is committed before the job is marked failed."
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+          python -m icourse_blog_index render
+          python -m icourse_blog_index validate
+
+      - name: Commit updated data
+        if: steps.state.outputs.ready == 'true'
+        id: commit
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data state
+
+          if git diff --cached --quiet; then
+            echo "No dataset changes to commit."
+            exit 0
+          fi
+
+          git commit -m "data: scheduled update [skip ci]"
+          git pull --rebase origin "$DEFAULT_BRANCH"
+          git push origin "HEAD:${DEFAULT_BRANCH}"
+
+      - name: Report an existing safety pause
+        if: always() && !cancelled() && steps.state.outputs.paused == 'true'
+        run: |
+          echo "::error title=Maintenance blocked by safety pause::No profile or external-link maintenance was performed."
+          exit 1
+
+      - name: Report the newly saved safety pause
+        if: >-
+          always() && !cancelled() &&
+          steps.maintenance.outputs.safety_paused == 'true' &&
+          steps.commit.outcome == 'success'
+        run: |
+          echo "::error title=Maintenance safety-paused::The validated pause checkpoint was saved; operator review is required before resuming."
+          exit 1

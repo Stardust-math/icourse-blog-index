@@ -54,6 +54,7 @@ _TRANSIENT_FAILURE_RESULTS = frozenset(
         CheckResult.TIMEOUT,
     }
 )
+_SAFETY_FAILURE_RESULTS = _PARSE_FAILURE_RESULTS | _TRANSIENT_FAILURE_RESULTS
 
 
 class CommandError(RuntimeError):
@@ -272,6 +273,53 @@ def _record_counters(counters: CrawlCounters, processed: ProcessedUser) -> None:
         counters.errors += 1
     if CheckResult.RATE_LIMITED in processed.check_results:
         counters.rate_limited += 1
+
+
+def _is_stable_known_failure_retry(
+    previous: UserRecord | None,
+    processed: ProcessedUser,
+) -> bool:
+    """Return whether a per-record retry is neutral to the site-wide streak.
+
+    Maintenance deliberately groups due failures ahead of ordinary refreshes.
+    A deterministic bad field or endpoint-specific transport error can
+    therefore appear several times in a row without saying anything about the
+    health of the site or parser as a whole.  Only an exact repeat of an
+    already-known failure is neutral; new or changed failures still contribute
+    to the safety stop.
+    """
+
+    current = processed.record
+    return (
+        previous is not None
+        and len(processed.check_results) == 1
+        and previous.pending_observation is None
+        and previous.last_check_result in _SAFETY_FAILURE_RESULTS
+        and current.last_check_result is previous.last_check_result
+        and current.last_check_result is not CheckResult.SUSPECTED_STALE
+        and previous.parser_version == current.parser_version
+        and previous.http_status == current.http_status
+        and previous.last_error is not None
+        and previous.last_error == current.last_error
+    )
+
+
+def _advance_safety_streak(
+    streak: int,
+    previous: UserRecord | None,
+    processed: ProcessedUser,
+    failure_results: frozenset[CheckResult],
+) -> int:
+    """Advance one site-wide failure streak without clustering false positives."""
+
+    current_result = processed.check_results[-1]
+    if _is_stable_known_failure_retry(previous, processed):
+        # A known per-record anomaly is neutral to every site-wide streak: it
+        # must neither create a false streak nor hide one already in progress.
+        return streak
+    if current_result not in failure_results:
+        return 0
+    return streak + 1
 
 
 def _pause_state(state: CrawlerState) -> CrawlerState:
@@ -543,6 +591,7 @@ def command_update(args: argparse.Namespace) -> int:
                 if _ordinary_budget_exhausted(started_clock, args.time_budget_seconds):
                     stop_reason = "time budget reached"
                     break
+                previous = session.records.get(user_id)
                 processed = session.process(user_id)
                 _record_counters(counters, processed)
                 state = _updated_state(state, user_id=user_id, record=processed.record)
@@ -562,12 +611,17 @@ def command_update(args: argparse.Namespace) -> int:
                     stop_reason = fatal
                     session.checkpoint(state, force=True)
                     break
-                current_result = processed.check_results[-1]
-                parse_failures = (
-                    parse_failures + 1 if current_result in _PARSE_FAILURE_RESULTS else 0
+                parse_failures = _advance_safety_streak(
+                    parse_failures,
+                    previous,
+                    processed,
+                    _PARSE_FAILURE_RESULTS,
                 )
-                transient_failures = (
-                    transient_failures + 1 if current_result in _TRANSIENT_FAILURE_RESULTS else 0
+                transient_failures = _advance_safety_streak(
+                    transient_failures,
+                    previous,
+                    processed,
+                    _TRANSIENT_FAILURE_RESULTS,
                 )
                 if parse_failures >= args.max_consecutive_parse_failures:
                     state = _pause_state(state)

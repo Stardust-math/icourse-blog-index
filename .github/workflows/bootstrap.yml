@@ -23,6 +23,9 @@ jobs:
     name: Safety resume gate
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    outputs:
+      did_resume: ${{ steps.paused.outputs.paused || 'false' }}
+      resume_target: ${{ steps.paused.outputs.resume_target || 'none' }}
     env:
       ICOURSE_REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}
 
@@ -43,7 +46,7 @@ jobs:
         id: paused
         shell: bash
         run: |
-          paused="$(python - <<'PY'
+          pause_values="$(python - <<'PY'
           import json
           from pathlib import Path
 
@@ -51,10 +54,14 @@ jobs:
           state = json.loads(Path("state/crawler.json").read_text(encoding="utf-8"))
           status = str(manifest.get("initialization_status", ""))
           phase = str(state.get("phase", ""))
-          print("true" if status == "paused" or phase == "paused" else "false")
+          paused = status == "paused" or phase == "paused"
+          target = str(state.get("paused_from_phase") or "none")
+          print("true" if paused else "false", target, sep="\t")
           PY
           )"
+          IFS=$'\t' read -r paused resume_target <<< "$pause_values"
           echo "paused=${paused}" >> "$GITHUB_OUTPUT"
+          echo "resume_target=${resume_target}" >> "$GITHUB_OUTPUT"
           if [[ "$paused" != "true" ]]; then
             echo "No safety-paused state exists; the resume request is a no-op."
           fi
@@ -100,9 +107,20 @@ jobs:
           git pull --rebase origin "$DEFAULT_BRANCH"
           git push origin "HEAD:${DEFAULT_BRANCH}"
 
+  resume-maintenance:
+    name: Catch-up maintenance after resume
+    needs: resume-gate
+    if: >-
+      needs.resume-gate.outputs.did_resume == 'true' &&
+      needs.resume-gate.outputs.resume_target == 'maintenance'
+    uses: ./.github/workflows/_maintenance.yml
+    permissions:
+      contents: write
+
   chunk-1:
     name: Bootstrap 1 of 7
     needs: resume-gate
+    if: needs.resume-gate.outputs.resume_target != 'maintenance'
     uses: ./.github/workflows/_bootstrap-chunk.yml
     with:
       chunk_number: 1

@@ -117,6 +117,7 @@ def test_unsuccessful_attempt_preserves_last_confirmed_values(
             blog_url_raw=None,
             check_result=check_result,
             http_status=None,
+            parser_version="new-parser",
             error="temporary failure",
         ),
     )
@@ -130,6 +131,7 @@ def test_unsuccessful_attempt_preserves_last_confirmed_values(
     assert result.record.last_checked_at == "2026-08-30T01:00:00Z"
     assert result.record.last_check_result is check_result
     assert result.record.consecutive_failures == 1
+    assert result.record.parser_version == "new-parser"
 
 
 def test_blog_change_is_pending_then_committed_with_change_event(
