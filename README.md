@@ -15,10 +15,10 @@
 | 初始化状态 | `complete` |
 | 已记录 ID | 23,856 |
 | 最高已尝试 ID | 23,856 |
-| 最高已确认用户 ID | 23,619 |
+| 最高已确认用户 ID | 23,683 |
 | 已确认博客 | 237 |
-| 公开 / 隐藏 / 不存在 / 未决 | 22,538 / 894 / 398 / 26 |
-| 最近成功更新 | 2026-09-02T21:59:39Z |
+| 公开 / 隐藏 / 不存在 / 未决 | 22,602 / 894 / 334 / 26 |
+| 最近成功更新 | 2026-09-05T10:44:04Z |
 
 ## 博客索引
 
@@ -67,7 +67,7 @@
 | [1652](https://icourse.club/user/1652) | [home.ustc.edu.cn/~matrix98](http://home.ustc.edu.cn/~matrix98) | HTTP 4xx | 2026-08-30 |
 | [1808](https://icourse.club/user/1808) | [home.ustc.edu.cn/~wt1997](http://home.ustc.edu.cn/~wt1997) | 已重定向 | 2026-08-30 |
 | [1924](https://icourse.club/user/1924) | [adven00.github.io](https://adven00.github.io/) | 可访问 | 2026-08-30 |
-| [1939](https://icourse.club/user/1939) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | HTTP 4xx | 2026-08-30 |
+| [1939](https://icourse.club/user/1939) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 可访问 | 2026-08-30 |
 | [2080](https://icourse.club/user/2080) | [david-ustc.github.io](http://david-ustc.github.io/) | 已重定向 | 2026-08-30 |
 | [2087](https://icourse.club/user/2087) | [www.po-i.life](http://www.po-i.life/) | DNS 错误 | 2026-08-30 |
 | [2111](https://icourse.club/user/2111) | [home.ustc.edu.cn/~pyh2018](http://home.ustc.edu.cn/~pyh2018) | HTTP 4xx | 2026-08-30 |
@@ -137,7 +137,7 @@
 | [4908](https://icourse.club/user/4908) | [staff.ustc.edu.cn/~zbtang](http://staff.ustc.edu.cn/~zbtang/) | 可访问 | 2026-08-30 |
 | [4979](https://icourse.club/user/4979) | [staff.ustc.edu.cn/~hstan](http://staff.ustc.edu.cn/~hstan/) | 可访问 | 2026-08-30 |
 | [5002](https://icourse.club/user/5002) | [bessgendre.github.io](https://bessgendre.github.io/) | 可访问 | 2026-08-30 |
-| [5040](https://icourse.club/user/5040) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | HTTP 4xx | 2026-08-30 |
+| [5040](https://icourse.club/user/5040) | [www.bilibili.com/video/BV1GJ411x7h7](https://www.bilibili.com/video/BV1GJ411x7h7) | 可访问 | 2026-08-30 |
 | [5116](https://icourse.club/user/5116) | [lstarnana7mi.com](http://lstarnana7mi.com/) | DNS 错误 | 2026-08-30 |
 | [5195](https://icourse.club/user/5195) | [home.ustc.edu.cn/~es020711/home](http://home.ustc.edu.cn/~es020711/home/) | 可访问 | 2026-08-30 |
 | [5352](https://icourse.club/user/5352) | [himalalps.github.io](https://himalalps.github.io/) | 已重定向 | 2026-08-30 |
