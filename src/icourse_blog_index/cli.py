@@ -83,6 +83,35 @@ class ProcessedUser:
     check_results: tuple[CheckResult, ...]
 
 
+@dataclass
+class MassChangeCounters:
+    """Track semantic churn in scheduled maintenance rechecks.
+
+    ``CrawlCounters.changed`` deliberately remains an audit count of change
+    events, so one user can contribute multiple events (for example both a
+    profile-status and blog-status change).  A safety ratio cannot use that
+    event count against a user-attempt denominator.  This counter instead uses
+    one vote per maintenance-rechecked user.  Registration-frontier probes are
+    excluded because discovering late registrations is their intended job and
+    those probes retain the crawler's independent confirmation and failure
+    safety checks.
+    """
+
+    attempted: int = 0
+    changed_users: int = 0
+
+    def record(self, processed: ProcessedUser) -> None:
+        self.attempted += 1
+        self.changed_users += int(bool(processed.changes))
+
+    def reached(self, *, minimum_attempts: int, minimum_changes: int, ratio: float) -> bool:
+        return (
+            self.attempted >= minimum_attempts
+            and self.changed_users >= minimum_changes
+            and self.changed_users / self.attempted >= ratio
+        )
+
+
 class CrawlSession:
     """Hold one command's in-memory records and flush bounded checkpoints."""
 
@@ -537,6 +566,7 @@ def command_update(args: argparse.Namespace) -> int:
     run_id = _new_run_id("update")
     state = replace(state, last_run_id=run_id, updated_at=format_utc())
     counters = CrawlCounters()
+    mass_changes = MassChangeCounters()
     stop_reason = "maintenance batch completed"
     parse_failures = 0
     transient_failures = 0
@@ -594,6 +624,8 @@ def command_update(args: argparse.Namespace) -> int:
                 previous = session.records.get(user_id)
                 processed = session.process(user_id)
                 _record_counters(counters, processed)
+                if not is_frontier_probe:
+                    mass_changes.record(processed)
                 state = _updated_state(state, user_id=user_id, record=processed.record)
                 if is_frontier_probe:
                     next_cursor = user_id + 1
@@ -633,10 +665,10 @@ def command_update(args: argparse.Namespace) -> int:
                     stop_reason = "consecutive transport/HTTP safety threshold reached"
                     session.checkpoint(state, force=True)
                     break
-                if (
-                    counters.attempted >= args.mass_change_minimum_attempts
-                    and counters.changed >= args.mass_change_minimum_changes
-                    and counters.changed / counters.attempted >= args.mass_change_ratio
+                if mass_changes.reached(
+                    minimum_attempts=args.mass_change_minimum_attempts,
+                    minimum_changes=args.mass_change_minimum_changes,
+                    ratio=args.mass_change_ratio,
                 ):
                     state = _pause_state(state)
                     stop_reason = "mass-change safety threshold reached"
@@ -662,6 +694,8 @@ def command_update(args: argparse.Namespace) -> int:
             "changed": counters.changed,
             "confirmed": counters.confirmed,
             "errors": counters.errors,
+            "mass_change_attempted": mass_changes.attempted,
+            "mass_change_changed_users": mass_changes.changed_users,
             "phase": state.phase.value,
             "run_id": run_id,
             "stopped_reason": stop_reason,
