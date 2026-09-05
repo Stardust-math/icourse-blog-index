@@ -1,7 +1,7 @@
 user_id,profile_url,blog_url,health_status,last_confirmed_at
 1,https://icourse.club/user/1,http://jenny42.com/,redirected,2026-08-30T04:46:12Z
 2,https://icourse.club/user/2,https://01.me/,reachable,2026-08-30T04:46:17Z
-4,https://icourse.club/user/4,https://zhengzihan.com/,pending_failure,2026-08-30T04:46:25Z
+4,https://icourse.club/user/4,https://zhengzihan.com/,server_error,2026-08-30T04:46:25Z
 10,https://icourse.club/user/10,https://cvhc.cc/,reachable,2026-08-30T04:46:45Z
 14,https://icourse.club/user/14,http://ibat.me/,reachable,2026-08-30T04:46:59Z
 15,https://icourse.club/user/15,http://wzhd.gitcafe.io/,dns_error,2026-08-30T04:47:05Z
@@ -42,7 +42,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 1652,https://icourse.club/user/1652,http://home.ustc.edu.cn/~matrix98,client_error,2026-08-30T06:10:39Z
 1808,https://icourse.club/user/1808,http://home.ustc.edu.cn/~wt1997,redirected,2026-08-30T06:18:37Z
 1924,https://icourse.club/user/1924,https://adven00.github.io/,reachable,2026-08-30T06:24:34Z
-1939,https://icourse.club/user/1939,https://www.bilibili.com/video/BV1GJ411x7h7,pending_failure,2026-08-30T06:25:22Z
+1939,https://icourse.club/user/1939,https://www.bilibili.com/video/BV1GJ411x7h7,client_error,2026-08-30T06:25:22Z
 2080,https://icourse.club/user/2080,http://david-ustc.github.io/,redirected,2026-08-30T06:32:32Z
 2087,https://icourse.club/user/2087,http://www.po-i.life/,dns_error,2026-08-30T06:32:56Z
 2111,https://icourse.club/user/2111,http://home.ustc.edu.cn/~pyh2018,client_error,2026-08-30T06:34:12Z
@@ -75,7 +75,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 3058,https://icourse.club/user/3058,https://www.douban.com/people/yaogr/,reachable,2026-08-30T07:22:52Z
 3064,https://icourse.club/user/3064,http://staff.ustc.edu.cn/~tongxu/,reachable,2026-08-30T07:23:13Z
 3137,https://icourse.club/user/3137,https://r.mtdv.me/blog/posts/mye0zacSBq,blocked,2026-08-30T07:26:54Z
-3197,https://icourse.club/user/3197,https://www.icourse.club/user/,pending_failure,2026-08-30T07:29:57Z
+3197,https://icourse.club/user/3197,https://www.icourse.club/user/,client_error,2026-08-30T07:29:57Z
 3298,https://icourse.club/user/3298,https://blog.csdn.net/cggwz,reachable,2026-08-30T07:35:02Z
 3384,https://icourse.club/user/3384,http://home.ustc.edu.cn/~feqi/,reachable,2026-08-30T07:39:22Z
 3415,https://icourse.club/user/3415,http://home.ustc.edu.cn/~zz0312/,reachable,2026-08-30T07:40:57Z
@@ -84,7 +84,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 3502,https://icourse.club/user/3502,http://home.ustc.edu.cn/~lyq010303/,reachable,2026-08-30T07:45:29Z
 3537,https://icourse.club/user/3537,https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN,blocked,2026-08-30T07:47:19Z
 3552,https://icourse.club/user/3552,https://jiming.site/,reachable,2026-08-30T07:48:06Z
-3598,https://icourse.club/user/3598,https://www.zhihu.com/people/liu-xing-yu-72-53,pending_failure,2026-08-30T07:50:24Z
+3598,https://icourse.club/user/3598,https://www.zhihu.com/people/liu-xing-yu-72-53,blocked,2026-08-30T07:50:24Z
 3601,https://icourse.club/user/3601,https://he-jiazhi.github.io/,reachable,2026-08-30T07:50:37Z
 3653,https://icourse.club/user/3653,https://space.bilibili.com/36022677,reachable,2026-08-30T07:53:15Z
 3664,https://icourse.club/user/3664,http://home.ustc.edu.cn/~lumiao,client_error,2026-08-30T07:53:51Z
@@ -112,7 +112,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 4908,https://icourse.club/user/4908,http://staff.ustc.edu.cn/~zbtang/,reachable,2026-08-30T08:57:22Z
 4979,https://icourse.club/user/4979,http://staff.ustc.edu.cn/~hstan/,reachable,2026-08-30T09:01:03Z
 5002,https://icourse.club/user/5002,https://bessgendre.github.io/,reachable,2026-08-30T09:02:20Z
-5040,https://icourse.club/user/5040,https://www.bilibili.com/video/BV1GJ411x7h7,pending_failure,2026-08-30T09:04:16Z
+5040,https://icourse.club/user/5040,https://www.bilibili.com/video/BV1GJ411x7h7,client_error,2026-08-30T09:04:16Z
 5116,https://icourse.club/user/5116,http://lstarnana7mi.com/,dns_error,2026-08-30T09:08:07Z
 5195,https://icourse.club/user/5195,http://home.ustc.edu.cn/~es020711/home/,reachable,2026-08-30T09:12:10Z
 5352,https://icourse.club/user/5352,https://himalalps.github.io/,redirected,2026-08-30T09:20:08Z
@@ -121,7 +121,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 5501,https://icourse.club/user/5501,http://leoneed.space/,dns_error,2026-08-30T09:27:53Z
 5560,https://icourse.club/user/5560,https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4,reachable,2026-08-30T09:30:50Z
 5676,https://icourse.club/user/5676,https://oybdooo.github.io/,redirected,2026-08-30T09:36:40Z
-5677,https://icourse.club/user/5677,https://www.zhihu.com/people/swayee2022,pending_failure,2026-08-30T09:36:46Z
+5677,https://icourse.club/user/5677,https://www.zhihu.com/people/swayee2022,blocked,2026-08-30T09:36:46Z
 5721,https://icourse.club/user/5721,http://home.ustc.edu.cn/~liuyuanche,redirected,2026-08-30T09:39:01Z
 5768,https://icourse.club/user/5768,http://home.ustc.edu.cn/~shiyaowei040126,redirected,2026-08-30T09:41:30Z
 5878,https://icourse.club/user/5878,http://zsbzsb.cnblogs.com/,redirected,2026-08-30T09:47:04Z
@@ -129,11 +129,11 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 5923,https://icourse.club/user/5923,https://space.bilibili.com/117253680,reachable,2026-08-30T09:49:28Z
 6087,https://icourse.club/user/6087,https://mint-cyq.github.io/,reachable,2026-08-30T09:57:45Z
 6208,https://icourse.club/user/6208,https://k-telux.github.io/,reachable,2026-08-30T10:03:51Z
-6280,https://icourse.club/user/6280,https://yiyang-github.github.io/,pending_failure,2026-08-30T10:07:34Z
+6280,https://icourse.club/user/6280,https://yiyang-github.github.io/,client_error,2026-08-30T10:07:34Z
 6436,https://icourse.club/user/6436,https://jonbgua.com/,client_error,2026-08-30T10:15:26Z
 6478,https://icourse.club/user/6478,http://home.ustc.edu.cn/~wuyuewy/,reachable,2026-08-30T10:17:35Z
 6576,https://icourse.club/user/6576,http://home.ustc.edu.cn/~yfrua/,reachable,2026-08-30T10:22:33Z
-6643,https://icourse.club/user/6643,https://wk.baidu.com/view/b107bc46be1e650e52ea9909,pending_failure,2026-08-30T10:25:57Z
+6643,https://icourse.club/user/6643,https://wk.baidu.com/view/b107bc46be1e650e52ea9909,redirected,2026-08-30T10:25:57Z
 6674,https://icourse.club/user/6674,http://cs-pikachuu.github.io/,redirected,2026-08-30T10:27:32Z
 6765,https://icourse.club/user/6765,http://home.ustc.edu.cn/~luiswang,redirected,2026-08-30T10:32:10Z
 6795,https://icourse.club/user/6795,https://guyu168.github.io/,reachable,2026-08-30T10:33:44Z
@@ -152,7 +152,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 7882,https://icourse.club/user/7882,http://yibowang2004.github.io/,redirected,2026-08-30T11:28:58Z
 7886,https://icourse.club/user/7886,http://home.ustc.edu.cn/~caimx/,reachable,2026-08-30T11:29:13Z
 7945,https://icourse.club/user/7945,http://blog.iw17.cc/,reachable,2026-08-30T11:32:15Z
-7957,https://icourse.club/user/7957,https://www.zhihu.com/question/49745524/answer/1882947054944355726?utm_psn=1921605902340957858,pending_failure,2026-08-30T11:32:56Z
+7957,https://icourse.club/user/7957,https://www.zhihu.com/question/49745524/answer/1882947054944355726?utm_psn=1921605902340957858,blocked,2026-08-30T11:32:56Z
 8008,https://icourse.club/user/8008,https://taitai2025.github.io/,reachable,2026-08-30T11:35:56Z
 8015,https://icourse.club/user/8015,http://kaimoumou.notion.site/,redirected,2026-08-30T11:36:19Z
 8020,https://icourse.club/user/8020,https://peanut-tang.github.io/,reachable,2026-08-30T11:36:36Z
@@ -165,7 +165,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 8815,https://icourse.club/user/8815,http://cs.ustc.edu.cn/2020/0906/c23239a460115/page.htm,reachable,2026-08-30T12:17:01Z
 8830,https://icourse.club/user/8830,https://b23.tv/3QIdcmq,reachable,2026-08-30T12:17:51Z
 8883,https://icourse.club/user/8883,https://yinxingxue.github.io/,reachable,2026-08-30T12:20:35Z
-8933,https://icourse.club/user/8933,https://wenhaoyu1998.github.io/,pending_failure,2026-08-30T12:23:09Z
+8933,https://icourse.club/user/8933,https://wenhaoyu1998.github.io/,client_error,2026-08-30T12:23:09Z
 9263,https://icourse.club/user/9263,https://smart-ustc.github.io/,reachable,2026-08-30T12:39:51Z
 9332,https://icourse.club/user/9332,https://blog.huarenjian.cn/,client_error,2026-08-30T12:43:20Z
 9427,https://icourse.club/user/9427,https://gzy02.github.io/,reachable,2026-08-30T12:48:14Z
@@ -185,7 +185,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 10379,https://icourse.club/user/10379,http://kangcanyao.github.io/,redirected,2026-08-30T13:36:48Z
 10510,https://icourse.club/user/10510,https://cardigan0214.github.io/,reachable,2026-08-30T13:43:31Z
 10627,https://icourse.club/user/10627,https://orcid.org/0000-0001-5614-4319,reachable,2026-08-30T13:49:24Z
-10782,https://icourse.club/user/10782,https://yuyangzhang2006.github.io/,pending_failure,2026-08-30T13:57:16Z
+10782,https://icourse.club/user/10782,https://yuyangzhang2006.github.io/,client_error,2026-08-30T13:57:16Z
 10967,https://icourse.club/user/10967,https://www.newcastleunited.com/en,reachable,2026-08-30T14:06:41Z
 10968,https://icourse.club/user/10968,https://proboscis-erkel.github.io/,reachable,2026-08-30T14:06:47Z
 10979,https://icourse.club/user/10979,http://www.xn--fiqs8srwby7cba020i2hih02b.com/,dns_error,2026-08-30T14:07:23Z
@@ -196,7 +196,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 11757,https://icourse.club/user/11757,http://staff.ustc.edu.cn/~zqj/about/,reachable,2026-08-30T14:46:49Z
 11874,https://icourse.club/user/11874,https://phiyu.github.io/,reachable,2026-08-30T14:52:41Z
 11925,https://icourse.club/user/11925,https://siecho-garden-git-main-siecho-yins-projects.vercel.app/,reachable,2026-08-30T14:55:13Z
-11997,https://icourse.club/user/11997,https://www.zhihu.com/people/randolph-36-94-59,pending_failure,2026-08-30T14:58:53Z
+11997,https://icourse.club/user/11997,https://www.zhihu.com/people/randolph-36-94-59,blocked,2026-08-30T14:58:53Z
 12022,https://icourse.club/user/12022,http://www.deartutu.com/,reachable,2026-08-30T15:00:28Z
 12186,https://icourse.club/user/12186,https://github.com/yzguo,reachable,2026-08-30T15:08:50Z
 12276,https://icourse.club/user/12276,https://xef2.top/,reachable,2026-08-30T15:13:25Z
@@ -226,7 +226,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 16379,https://icourse.club/user/16379,http://staff.ustc.edu.cn/~hzli/,reachable,2026-08-30T18:53:01Z
 16384,https://icourse.club/user/16384,https://kdelab.ustc.edu.cn/~jpq/,reachable,2026-08-30T18:53:20Z
 16453,https://icourse.club/user/16453,https://www.lylighte.cc/,reachable,2026-08-30T18:56:48Z
-16466,https://icourse.club/user/16466,https://zh-hans.chaturbate.com/,pending_failure,2026-08-30T18:57:29Z
+16466,https://icourse.club/user/16466,https://zh-hans.chaturbate.com/,blocked,2026-08-30T18:57:29Z
 17136,https://icourse.club/user/17136,https://joshuaxql.github.io/,reachable,2026-08-30T19:31:28Z
 17487,https://icourse.club/user/17487,http://enthusjast.cc/,dns_error,2026-08-30T19:49:03Z
 17706,https://icourse.club/user/17706,http://staff.ustc.edu.cn/~dinggj/index.html,reachable,2026-08-30T20:00:13Z
