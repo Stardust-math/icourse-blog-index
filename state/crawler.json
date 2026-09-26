@@ -4,11 +4,11 @@
   "consecutive_missing_after_frontier": 0,
   "highest_attempted_id": 24840,
   "highest_confirmed_user_id": 24654,
-  "last_run_id": "update-20260925T194047Z-5dd00953",
-  "maintenance_cursor": 24772,
+  "last_run_id": "update-20260926T193946Z-210d971a",
+  "maintenance_cursor": 24836,
   "next_id": 23792,
   "paused_from_phase": null,
   "phase": "maintenance",
   "schema_version": 1,
-  "updated_at": "2026-09-25T19:44:02Z"
+  "updated_at": "2026-09-26T19:42:55Z"
 }
