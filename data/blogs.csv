@@ -82,7 +82,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 3423,https://icourse.club/user/3423,http://home.ustc.edu.cn/~wxl20010508,client_error,2026-09-06T21:46:39Z
 3440,https://icourse.club/user/3440,http://home.ustc.edu.cn/~zyx240014,client_error,2026-09-06T21:46:42Z
 3502,https://icourse.club/user/3502,http://home.ustc.edu.cn/~lyq010303/,reachable,2026-09-06T21:46:45Z
-3537,https://icourse.club/user/3537,https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN,blocked,2026-09-06T21:46:48Z
+3537,https://icourse.club/user/3537,https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN,reachable,2026-09-06T21:46:48Z
 3552,https://icourse.club/user/3552,https://jiming.site/,reachable,2026-09-06T21:46:51Z
 3598,https://icourse.club/user/3598,https://www.zhihu.com/people/liu-xing-yu-72-53,blocked,2026-09-06T21:46:54Z
 3601,https://icourse.club/user/3601,https://he-jiazhi.github.io/,reachable,2026-09-06T21:46:57Z
@@ -167,7 +167,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 8883,https://icourse.club/user/8883,https://yinxingxue.github.io/,reachable,2026-09-06T21:50:49Z
 8933,https://icourse.club/user/8933,https://wenhaoyu1998.github.io/,client_error,2026-09-06T21:50:53Z
 9263,https://icourse.club/user/9263,https://smart-ustc.github.io/,reachable,2026-09-06T21:50:55Z
-9332,https://icourse.club/user/9332,https://blog.huarenjian.cn/,client_error,2026-09-06T21:50:58Z
+9332,https://icourse.club/user/9332,https://blog.huarenjian.cn/,timeout,2026-09-06T21:50:58Z
 9427,https://icourse.club/user/9427,https://gzy02.github.io/,reachable,2026-09-06T21:51:01Z
 9462,https://icourse.club/user/9462,http://ys.mihoyo.com/,redirected,2026-09-06T21:51:04Z
 9558,https://icourse.club/user/9558,https://fuchow.github.io/,reachable,2026-09-06T21:51:08Z

@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `complete` |
-| 已记录 ID | 24,840 |
-| 最高已尝试 ID | 24,840 |
+| 已记录 ID | 24,899 |
+| 最高已尝试 ID | 24,899 |
 | 最高已确认用户 ID | 24,654 |
 | 已确认博客 | 237 |
-| 公开 / 隐藏 / 不存在 / 未决 | 23,561 / 898 / 355 / 26 |
-| 最近成功更新 | 2026-09-26T19:42:55Z |
+| 公开 / 隐藏 / 不存在 / 未决 | 23,561 / 898 / 414 / 26 |
+| 最近成功更新 | 2026-09-27T19:44:18Z |
 
 ## 博客索引
 
@@ -107,7 +107,7 @@
 | [3423](https://icourse.club/user/3423) | [home.ustc.edu.cn/~wxl20010508](http://home.ustc.edu.cn/~wxl20010508) | HTTP 4xx | 2026-09-06 |
 | [3440](https://icourse.club/user/3440) | [home.ustc.edu.cn/~zyx240014](http://home.ustc.edu.cn/~zyx240014) | HTTP 4xx | 2026-09-06 |
 | [3502](https://icourse.club/user/3502) | [home.ustc.edu.cn/~lyq010303](http://home.ustc.edu.cn/~lyq010303/) | 可访问 | 2026-09-06 |
-| [3537](https://icourse.club/user/3537) | [scholar.google.com/citations](https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN) | 拒绝自动检查 | 2026-09-06 |
+| [3537](https://icourse.club/user/3537) | [scholar.google.com/citations](https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN) | 可访问 | 2026-09-06 |
 | [3552](https://icourse.club/user/3552) | [jiming.site](https://jiming.site/) | 可访问 | 2026-09-06 |
 | [3598](https://icourse.club/user/3598) | [www.zhihu.com/people/liu-xing-yu-72-53](https://www.zhihu.com/people/liu-xing-yu-72-53) | 拒绝自动检查 | 2026-09-06 |
 | [3601](https://icourse.club/user/3601) | [he-jiazhi.github.io](https://he-jiazhi.github.io/) | 可访问 | 2026-09-06 |
@@ -192,7 +192,7 @@
 | [8883](https://icourse.club/user/8883) | [yinxingxue.github.io](https://yinxingxue.github.io/) | 可访问 | 2026-09-06 |
 | [8933](https://icourse.club/user/8933) | [wenhaoyu1998.github.io](https://wenhaoyu1998.github.io/) | HTTP 4xx | 2026-09-06 |
 | [9263](https://icourse.club/user/9263) | [smart-ustc.github.io](https://smart-ustc.github.io/) | 可访问 | 2026-09-06 |
-| [9332](https://icourse.club/user/9332) | [blog.huarenjian.cn](https://blog.huarenjian.cn/) | HTTP 4xx | 2026-09-06 |
+| [9332](https://icourse.club/user/9332) | [blog.huarenjian.cn](https://blog.huarenjian.cn/) | 检查超时 | 2026-09-06 |
 | [9427](https://icourse.club/user/9427) | [gzy02.github.io](https://gzy02.github.io/) | 可访问 | 2026-09-06 |
 | [9462](https://icourse.club/user/9462) | [ys.mihoyo.com](http://ys.mihoyo.com/) | 已重定向 | 2026-09-06 |
 | [9558](https://icourse.club/user/9558) | [fuchow.github.io](https://fuchow.github.io/) | 可访问 | 2026-09-06 |
