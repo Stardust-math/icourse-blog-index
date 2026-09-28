@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `complete` |
-| 已记录 ID | 24,899 |
-| 最高已尝试 ID | 24,899 |
-| 最高已确认用户 ID | 24,654 |
-| 已确认博客 | 237 |
-| 公开 / 隐藏 / 不存在 / 未决 | 23,561 / 898 / 414 / 26 |
-| 最近成功更新 | 2026-09-27T19:44:18Z |
+| 已记录 ID | 24,910 |
+| 最高已尝试 ID | 24,910 |
+| 最高已确认用户 ID | 24,683 |
+| 已确认博客 | 238 |
+| 公开 / 隐藏 / 不存在 / 未决 | 23,590 / 898 / 396 / 26 |
+| 最近成功更新 | 2026-09-28T19:47:03Z |
 
 ## 博客索引
 
@@ -261,6 +261,7 @@
 | [21349](https://icourse.club/user/21349) | [learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct) | 可访问 | 2026-09-07 |
 | [21853](https://icourse.club/user/21853) | [mu2he.me](http://mu2he.me/) | 已重定向 | 2026-09-07 |
 | [22687](https://icourse.club/user/22687) | [space.bilibili.com/5132046](https://space.bilibili.com/5132046) | 可访问 | 2026-09-07 |
+| [24673](https://icourse.club/user/24673) | [javaherobrine.github.io](http://javaherobrine.github.io/) | 已重定向 | 2026-09-28 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
