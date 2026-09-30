@@ -3,7 +3,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 2,https://icourse.club/user/2,https://01.me/,reachable,2026-09-06T21:42:45Z
 4,https://icourse.club/user/4,https://zhengzihan.com/,server_error,2026-09-06T21:42:48Z
 10,https://icourse.club/user/10,https://cvhc.cc/,reachable,2026-09-06T21:42:50Z
-14,https://icourse.club/user/14,http://ibat.me/,reachable,2026-09-06T21:42:54Z
+14,https://icourse.club/user/14,http://ibat.me/,pending_failure,2026-09-06T21:42:54Z
 15,https://icourse.club/user/15,http://wzhd.gitcafe.io/,dns_error,2026-09-06T21:42:56Z
 16,https://icourse.club/user/16,http://home.ustc.edu.cn/~lyishuai,client_error,2026-09-06T21:42:59Z
 59,https://icourse.club/user/59,http://kuriyamamika.blogspot.jp/,redirected,2026-09-06T21:43:02Z

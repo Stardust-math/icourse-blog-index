@@ -18,7 +18,7 @@
 | 最高已确认用户 ID | 24,683 |
 | 已确认博客 | 238 |
 | 公开 / 隐藏 / 不存在 / 未决 | 23,590 / 898 / 396 / 26 |
-| 最近成功更新 | 2026-09-29T19:45:06Z |
+| 最近成功更新 | 2026-09-30T19:45:13Z |
 
 ## 博客索引
 
@@ -28,7 +28,7 @@
 | [2](https://icourse.club/user/2) | [01.me](https://01.me/) | 可访问 | 2026-09-06 |
 | [4](https://icourse.club/user/4) | [zhengzihan.com](https://zhengzihan.com/) | HTTP 5xx | 2026-09-06 |
 | [10](https://icourse.club/user/10) | [cvhc.cc](https://cvhc.cc/) | 可访问 | 2026-09-06 |
-| [14](https://icourse.club/user/14) | [ibat.me](http://ibat.me/) | 可访问 | 2026-09-06 |
+| [14](https://icourse.club/user/14) | [ibat.me](http://ibat.me/) | 待复核 | 2026-09-06 |
 | [15](https://icourse.club/user/15) | [wzhd.gitcafe.io](http://wzhd.gitcafe.io/) | DNS 错误 | 2026-09-06 |
 | [16](https://icourse.club/user/16) | [home.ustc.edu.cn/~lyishuai](http://home.ustc.edu.cn/~lyishuai) | HTTP 4xx | 2026-09-06 |
 | [59](https://icourse.club/user/59) | [kuriyamamika.blogspot.jp](http://kuriyamamika.blogspot.jp/) | 已重定向 | 2026-09-06 |
