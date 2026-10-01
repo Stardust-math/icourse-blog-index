@@ -18,7 +18,7 @@
 | 最高已确认用户 ID | 24,683 |
 | 已确认博客 | 238 |
 | 公开 / 隐藏 / 不存在 / 未决 | 23,590 / 898 / 396 / 26 |
-| 最近成功更新 | 2026-09-30T19:45:13Z |
+| 最近成功更新 | 2026-10-01T19:48:57Z |
 
 ## 博客索引
 
@@ -28,7 +28,7 @@
 | [2](https://icourse.club/user/2) | [01.me](https://01.me/) | 可访问 | 2026-09-06 |
 | [4](https://icourse.club/user/4) | [zhengzihan.com](https://zhengzihan.com/) | HTTP 5xx | 2026-09-06 |
 | [10](https://icourse.club/user/10) | [cvhc.cc](https://cvhc.cc/) | 可访问 | 2026-09-06 |
-| [14](https://icourse.club/user/14) | [ibat.me](http://ibat.me/) | 待复核 | 2026-09-06 |
+| [14](https://icourse.club/user/14) | [ibat.me](http://ibat.me/) | 拒绝自动检查 | 2026-09-06 |
 | [15](https://icourse.club/user/15) | [wzhd.gitcafe.io](http://wzhd.gitcafe.io/) | DNS 错误 | 2026-09-06 |
 | [16](https://icourse.club/user/16) | [home.ustc.edu.cn/~lyishuai](http://home.ustc.edu.cn/~lyishuai) | HTTP 4xx | 2026-09-06 |
 | [59](https://icourse.club/user/59) | [kuriyamamika.blogspot.jp](http://kuriyamamika.blogspot.jp/) | 已重定向 | 2026-09-06 |
@@ -74,7 +74,7 @@
 | [2114](https://icourse.club/user/2114) | [home.ustc.edu.cn/~wtd2018](http://home.ustc.edu.cn/~wtd2018/) | HTTP 4xx | 2026-09-06 |
 | [2193](https://icourse.club/user/2193) | [home.ustc.edu.cn/~yanhaoming](http://home.ustc.edu.cn/~yanhaoming) | HTTP 4xx | 2026-09-06 |
 | [2201](https://icourse.club/user/2201) | [lsy617004926.github.io](https://lsy617004926.github.io/) | 可访问 | 2026-09-06 |
-| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | 可访问 | 2026-09-06 |
+| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | 待复核 | 2026-09-06 |
 | [2264](https://icourse.club/user/2264) | [live.bilibili.com/22625027](https://live.bilibili.com/22625027) | 可访问 | 2026-09-06 |
 | [2272](https://icourse.club/user/2272) | [home.ustc.edu.cn/~stevenw0916](http://home.ustc.edu.cn/~stevenw0916) | 已重定向 | 2026-09-06 |
 | [2288](https://icourse.club/user/2288) | [home.ustc.edu.cn/~yongchengzheng](http://home.ustc.edu.cn/~yongchengzheng) | HTTP 4xx | 2026-09-06 |
@@ -97,7 +97,7 @@
 | [2868](https://icourse.club/user/2868) | [boyiwei.com](http://boyiwei.com/) | 已重定向 | 2026-09-06 |
 | [2997](https://icourse.club/user/2997) | [pplab.ustc.edu.cn](http://pplab.ustc.edu.cn/) | DNS 错误 | 2026-09-06 |
 | [3025](https://icourse.club/user/3025) | [space.bilibili.com/402574397](https://space.bilibili.com/402574397?from=search&seid=16651954183246406294) | 可访问 | 2026-09-06 |
-| [3058](https://icourse.club/user/3058) | [www.douban.com/people/yaogr](https://www.douban.com/people/yaogr/) | 可访问 | 2026-09-06 |
+| [3058](https://icourse.club/user/3058) | [www.douban.com/people/yaogr](https://www.douban.com/people/yaogr/) | 待复核 | 2026-09-06 |
 | [3064](https://icourse.club/user/3064) | [staff.ustc.edu.cn/~tongxu](http://staff.ustc.edu.cn/~tongxu/) | 可访问 | 2026-09-06 |
 | [3137](https://icourse.club/user/3137) | [r.mtdv.me/blog/posts/mye0zacSBq](https://r.mtdv.me/blog/posts/mye0zacSBq) | 拒绝自动检查 | 2026-09-06 |
 | [3197](https://icourse.club/user/3197) | [www.icourse.club/user](https://www.icourse.club/user/) | HTTP 4xx | 2026-09-06 |
@@ -192,7 +192,7 @@
 | [8883](https://icourse.club/user/8883) | [yinxingxue.github.io](https://yinxingxue.github.io/) | 可访问 | 2026-09-06 |
 | [8933](https://icourse.club/user/8933) | [wenhaoyu1998.github.io](https://wenhaoyu1998.github.io/) | HTTP 4xx | 2026-09-06 |
 | [9263](https://icourse.club/user/9263) | [smart-ustc.github.io](https://smart-ustc.github.io/) | 可访问 | 2026-09-06 |
-| [9332](https://icourse.club/user/9332) | [blog.huarenjian.cn](https://blog.huarenjian.cn/) | 检查超时 | 2026-09-06 |
+| [9332](https://icourse.club/user/9332) | [blog.huarenjian.cn](https://blog.huarenjian.cn/) | DNS 错误 | 2026-09-06 |
 | [9427](https://icourse.club/user/9427) | [gzy02.github.io](https://gzy02.github.io/) | 可访问 | 2026-09-06 |
 | [9462](https://icourse.club/user/9462) | [ys.mihoyo.com](http://ys.mihoyo.com/) | 已重定向 | 2026-09-06 |
 | [9558](https://icourse.club/user/9558) | [fuchow.github.io](https://fuchow.github.io/) | 可访问 | 2026-09-06 |
