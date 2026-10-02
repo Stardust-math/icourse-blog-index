@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `complete` |
-| 已记录 ID | 24,910 |
-| 最高已尝试 ID | 24,910 |
-| 最高已确认用户 ID | 24,683 |
+| 已记录 ID | 24,939 |
+| 最高已尝试 ID | 24,939 |
+| 最高已确认用户 ID | 24,702 |
 | 已确认博客 | 238 |
-| 公开 / 隐藏 / 不存在 / 未决 | 23,590 / 898 / 396 / 26 |
-| 最近成功更新 | 2026-10-01T19:48:57Z |
+| 公开 / 隐藏 / 不存在 / 未决 | 23,608 / 899 / 406 / 26 |
+| 最近成功更新 | 2026-10-02T23:16:00Z |
 
 ## 博客索引
 
@@ -74,7 +74,7 @@
 | [2114](https://icourse.club/user/2114) | [home.ustc.edu.cn/~wtd2018](http://home.ustc.edu.cn/~wtd2018/) | HTTP 4xx | 2026-09-06 |
 | [2193](https://icourse.club/user/2193) | [home.ustc.edu.cn/~yanhaoming](http://home.ustc.edu.cn/~yanhaoming) | HTTP 4xx | 2026-09-06 |
 | [2201](https://icourse.club/user/2201) | [lsy617004926.github.io](https://lsy617004926.github.io/) | 可访问 | 2026-09-06 |
-| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | 待复核 | 2026-09-06 |
+| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | HTTP 4xx | 2026-09-06 |
 | [2264](https://icourse.club/user/2264) | [live.bilibili.com/22625027](https://live.bilibili.com/22625027) | 可访问 | 2026-09-06 |
 | [2272](https://icourse.club/user/2272) | [home.ustc.edu.cn/~stevenw0916](http://home.ustc.edu.cn/~stevenw0916) | 已重定向 | 2026-09-06 |
 | [2288](https://icourse.club/user/2288) | [home.ustc.edu.cn/~yongchengzheng](http://home.ustc.edu.cn/~yongchengzheng) | HTTP 4xx | 2026-09-06 |
@@ -97,7 +97,7 @@
 | [2868](https://icourse.club/user/2868) | [boyiwei.com](http://boyiwei.com/) | 已重定向 | 2026-09-06 |
 | [2997](https://icourse.club/user/2997) | [pplab.ustc.edu.cn](http://pplab.ustc.edu.cn/) | DNS 错误 | 2026-09-06 |
 | [3025](https://icourse.club/user/3025) | [space.bilibili.com/402574397](https://space.bilibili.com/402574397?from=search&seid=16651954183246406294) | 可访问 | 2026-09-06 |
-| [3058](https://icourse.club/user/3058) | [www.douban.com/people/yaogr](https://www.douban.com/people/yaogr/) | 待复核 | 2026-09-06 |
+| [3058](https://icourse.club/user/3058) | [www.douban.com/people/yaogr](https://www.douban.com/people/yaogr/) | 可访问 | 2026-09-06 |
 | [3064](https://icourse.club/user/3064) | [staff.ustc.edu.cn/~tongxu](http://staff.ustc.edu.cn/~tongxu/) | 可访问 | 2026-09-06 |
 | [3137](https://icourse.club/user/3137) | [r.mtdv.me/blog/posts/mye0zacSBq](https://r.mtdv.me/blog/posts/mye0zacSBq) | 拒绝自动检查 | 2026-09-06 |
 | [3197](https://icourse.club/user/3197) | [www.icourse.club/user](https://www.icourse.club/user/) | HTTP 4xx | 2026-09-06 |
@@ -158,7 +158,7 @@
 | [6436](https://icourse.club/user/6436) | [jonbgua.com](https://jonbgua.com/) | HTTP 4xx | 2026-09-06 |
 | [6478](https://icourse.club/user/6478) | [home.ustc.edu.cn/~wuyuewy](http://home.ustc.edu.cn/~wuyuewy/) | 可访问 | 2026-09-06 |
 | [6576](https://icourse.club/user/6576) | [home.ustc.edu.cn/~yfrua](http://home.ustc.edu.cn/~yfrua/) | 可访问 | 2026-09-06 |
-| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 已重定向 | 2026-09-06 |
+| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 待复核 | 2026-09-06 |
 | [6674](https://icourse.club/user/6674) | [cs-pikachuu.github.io](http://cs-pikachuu.github.io/) | 已重定向 | 2026-09-06 |
 | [6765](https://icourse.club/user/6765) | [home.ustc.edu.cn/~luiswang](http://home.ustc.edu.cn/~luiswang) | 已重定向 | 2026-09-06 |
 | [6795](https://icourse.club/user/6795) | [guyu168.github.io](https://guyu168.github.io/) | 可访问 | 2026-09-06 |
