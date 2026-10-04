@@ -17,8 +17,8 @@
 | 最高已尝试 ID | 24,939 |
 | 最高已确认用户 ID | 24,702 |
 | 已确认博客 | 238 |
-| 公开 / 隐藏 / 不存在 / 未决 | 23,608 / 899 / 406 / 26 |
-| 最近成功更新 | 2026-10-03T22:25:13Z |
+| 公开 / 隐藏 / 不存在 / 未决 | 23,608 / 900 / 406 / 25 |
+| 最近成功更新 | 2026-10-04T22:32:06Z |
 
 ## 博客索引
 
@@ -158,7 +158,7 @@
 | [6436](https://icourse.club/user/6436) | [jonbgua.com](https://jonbgua.com/) | HTTP 4xx | 2026-09-06 |
 | [6478](https://icourse.club/user/6478) | [home.ustc.edu.cn/~wuyuewy](http://home.ustc.edu.cn/~wuyuewy/) | 可访问 | 2026-09-06 |
 | [6576](https://icourse.club/user/6576) | [home.ustc.edu.cn/~yfrua](http://home.ustc.edu.cn/~yfrua/) | 可访问 | 2026-09-06 |
-| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 待复核 | 2026-09-06 |
+| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 已重定向 | 2026-09-06 |
 | [6674](https://icourse.club/user/6674) | [cs-pikachuu.github.io](http://cs-pikachuu.github.io/) | 已重定向 | 2026-09-06 |
 | [6765](https://icourse.club/user/6765) | [home.ustc.edu.cn/~luiswang](http://home.ustc.edu.cn/~luiswang) | 已重定向 | 2026-09-06 |
 | [6795](https://icourse.club/user/6795) | [guyu168.github.io](https://guyu168.github.io/) | 可访问 | 2026-09-06 |
@@ -192,7 +192,7 @@
 | [8883](https://icourse.club/user/8883) | [yinxingxue.github.io](https://yinxingxue.github.io/) | 可访问 | 2026-09-06 |
 | [8933](https://icourse.club/user/8933) | [wenhaoyu1998.github.io](https://wenhaoyu1998.github.io/) | HTTP 4xx | 2026-09-06 |
 | [9263](https://icourse.club/user/9263) | [smart-ustc.github.io](https://smart-ustc.github.io/) | 可访问 | 2026-09-06 |
-| [9332](https://icourse.club/user/9332) | [blog.huarenjian.cn](https://blog.huarenjian.cn/) | DNS 错误 | 2026-09-06 |
+| [9332](https://icourse.club/user/9332) | [blog.huarenjian.cn](https://blog.huarenjian.cn/) | TLS 错误 | 2026-09-06 |
 | [9427](https://icourse.club/user/9427) | [gzy02.github.io](https://gzy02.github.io/) | 可访问 | 2026-09-06 |
 | [9462](https://icourse.club/user/9462) | [ys.mihoyo.com](http://ys.mihoyo.com/) | 已重定向 | 2026-09-06 |
 | [9558](https://icourse.club/user/9558) | [fuchow.github.io](https://fuchow.github.io/) | 可访问 | 2026-09-06 |
