@@ -18,7 +18,7 @@
 | 最高已确认用户 ID | 24,702 |
 | 已确认博客 | 238 |
 | 公开 / 隐藏 / 不存在 / 未决 | 23,608 / 900 / 406 / 25 |
-| 最近成功更新 | 2026-10-04T22:32:06Z |
+| 最近成功更新 | 2026-10-06T01:00:22Z |
 
 ## 博客索引
 
@@ -74,7 +74,7 @@
 | [2114](https://icourse.club/user/2114) | [home.ustc.edu.cn/~wtd2018](http://home.ustc.edu.cn/~wtd2018/) | HTTP 4xx | 2026-09-06 |
 | [2193](https://icourse.club/user/2193) | [home.ustc.edu.cn/~yanhaoming](http://home.ustc.edu.cn/~yanhaoming) | HTTP 4xx | 2026-09-06 |
 | [2201](https://icourse.club/user/2201) | [lsy617004926.github.io](https://lsy617004926.github.io/) | 可访问 | 2026-09-06 |
-| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | HTTP 4xx | 2026-09-06 |
+| [2206](https://icourse.club/user/2206) | [www.bilibili.com/bangumi/play/ep103591](https://www.bilibili.com/bangumi/play/ep103591) | 可访问 | 2026-09-06 |
 | [2264](https://icourse.club/user/2264) | [live.bilibili.com/22625027](https://live.bilibili.com/22625027) | 可访问 | 2026-09-06 |
 | [2272](https://icourse.club/user/2272) | [home.ustc.edu.cn/~stevenw0916](http://home.ustc.edu.cn/~stevenw0916) | 已重定向 | 2026-09-06 |
 | [2288](https://icourse.club/user/2288) | [home.ustc.edu.cn/~yongchengzheng](http://home.ustc.edu.cn/~yongchengzheng) | HTTP 4xx | 2026-09-06 |
@@ -261,7 +261,7 @@
 | [21349](https://icourse.club/user/21349) | [learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct) | 可访问 | 2026-09-07 |
 | [21853](https://icourse.club/user/21853) | [mu2he.me](http://mu2he.me/) | 已重定向 | 2026-09-07 |
 | [22687](https://icourse.club/user/22687) | [space.bilibili.com/5132046](https://space.bilibili.com/5132046) | 可访问 | 2026-09-07 |
-| [24673](https://icourse.club/user/24673) | [javaherobrine.github.io](http://javaherobrine.github.io/) | 已重定向 | 2026-09-28 |
+| [24673](https://icourse.club/user/24673) | [javaherobrine.github.io](http://javaherobrine.github.io/) | 已重定向 | 2026-10-06 |
 <!-- END GENERATED INDEX -->
 
 ## 数据在哪里
