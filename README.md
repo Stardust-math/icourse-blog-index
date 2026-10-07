@@ -15,10 +15,10 @@
 | 初始化状态 | `complete` |
 | 已记录 ID | 24,958 |
 | 最高已尝试 ID | 24,958 |
-| 最高已确认用户 ID | 24,707 |
-| 已确认博客 | 238 |
-| 公开 / 隐藏 / 不存在 / 未决 | 23,612 / 901 / 420 / 25 |
-| 最近成功更新 | 2026-10-06T23:26:57Z |
+| 最高已确认用户 ID | 24,715 |
+| 已确认博客 | 239 |
+| 公开 / 隐藏 / 不存在 / 未决 | 23,621 / 901 / 412 / 24 |
+| 最近成功更新 | 2026-10-07T23:47:27Z |
 
 ## 博客索引
 
@@ -238,6 +238,7 @@
 | [12989](https://icourse.club/user/12989) | [poorotterbob.github.io](https://poorotterbob.github.io/) | HTTP 4xx | 2026-10-06 |
 | [13285](https://icourse.club/user/13285) | [faculty.ustc.edu.cn/songguofeng/zh\_CN/index.htm](https://faculty.ustc.edu.cn/songguofeng/zh_CN/index.htm) | 可访问 | 2026-10-06 |
 | [13356](https://icourse.club/user/13356) | [mirawind.top](https://mirawind.top/) | 已重定向 | 2026-10-06 |
+| [13365](https://icourse.club/user/13365) | [blog.1nvictus.me](https://blog.1nvictus.me/) | 可访问 | 2026-10-07 |
 | [13482](https://icourse.club/user/13482) | [sulcop5.github.io](http://sulcop5.github.io/) | 已重定向 | 2026-10-06 |
 | [13508](https://icourse.club/user/13508) | [ai.com](http://ai.com/) | 已重定向 | 2026-10-06 |
 | [13520](https://icourse.club/user/13520) | [lunarkn1ght.github.io](http://lunarkn1ght.github.io/) | 已重定向 | 2026-10-06 |
@@ -256,11 +257,11 @@
 | [17487](https://icourse.club/user/17487) | [enthusjast.cc](http://enthusjast.cc/) | DNS 错误 | 2026-10-06 |
 | [17706](https://icourse.club/user/17706) | [staff.ustc.edu.cn/~dinggj/index.html](http://staff.ustc.edu.cn/~dinggj/index.html) | 可访问 | 2026-10-06 |
 | [17760](https://icourse.club/user/17760) | [www.yuanshen.com](https://www.yuanshen.com/) | 可访问 | 2026-10-06 |
-| [20161](https://icourse.club/user/20161) | [www.hfnl.ustc.edu.cn/detail](http://www.hfnl.ustc.edu.cn/detail?id=11324) | HTTP 4xx | 2026-09-07 |
-| [21241](https://icourse.club/user/21241) | [faculty.ustc.edu.cn/wuxinyu/zh\_CN/index.htm](http://faculty.ustc.edu.cn/wuxinyu/zh_CN/index.htm) | 可访问 | 2026-09-07 |
-| [21349](https://icourse.club/user/21349) | [learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct) | 可访问 | 2026-09-07 |
-| [21853](https://icourse.club/user/21853) | [mu2he.me](http://mu2he.me/) | 已重定向 | 2026-09-07 |
-| [22687](https://icourse.club/user/22687) | [space.bilibili.com/5132046](https://space.bilibili.com/5132046) | 可访问 | 2026-09-07 |
+| [20161](https://icourse.club/user/20161) | [www.hfnl.ustc.edu.cn/detail](http://www.hfnl.ustc.edu.cn/detail?id=11324) | HTTP 4xx | 2026-10-07 |
+| [21241](https://icourse.club/user/21241) | [faculty.ustc.edu.cn/wuxinyu/zh\_CN/index.htm](http://faculty.ustc.edu.cn/wuxinyu/zh_CN/index.htm) | 可访问 | 2026-10-07 |
+| [21349](https://icourse.club/user/21349) | [learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct) | 可访问 | 2026-10-07 |
+| [21853](https://icourse.club/user/21853) | [mu2he.me](http://mu2he.me/) | 已重定向 | 2026-10-07 |
+| [22687](https://icourse.club/user/22687) | [space.bilibili.com/5132046](https://space.bilibili.com/5132046) | 可访问 | 2026-10-07 |
 | [24673](https://icourse.club/user/24673) | [javaherobrine.github.io](http://javaherobrine.github.io/) | 已重定向 | 2026-10-06 |
 <!-- END GENERATED INDEX -->
 

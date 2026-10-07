@@ -213,6 +213,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 12989,https://icourse.club/user/12989,https://poorotterbob.github.io/,client_error,2026-10-06T23:25:58Z
 13285,https://icourse.club/user/13285,https://faculty.ustc.edu.cn/songguofeng/zh_CN/index.htm,reachable,2026-10-06T23:26:01Z
 13356,https://icourse.club/user/13356,https://mirawind.top/,redirected,2026-10-06T23:26:03Z
+13365,https://icourse.club/user/13365,https://blog.1nvictus.me/,reachable,2026-10-07T23:46:58Z
 13482,https://icourse.club/user/13482,http://sulcop5.github.io/,redirected,2026-10-06T23:26:06Z
 13508,https://icourse.club/user/13508,http://ai.com/,redirected,2026-10-06T23:26:10Z
 13520,https://icourse.club/user/13520,http://lunarkn1ght.github.io/,redirected,2026-10-06T23:26:13Z
@@ -231,9 +232,9 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 17487,https://icourse.club/user/17487,http://enthusjast.cc/,dns_error,2026-10-06T23:26:50Z
 17706,https://icourse.club/user/17706,http://staff.ustc.edu.cn/~dinggj/index.html,reachable,2026-10-06T23:26:53Z
 17760,https://icourse.club/user/17760,https://www.yuanshen.com/,reachable,2026-10-06T23:26:56Z
-20161,https://icourse.club/user/20161,http://www.hfnl.ustc.edu.cn/detail?id=11324,client_error,2026-09-07T22:19:30Z
-21241,https://icourse.club/user/21241,http://faculty.ustc.edu.cn/wuxinyu/zh_CN/index.htm,reachable,2026-09-07T22:19:33Z
-21349,https://icourse.club/user/21349,https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct,reachable,2026-09-07T22:19:35Z
-21853,https://icourse.club/user/21853,http://mu2he.me/,redirected,2026-09-07T22:19:38Z
-22687,https://icourse.club/user/22687,https://space.bilibili.com/5132046,reachable,2026-09-07T22:19:41Z
+20161,https://icourse.club/user/20161,http://www.hfnl.ustc.edu.cn/detail?id=11324,client_error,2026-10-07T23:47:15Z
+21241,https://icourse.club/user/21241,http://faculty.ustc.edu.cn/wuxinyu/zh_CN/index.htm,reachable,2026-10-07T23:47:18Z
+21349,https://icourse.club/user/21349,https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-drawitemstruct,reachable,2026-10-07T23:47:21Z
+21853,https://icourse.club/user/21853,http://mu2he.me/,redirected,2026-10-07T23:47:24Z
+22687,https://icourse.club/user/22687,https://space.bilibili.com/5132046,reachable,2026-10-07T23:47:27Z
 24673,https://icourse.club/user/24673,http://javaherobrine.github.io/,redirected,2026-10-06T00:58:59Z
