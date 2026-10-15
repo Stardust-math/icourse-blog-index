@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `complete` |
-| 已记录 ID | 24,971 |
-| 最高已尝试 ID | 24,971 |
+| 已记录 ID | 25,027 |
+| 最高已尝试 ID | 25,027 |
 | 最高已确认用户 ID | 24,801 |
 | 已确认博客 | 239 |
-| 公开 / 隐藏 / 不存在 / 未决 | 23,706 / 902 / 339 / 24 |
-| 最近成功更新 | 2026-10-14T22:35:16Z |
+| 公开 / 隐藏 / 不存在 / 未决 | 23,706 / 902 / 395 / 24 |
+| 最近成功更新 | 2026-10-15T22:41:46Z |
 
 ## 博客索引
 
@@ -238,7 +238,7 @@
 | [12989](https://icourse.club/user/12989) | [poorotterbob.github.io](https://poorotterbob.github.io/) | HTTP 4xx | 2026-10-06 |
 | [13285](https://icourse.club/user/13285) | [faculty.ustc.edu.cn/songguofeng/zh\_CN/index.htm](https://faculty.ustc.edu.cn/songguofeng/zh_CN/index.htm) | 可访问 | 2026-10-06 |
 | [13356](https://icourse.club/user/13356) | [mirawind.top](https://mirawind.top/) | 已重定向 | 2026-10-06 |
-| [13365](https://icourse.club/user/13365) | [blog.1nvictus.me](https://blog.1nvictus.me/) | 可访问 | 2026-10-07 |
+| [13365](https://icourse.club/user/13365) | [blog.1nvictus.me](https://blog.1nvictus.me/) | 可访问 | 2026-10-15 |
 | [13482](https://icourse.club/user/13482) | [sulcop5.github.io](http://sulcop5.github.io/) | 已重定向 | 2026-10-06 |
 | [13508](https://icourse.club/user/13508) | [ai.com](http://ai.com/) | 已重定向 | 2026-10-06 |
 | [13520](https://icourse.club/user/13520) | [lunarkn1ght.github.io](http://lunarkn1ght.github.io/) | 已重定向 | 2026-10-06 |
