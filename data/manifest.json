@@ -1,19 +1,19 @@
 {
   "blog_count": 239,
-  "generated_at": "2026-10-16T22:15:24Z",
+  "generated_at": "2026-10-17T21:44:11Z",
   "highest_attempted_id": 25057,
-  "highest_confirmed_user_id": 24835,
-  "highest_existing_user_id": 24835,
+  "highest_confirmed_user_id": 24862,
+  "highest_existing_user_id": 24862,
   "initialization_status": "complete",
-  "last_successful_run_at": "2026-10-16T22:15:24Z",
+  "last_successful_run_at": "2026-10-17T21:44:11Z",
   "phase": "maintenance",
   "profile_status_counts": {
     "hidden": 902,
-    "missing": 391,
-    "public": 23740,
+    "missing": 364,
+    "public": 23767,
     "unknown": 24
   },
   "record_count": 25057,
   "schema_version": 1,
-  "updated_at": "2026-10-16T22:15:24Z"
+  "updated_at": "2026-10-17T21:44:11Z"
 }
