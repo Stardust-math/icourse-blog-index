@@ -1060,3 +1060,5 @@
 {"changed_at":"2026-10-17T21:42:11Z","event_id":"614481a64f77b8cbcb654ea5","kind":"profile_status","new_value":"public","old_value":"missing","run_id":"update-20261017T213936Z-fc10e6fb","user_id":24861}
 {"changed_at":"2026-10-17T21:42:17Z","event_id":"159d06f8bfd4cd3f06bc0778","kind":"profile_status","new_value":"public","old_value":"missing","run_id":"update-20261017T213936Z-fc10e6fb","user_id":24862}
 {"changed_at":"2026-10-17T21:42:17Z","event_id":"5dbfd9e9e9be9aff3a1d02a7","kind":"blog_changed","new_value":{"status":"absent","url":null},"old_value":{"status":"unknown","url":null},"run_id":"update-20261017T213936Z-fc10e6fb","user_id":24862}
+{"changed_at":"2026-10-19T23:06:53Z","event_id":"52280533d9a1f4fed35649da","kind":"profile_status","new_value":"hidden","old_value":"public","run_id":"update-20261019T230108Z-97e12e38","user_id":24741}
+{"changed_at":"2026-10-19T23:06:53Z","event_id":"9ad7ffd99049fba53e2a9665","kind":"blog_changed","new_value":{"status":"unknown","url":null},"old_value":{"status":"absent","url":null},"run_id":"update-20261019T230108Z-97e12e38","user_id":24741}
