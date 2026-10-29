@@ -18,7 +18,7 @@
 | 最高已确认用户 ID | 24,969 |
 | 已确认博客 | 239 |
 | 公开 / 隐藏 / 不存在 / 未决 | 23,866 / 904 / 391 / 24 |
-| 最近成功更新 | 2026-10-28T19:41:41Z |
+| 最近成功更新 | 2026-10-29T19:43:47Z |
 
 ## 博客索引
 
@@ -107,7 +107,7 @@
 | [3423](https://icourse.club/user/3423) | [home.ustc.edu.cn/~wxl20010508](http://home.ustc.edu.cn/~wxl20010508) | HTTP 4xx | 2026-10-06 |
 | [3440](https://icourse.club/user/3440) | [home.ustc.edu.cn/~zyx240014](http://home.ustc.edu.cn/~zyx240014) | HTTP 4xx | 2026-10-06 |
 | [3502](https://icourse.club/user/3502) | [home.ustc.edu.cn/~lyq010303](http://home.ustc.edu.cn/~lyq010303/) | 可访问 | 2026-10-06 |
-| [3537](https://icourse.club/user/3537) | [scholar.google.com/citations](https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN) | 待复核 | 2026-10-06 |
+| [3537](https://icourse.club/user/3537) | [scholar.google.com/citations](https://scholar.google.com/citations?user=JD58ZWQAAAAJ&hl=zh-CN) | 可访问 | 2026-10-06 |
 | [3552](https://icourse.club/user/3552) | [jiming.site](https://jiming.site/) | 可访问 | 2026-10-06 |
 | [3598](https://icourse.club/user/3598) | [www.zhihu.com/people/liu-xing-yu-72-53](https://www.zhihu.com/people/liu-xing-yu-72-53) | 拒绝自动检查 | 2026-10-06 |
 | [3601](https://icourse.club/user/3601) | [he-jiazhi.github.io](https://he-jiazhi.github.io/) | 可访问 | 2026-10-06 |
