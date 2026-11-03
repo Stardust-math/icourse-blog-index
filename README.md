@@ -18,7 +18,7 @@
 | 最高已确认用户 ID | 25,005 |
 | 已确认博客 | 239 |
 | 公开 / 隐藏 / 不存在 / 未决 | 23,902 / 904 / 395 / 24 |
-| 最近成功更新 | 2026-11-01T19:41:05Z |
+| 最近成功更新 | 2026-11-03T01:48:59Z |
 
 ## 博客索引
 
@@ -31,7 +31,7 @@
 | [14](https://icourse.club/user/14) | [ibat.me](http://ibat.me/) | 拒绝自动检查 | 2026-10-06 |
 | [15](https://icourse.club/user/15) | [wzhd.gitcafe.io](http://wzhd.gitcafe.io/) | DNS 错误 | 2026-10-06 |
 | [16](https://icourse.club/user/16) | [home.ustc.edu.cn/~lyishuai](http://home.ustc.edu.cn/~lyishuai) | HTTP 4xx | 2026-10-06 |
-| [59](https://icourse.club/user/59) | [kuriyamamika.blogspot.jp](http://kuriyamamika.blogspot.jp/) | 待复核 | 2026-10-06 |
+| [59](https://icourse.club/user/59) | [kuriyamamika.blogspot.jp](http://kuriyamamika.blogspot.jp/) | 拒绝自动检查 | 2026-10-06 |
 | [64](https://icourse.club/user/64) | [home.ustc.edu.cn/~mouzq](http://home.ustc.edu.cn/~mouzq/) | HTTP 4xx | 2026-10-06 |
 | [116](https://icourse.club/user/116) | [ustclyh.github.io](https://ustclyh.github.io/) | 可访问 | 2026-10-06 |
 | [121](https://icourse.club/user/121) | [www.zhangjy9610.me/index-cn.html](https://www.zhangjy9610.me/index-cn.html) | 可访问 | 2026-10-06 |
@@ -48,7 +48,7 @@
 | [502](https://icourse.club/user/502) | [home.ustc.edu.cn/~bourbaki](http://home.ustc.edu.cn/~bourbaki/) | HTTP 4xx | 2026-10-06 |
 | [506](https://icourse.club/user/506) | [home.ustc.edu.cn/~fluorine](http://home.ustc.edu.cn/~fluorine/) | HTTP 4xx | 2026-10-06 |
 | [511](https://icourse.club/user/511) | [ustchhy.me](http://ustchhy.me/) | DNS 错误 | 2026-10-06 |
-| [583](https://icourse.club/user/583) | [www.songchaow.cn](http://www.songchaow.cn/) | 待复核 | 2026-10-06 |
+| [583](https://icourse.club/user/583) | [www.songchaow.cn](http://www.songchaow.cn/) | TLS 错误 | 2026-10-06 |
 | [601](https://icourse.club/user/601) | [home.ustc.edu.cn/~zt001062](http://home.ustc.edu.cn/~zt001062) | HTTP 4xx | 2026-10-06 |
 | [634](https://icourse.club/user/634) | [cims.nyu.edu/~lz2088](http://cims.nyu.edu/~lz2088) | 拒绝自动检查 | 2026-10-06 |
 | [754](https://icourse.club/user/754) | [nirvana.blog.ustc.edu.cn](http://nirvana.blog.ustc.edu.cn/) | DNS 错误 | 2026-10-06 |
@@ -252,7 +252,7 @@
 | [16379](https://icourse.club/user/16379) | [staff.ustc.edu.cn/~hzli](http://staff.ustc.edu.cn/~hzli/) | 可访问 | 2026-10-06 |
 | [16384](https://icourse.club/user/16384) | [kdelab.ustc.edu.cn/~jpq](https://kdelab.ustc.edu.cn/~jpq/) | 可访问 | 2026-10-06 |
 | [16453](https://icourse.club/user/16453) | [www.lylighte.cc](https://www.lylighte.cc/) | 可访问 | 2026-10-06 |
-| [16466](https://icourse.club/user/16466) | [zh-hans.chaturbate.com](https://zh-hans.chaturbate.com/) | 拒绝自动检查 | 2026-10-06 |
+| [16466](https://icourse.club/user/16466) | [zh-hans.chaturbate.com](https://zh-hans.chaturbate.com/) | 可访问 | 2026-10-06 |
 | [17136](https://icourse.club/user/17136) | [joshuaxql.github.io](https://joshuaxql.github.io/) | 可访问 | 2026-10-06 |
 | [17487](https://icourse.club/user/17487) | [enthusjast.cc](http://enthusjast.cc/) | DNS 错误 | 2026-10-06 |
 | [17706](https://icourse.club/user/17706) | [staff.ustc.edu.cn/~dinggj/index.html](http://staff.ustc.edu.cn/~dinggj/index.html) | 可访问 | 2026-10-06 |

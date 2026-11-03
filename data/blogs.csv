@@ -6,7 +6,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 14,https://icourse.club/user/14,http://ibat.me/,blocked,2026-10-06T23:15:37Z
 15,https://icourse.club/user/15,http://wzhd.gitcafe.io/,dns_error,2026-10-06T23:15:40Z
 16,https://icourse.club/user/16,http://home.ustc.edu.cn/~lyishuai,client_error,2026-10-06T23:15:42Z
-59,https://icourse.club/user/59,http://kuriyamamika.blogspot.jp/,pending_failure,2026-10-06T23:15:45Z
+59,https://icourse.club/user/59,http://kuriyamamika.blogspot.jp/,blocked,2026-10-06T23:15:45Z
 64,https://icourse.club/user/64,http://home.ustc.edu.cn/~mouzq/,client_error,2026-10-06T23:15:48Z
 116,https://icourse.club/user/116,https://ustclyh.github.io/,reachable,2026-10-06T23:15:52Z
 121,https://icourse.club/user/121,https://www.zhangjy9610.me/index-cn.html,reachable,2026-10-06T23:15:55Z
@@ -23,7 +23,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 502,https://icourse.club/user/502,http://home.ustc.edu.cn/~bourbaki/,client_error,2026-10-06T23:16:27Z
 506,https://icourse.club/user/506,http://home.ustc.edu.cn/~fluorine/,client_error,2026-10-06T23:16:30Z
 511,https://icourse.club/user/511,http://ustchhy.me/,dns_error,2026-10-06T23:16:33Z
-583,https://icourse.club/user/583,http://www.songchaow.cn/,pending_failure,2026-10-06T23:16:36Z
+583,https://icourse.club/user/583,http://www.songchaow.cn/,tls_error,2026-10-06T23:16:36Z
 601,https://icourse.club/user/601,http://home.ustc.edu.cn/~zt001062,client_error,2026-10-06T23:16:40Z
 634,https://icourse.club/user/634,http://cims.nyu.edu/~lz2088,blocked,2026-10-06T23:16:43Z
 754,https://icourse.club/user/754,http://nirvana.blog.ustc.edu.cn/,dns_error,2026-10-06T23:16:46Z
@@ -227,7 +227,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 16379,https://icourse.club/user/16379,http://staff.ustc.edu.cn/~hzli/,reachable,2026-10-06T23:26:36Z
 16384,https://icourse.club/user/16384,https://kdelab.ustc.edu.cn/~jpq/,reachable,2026-10-06T23:26:38Z
 16453,https://icourse.club/user/16453,https://www.lylighte.cc/,reachable,2026-10-06T23:26:41Z
-16466,https://icourse.club/user/16466,https://zh-hans.chaturbate.com/,blocked,2026-10-06T23:26:44Z
+16466,https://icourse.club/user/16466,https://zh-hans.chaturbate.com/,reachable,2026-10-06T23:26:44Z
 17136,https://icourse.club/user/17136,https://joshuaxql.github.io/,reachable,2026-10-06T23:26:47Z
 17487,https://icourse.club/user/17487,http://enthusjast.cc/,dns_error,2026-10-06T23:26:50Z
 17706,https://icourse.club/user/17706,http://staff.ustc.edu.cn/~dinggj/index.html,reachable,2026-10-06T23:26:53Z
