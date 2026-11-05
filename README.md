@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `complete` |
-| 已记录 ID | 25,225 |
-| 最高已尝试 ID | 25,225 |
-| 最高已确认用户 ID | 25,005 |
+| 已记录 ID | 25,261 |
+| 最高已尝试 ID | 25,261 |
+| 最高已确认用户 ID | 25,027 |
 | 已确认博客 | 239 |
-| 公开 / 隐藏 / 不存在 / 未决 | 23,902 / 904 / 395 / 24 |
-| 最近成功更新 | 2026-11-04T00:13:48Z |
+| 公开 / 隐藏 / 不存在 / 未决 | 23,924 / 904 / 409 / 24 |
+| 最近成功更新 | 2026-11-05T00:33:25Z |
 
 ## 博客索引
 
@@ -158,7 +158,7 @@
 | [6436](https://icourse.club/user/6436) | [jonbgua.com](https://jonbgua.com/) | HTTP 4xx | 2026-10-06 |
 | [6478](https://icourse.club/user/6478) | [home.ustc.edu.cn/~wuyuewy](http://home.ustc.edu.cn/~wuyuewy/) | 可访问 | 2026-10-06 |
 | [6576](https://icourse.club/user/6576) | [home.ustc.edu.cn/~yfrua](http://home.ustc.edu.cn/~yfrua/) | 可访问 | 2026-10-06 |
-| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 待复核 | 2026-10-06 |
+| [6643](https://icourse.club/user/6643) | [wk.baidu.com/view/b107bc46be1e650e52ea9909](https://wk.baidu.com/view/b107bc46be1e650e52ea9909) | 拒绝自动检查 | 2026-10-06 |
 | [6674](https://icourse.club/user/6674) | [cs-pikachuu.github.io](http://cs-pikachuu.github.io/) | 已重定向 | 2026-10-06 |
 | [6765](https://icourse.club/user/6765) | [home.ustc.edu.cn/~luiswang](http://home.ustc.edu.cn/~luiswang) | 已重定向 | 2026-10-06 |
 | [6795](https://icourse.club/user/6795) | [guyu168.github.io](https://guyu168.github.io/) | 可访问 | 2026-10-06 |
