@@ -3,12 +3,12 @@
   "boundary_confirmation_pending": false,
   "consecutive_missing_after_frontier": 0,
   "highest_attempted_id": 25432,
-  "highest_confirmed_user_id": 25219,
-  "last_run_id": "update-20261120T012438Z-1bb5e522",
-  "maintenance_cursor": 25220,
+  "highest_confirmed_user_id": 25278,
+  "last_run_id": "update-20261121T005453Z-bcec38d9",
+  "maintenance_cursor": 25284,
   "next_id": 23792,
   "paused_from_phase": null,
   "phase": "maintenance",
   "schema_version": 1,
-  "updated_at": "2026-11-20T01:30:00Z"
+  "updated_at": "2026-11-21T01:02:14Z"
 }
