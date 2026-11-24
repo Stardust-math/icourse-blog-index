@@ -6,7 +6,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 14,https://icourse.club/user/14,http://ibat.me/,blocked,2026-11-06T00:36:26Z
 15,https://icourse.club/user/15,http://wzhd.gitcafe.io/,dns_error,2026-11-06T00:36:29Z
 16,https://icourse.club/user/16,http://home.ustc.edu.cn/~lyishuai,client_error,2026-11-06T00:36:32Z
-59,https://icourse.club/user/59,http://kuriyamamika.blogspot.jp/,blocked,2026-11-06T00:36:35Z
+59,https://icourse.club/user/59,http://kuriyamamika.blogspot.jp/,redirected,2026-11-06T00:36:35Z
 64,https://icourse.club/user/64,http://home.ustc.edu.cn/~mouzq/,client_error,2026-11-06T00:36:38Z
 116,https://icourse.club/user/116,https://ustclyh.github.io/,reachable,2026-11-06T00:36:41Z
 121,https://icourse.club/user/121,https://www.zhangjy9610.me/index-cn.html,reachable,2026-11-06T00:36:44Z
@@ -74,7 +74,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 3025,https://icourse.club/user/3025,https://space.bilibili.com/402574397?from=search&seid=16651954183246406294,reachable,2026-11-06T00:39:50Z
 3058,https://icourse.club/user/3058,https://www.douban.com/people/yaogr/,reachable,2026-11-06T00:39:54Z
 3064,https://icourse.club/user/3064,http://staff.ustc.edu.cn/~tongxu/,reachable,2026-11-06T00:39:57Z
-3137,https://icourse.club/user/3137,https://r.mtdv.me/blog/posts/mye0zacSBq,blocked,2026-11-06T00:40:00Z
+3137,https://icourse.club/user/3137,https://r.mtdv.me/blog/posts/mye0zacSBq,reachable,2026-11-06T00:40:00Z
 3197,https://icourse.club/user/3197,https://www.icourse.club/user/,client_error,2026-11-06T00:40:03Z
 3298,https://icourse.club/user/3298,https://blog.csdn.net/cggwz,reachable,2026-11-06T00:40:06Z
 3384,https://icourse.club/user/3384,http://home.ustc.edu.cn/~feqi/,reachable,2026-11-06T00:40:09Z
@@ -201,7 +201,7 @@ user_id,profile_url,blog_url,health_status,last_confirmed_at
 12186,https://icourse.club/user/12186,https://github.com/yzguo,reachable,2026-11-06T00:46:15Z
 12276,https://icourse.club/user/12276,https://xef2.top/,reachable,2026-11-06T00:46:18Z
 12308,https://icourse.club/user/12308,https://bauklotze.vercel.app/,reachable,2026-11-06T00:46:21Z
-12355,https://icourse.club/user/12355,https://mainsub.cc/,blocked,2026-11-06T00:46:24Z
+12355,https://icourse.club/user/12355,https://mainsub.cc/,reachable,2026-11-06T00:46:24Z
 12369,https://icourse.club/user/12369,http://miaoning.space/,dns_error,2026-11-06T00:46:27Z
 12522,https://icourse.club/user/12522,https://map.bemanicn.com/,reachable,2026-11-06T00:46:30Z
 12531,https://icourse.club/user/12531,https://b23.tv/vdeRcez,reachable,2026-11-06T00:46:33Z

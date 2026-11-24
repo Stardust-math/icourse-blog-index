@@ -13,12 +13,12 @@
 | 指标 | 当前值 |
 |---|---:|
 | 初始化状态 | `complete` |
-| 已记录 ID | 25,475 |
-| 最高已尝试 ID | 25,475 |
+| 已记录 ID | 25,539 |
+| 最高已尝试 ID | 25,539 |
 | 最高已确认用户 ID | 25,291 |
 | 已确认博客 | 239 |
-| 公开 / 隐藏 / 不存在 / 未决 | 24,182 / 905 / 364 / 24 |
-| 最近成功更新 | 2026-11-23T19:42:15Z |
+| 公开 / 隐藏 / 不存在 / 未决 | 24,182 / 905 / 428 / 24 |
+| 最近成功更新 | 2026-11-24T19:42:14Z |
 
 ## 博客索引
 
@@ -31,7 +31,7 @@
 | [14](https://icourse.club/user/14) | [ibat.me](http://ibat.me/) | 拒绝自动检查 | 2026-11-06 |
 | [15](https://icourse.club/user/15) | [wzhd.gitcafe.io](http://wzhd.gitcafe.io/) | DNS 错误 | 2026-11-06 |
 | [16](https://icourse.club/user/16) | [home.ustc.edu.cn/~lyishuai](http://home.ustc.edu.cn/~lyishuai) | HTTP 4xx | 2026-11-06 |
-| [59](https://icourse.club/user/59) | [kuriyamamika.blogspot.jp](http://kuriyamamika.blogspot.jp/) | 拒绝自动检查 | 2026-11-06 |
+| [59](https://icourse.club/user/59) | [kuriyamamika.blogspot.jp](http://kuriyamamika.blogspot.jp/) | 已重定向 | 2026-11-06 |
 | [64](https://icourse.club/user/64) | [home.ustc.edu.cn/~mouzq](http://home.ustc.edu.cn/~mouzq/) | HTTP 4xx | 2026-11-06 |
 | [116](https://icourse.club/user/116) | [ustclyh.github.io](https://ustclyh.github.io/) | 可访问 | 2026-11-06 |
 | [121](https://icourse.club/user/121) | [www.zhangjy9610.me/index-cn.html](https://www.zhangjy9610.me/index-cn.html) | 可访问 | 2026-11-06 |
@@ -99,7 +99,7 @@
 | [3025](https://icourse.club/user/3025) | [space.bilibili.com/402574397](https://space.bilibili.com/402574397?from=search&seid=16651954183246406294) | 可访问 | 2026-11-06 |
 | [3058](https://icourse.club/user/3058) | [www.douban.com/people/yaogr](https://www.douban.com/people/yaogr/) | 可访问 | 2026-11-06 |
 | [3064](https://icourse.club/user/3064) | [staff.ustc.edu.cn/~tongxu](http://staff.ustc.edu.cn/~tongxu/) | 可访问 | 2026-11-06 |
-| [3137](https://icourse.club/user/3137) | [r.mtdv.me/blog/posts/mye0zacSBq](https://r.mtdv.me/blog/posts/mye0zacSBq) | 拒绝自动检查 | 2026-11-06 |
+| [3137](https://icourse.club/user/3137) | [r.mtdv.me/blog/posts/mye0zacSBq](https://r.mtdv.me/blog/posts/mye0zacSBq) | 可访问 | 2026-11-06 |
 | [3197](https://icourse.club/user/3197) | [www.icourse.club/user](https://www.icourse.club/user/) | HTTP 4xx | 2026-11-06 |
 | [3298](https://icourse.club/user/3298) | [blog.csdn.net/cggwz](https://blog.csdn.net/cggwz) | 可访问 | 2026-11-06 |
 | [3384](https://icourse.club/user/3384) | [home.ustc.edu.cn/~feqi](http://home.ustc.edu.cn/~feqi/) | 可访问 | 2026-11-06 |
@@ -226,7 +226,7 @@
 | [12186](https://icourse.club/user/12186) | [github.com/yzguo](https://github.com/yzguo) | 可访问 | 2026-11-06 |
 | [12276](https://icourse.club/user/12276) | [xef2.top](https://xef2.top/) | 可访问 | 2026-11-06 |
 | [12308](https://icourse.club/user/12308) | [bauklotze.vercel.app](https://bauklotze.vercel.app/) | 可访问 | 2026-11-06 |
-| [12355](https://icourse.club/user/12355) | [mainsub.cc](https://mainsub.cc/) | 拒绝自动检查 | 2026-11-06 |
+| [12355](https://icourse.club/user/12355) | [mainsub.cc](https://mainsub.cc/) | 可访问 | 2026-11-06 |
 | [12369](https://icourse.club/user/12369) | [miaoning.space](http://miaoning.space/) | DNS 错误 | 2026-11-06 |
 | [12522](https://icourse.club/user/12522) | [map.bemanicn.com](https://map.bemanicn.com/) | 可访问 | 2026-11-06 |
 | [12531](https://icourse.club/user/12531) | [b23.tv/vdeRcez](https://b23.tv/vdeRcez) | 可访问 | 2026-11-06 |
